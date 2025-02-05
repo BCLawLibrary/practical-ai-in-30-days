@@ -1,10 +1,10 @@
 ---
 day: 1
-title: December 1: Your AI Co-Intelligence Partner 🤝
+title: Day 1: Your AI Co-Intelligence Partner 🤝
 type: prompt
 shareType: resource
 ---
-# Day 1: December 1: Your AI Co-Intelligence Partner 🤝
+# Day 1: Your AI Co-Intelligence Partner 🤝
 ## A Friendly Introduction
 
 ### 🎯 Objective: 
