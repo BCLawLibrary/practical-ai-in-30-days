@@ -1,37 +1,31 @@
----
-day: 6
-title: Day 6: AI Holiday Themed Images
-type: prompt
-shareType: resource
----
-# Day 6: Day 6: AI Holiday Themed Images
-## **Festive Fun!**
+# AI Image Generation with Large Language Models
+## **Creative Visualization!**
 
 ### 🎯 Objective: 
-Learn the basics of creating images with AI with Large Language Models (LLMs)
+Learn the basics of creating images with AI using Large Language Models (LLMs)
 
 ### 🛠️ Tools:
 - [Google Gemini](https://gemini.google.com) (Free)
 - [Google AI Test Kitchen](https://labs.google/fx/tools/image-fx) (Free)
 
 ### 📝 Challenge:
-Today we're going to experiment with creating images using Gemini. You'll be using their Imagen3 model, which is particularly good at illustrations and creative designs. You can create a cheerful holiday-themed image or explore any style that interests you. Here are some themes to spark your imagination:
+Today we're going to experiment with creating images using Gemini. You'll be using their Imagen3 model, which is particularly good at illustrations and creative designs. You can create any type of image that interests you. Here are some themes to spark your imagination:
 
-**Theme 1: Holid"ai"ys**
-- A decorated Christmas tree
-- A cozy winter scene
-- Holiday cookies and treats
-- A snowman
+**Theme 1: Nature & Landscapes**
+- A serene mountain vista
+- A tropical beach scene
+- A mystical forest
+- A vibrant garden
 
 **Example prompt**: 
-Create an illustration of a cheerful snowman wearing a red scarf and holding a candy cane. Use a cute cartoon style with bright colors.
+Create an illustration of a peaceful forest clearing with sunbeams filtering through tall trees. Use a soft, dreamy art style with natural colors.
 
-**Theme 2: E"ai"gle Pride**
-- Baldwin the Eagle spreading holiday cheer
-- Gasson Hall decorated for the season
-- BC's campus in a snow globe
-- Eagles football helmet with holiday decorations
-- Maroon and gold ornaments on Commonwealth Ave
+**Theme 2: BC Campus Life**
+- Baldwin the Eagle in action
+- Gasson Hall at sunset
+- BC's campus scenes
+- Eagles sports moments
+- Commonwealth Ave in different seasons
 
 **Example prompt**:
 Create an illustration of Boston College's Mascot, Baldwin the eagle, Baldwin is standing at the top of Heartbreak hill holding a sign saying "Mile 20, You've got this!"
@@ -52,6 +46,7 @@ Take your favorite image and recreate it with a twist! Try:
 - A different medium
 - An unexpected mood
 Get creative - sometimes the most interesting results come from unusual combinations!
-![Christmas Cookies and Milk on a winter place setting](https://res.cloudinary.com/dt5ug8amw/image/upload/v1733251144/Christmas_Cookies_with_Milk.jpg)
+
+![Fashionable woman wearing streetwear in front of an assortment of tropical potted plants](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850254/Practical%20AI%20Literacy%20Challenges/stylish_streetwear_fashion.jpg)
 ## Image Description
-Made with Midjourney: sketch, Christmas cookies and milk scene, in inky pen styling, minimalistic --chaos 20 --ar 1:1 --style raw --sref 3362174710 https://s.mj.run/9sQtGhWa-rw --weird 5 --v 6.1
+Made with Midjourney: 35mm photo of a person wearing retro streetwear clothes. standing in front of exotic plants. Shot on analog film camera. in the style of surrealistic futuristic. pink and gold color grading --chaos 25 --ar 4:3 --style raw --profile 7bn4kwq --stylize 250

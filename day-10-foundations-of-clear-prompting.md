@@ -1,10 +1,4 @@
----
-day: 10
-title: December 10: Foundations of Clear Prompting 🔮
-type: educational
-shareType: resource
----
-# Day 10: December 10: Foundations of Clear Prompting 🔮
+# Day 10: Foundations of Clear Prompting 🔮
 ## **Mini-lesson day!**
 
 ### 🎯 Objective
@@ -81,32 +75,36 @@ Think about a prompt you’ve tried in the past that didn’t work out like you 
 
 If you need help or inspiration you can take a look at the examples below:
 
-**Example 1: Legal Research** Vague: "Help me understand this case \[insert case name\]."
+**Example 1: Legal Research** 
 
-Clear: "I'm a 1L student at Boston College Law studying Constitutional Law. Please analyze \[insert case name\] attached to this conversation, focusing on:
+**Vague:** "Help me understand this case [insert case name]."
 
-1\. The core constitutional issue
+**Clear:** "I'm a 1L student at Boston College Law studying Constitutional Law. Please analyze [insert case name] attached to this conversation, focusing on:
 
-2\. The Court's reasoning
+1. The core constitutional issue
 
-3\. Its significance for judicial review
+2. The Court's reasoning
 
-\[Important: Attach the case as a PDF or copy and paste relevant sections as part of the conversation\]
+3. Its significance for judicial review
+
+[Important: Attach the case as a PDF or copy and paste relevant sections as part of the conversation]
 
 "
 
-**Example 2: Professional Writing** Vague: "Write a memo about the new work from home policy."
+**Example 2: Professional Writing** 
 
-Better: "As HR Director at \[insert organization here\], I need to communicate our updated hybrid work policy. Here are our current policy documents for reference:
+**Vague:** "Write a memo about the new work from home policy."
 
-- [Current Remote Work Guidelines](https://company-policies/remote-work-2024)  
-- [Office Space Requirements](https://company-policies/office-space)  
-- [Employee Survey Results Q1 2024](https://hr-portal/surveys/hybrid-work)
+**Better:** "As HR Director at [insert organization here], I need to communicate our updated hybrid work policy. Here are our current policy documents for reference:
+
+- [Current Remote Work Guidelines](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
+- [Office Space Requirements](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
+- [Employee Survey Results Q1 2024](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Please draft a memo that:
 
 1. Explains the 3-day in-office requirement  
-2. Outlines flexibility options, referencing our [department guidelines](https://hr-portal/hybrid-work)  
+2. Outlines flexibility options, referencing our [department guidelines](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
 3. Addresses common concerns identified in our recent survey  
 4. Includes next steps, directing staff to our [HR procedures portal](https://www.youtube.com/watch?v=dQw4w9WgXcQ) Use a professional but warm tone, max 500 words, with clear section headings."
 
@@ -173,6 +171,7 @@ LLMs can accurately use and reference links in your prompts\! When including lin
 ### 🔄 Looking Ahead
 
 Start collecting examples of AI responses you particularly like \- they'll be valuable later when we explore how to create custom AI personalities and behaviors\! Later in the week, you'll get access to a special AI assistant designed to help you build your own custom AI assistants. Think about interactions or responses you've received that you'd love to replicate or build upon.
-![A watercolor painting of a snowman on ice skates](https://res.cloudinary.com/dt5ug8amw/image/upload/v1733614331/AI%20Advent%202024/Snowman_With_Skates.png)
+
+![A stack of books](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850253/Practical%20AI%20Literacy%20Challenges/stack_of_books.jpg)
 ## Image Description
-Made with Midjourney: A small, simple watercolor snowman with a cute smil, the snowman is wearing ice skates, soft pastel colors, black background. --chaos 20 --ar 1:1 --style raw --sref https://s.mj.run/C04IY4x3NTY --personalize us3j9yo --v 6.1
+Made with Midjourney: a stack of books --chaos 25 --ar 6:5 --style raw --sref 3539165485 --profile l91zudi --stylize 250

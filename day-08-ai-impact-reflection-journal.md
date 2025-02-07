@@ -1,10 +1,4 @@
----
-day: 8
-title: December 8: AI Impact Reflection Journal 🤔
-type: interactive
-shareType: resource
----
-# Day 8: December 8: AI Impact Reflection Journal 🤔
+# Day 8: AI Impact Reflection Journal 🤔
 ## **Professional Development**
 
 ### 🎯 Objective:

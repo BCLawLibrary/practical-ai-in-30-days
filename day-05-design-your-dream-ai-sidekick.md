@@ -1,10 +1,4 @@
----
-day: 5
-title: December 5: Design Your Dream AI Sidekick 🎭
-type: interactive
-shareType: resource
----
-# Day 5: December 5: Design Your Dream AI Sidekick 🎭
+# Day 5: Design Your Dream AI Sidekick 🎭
 ## **Fun with AI Personalities!**
 
 ### 🎯 Objective: 
@@ -71,6 +65,7 @@ Try these fun exercises with your AI:
 - Sometimes the silliest personas give the best advice!
 
 Share your creations! What personality did you design? What was your funniest interaction? Did they surprise you with any particularly clever responses?
+
 ![Sketch of a snow lined city street](https://res.cloudinary.com/dt5ug8amw/image/upload/v1733361085/AI%20Advent%202024/Snow_Lined_Street.jpg)
 ## Image Description
 Made with Midjourney: sketch, Snow lined city street, in inky pen styling, minimalistic --chaos 20 --ar 1:1 --style raw --sref 3362174710 https://s.mj.run/9sQtGhWa-rw --weird 5 --v 6.1

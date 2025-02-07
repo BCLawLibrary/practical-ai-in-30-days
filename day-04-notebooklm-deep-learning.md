@@ -1,14 +1,8 @@
----
-day: 4
-title: December 4: NotebookLM Deep Learning 🎧
-type: interactive
-shareType: resource
----
-# Day 4: December 4: NotebookLM Deep Learning 🎧
+# Day 4: NotebookLM Deep Learning 🎧
 ## **Educational Innovation**
 
 ### 🎯 Objective: 
-Explore NotebookLM's ability to transform written content into engaging audio discussions while learning about making AI more inclusive and accessible (Listen to the Sully Podcast). **Please note**, this tool is free and available for use, however, you will need to sign up for an account with a personal Gmail account. At this time, access with your BC account is granted on a case by case basis.
+Explore NotebookLM's ability to transform written content into engaging audio discussions while learning about making AI more inclusive and accessible (Listen to the Sully Podcast).
 
 ### 🛠️ Tools:
 - [NotebookLM](https://notebooklm.google.com) (Free)
@@ -53,6 +47,7 @@ Choose one of these pathways:
 - How can AI voices and personalities reflect diverse backgrounds authentically?
 - What stereotypes should we be careful to avoid?
 - How can AI tools make education more accessible to different learning styles?
-![Traditional Poinsettia Plant](https://res.cloudinary.com/dt5ug8amw/image/upload/v1733251079/poinsettia.jpg)
+
+![Sketching of a horned owl on a branch](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850251/Practical%20AI%20Literacy%20Challenges/Owl_on_a_branch.jpg)
 ## Image Description
-Made with Midjourney: sketch, Traditional poinsettia arrangement, in inky pen styling, minimalistic --chaos 20 --ar 1:1 --style raw --sref 3362174710 https://s.mj.run/9sQtGhWa-rw https://s.mj.run/uVDC2dhFrQU --personalize us3j9yo --weird 5 --v 6.1
+Made with Midjourney: an owl on a branch --sref 2142149306 --v 6

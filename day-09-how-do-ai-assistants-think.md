@@ -1,10 +1,4 @@
----
-day: 9
-title: December 9: How do AI Assistants "Think"? 🧠
-type: educational
-shareType: resource
----
-# Day 9: December 9: How do AI Assistants "Think"? 🧠
+# Day 9: How do AI Assistants "Think"? 🧠
 ## Mini-lesson day!
 
 ### 🎯 Objective
@@ -45,7 +39,7 @@ These concepts matter because:
 - The AI can only work with what's in its current context window.  
 - Earlier parts of very long conversations may get "pushed out" of view and forgotten.  
 - You might need to occasionally remind the AI of important details from earlier.  
-- The more relevant context you provide within the window, the better the responses.
+- The more relevant and high quality context you provide within the window, the better the responses.
 
 Even though generative AI tools are programs, sometimes it can be helpful to think of them as having a conversation with a knowledgeable colleague or friend who:
 
@@ -114,7 +108,7 @@ Large Language Models (LLMs) operate within fixed token limits, which define the
 
 - **ChatGPT**: Can handle up to 128,000 tokens, depending on the version.  
 - **Claude**: Supports up to 200,000 tokens, which can encompass entire books.  
-- **Gemini**: Offers token limits up to 2,000,000 potentially fitting the entire "Harry Potter" series into a single conversation.
+- **Gemini**: Offers token limits up to 2,000,000 easily fitting the entire "Harry Potter" series into a single conversation.
 
 #### Hands-On Exploration:
 
@@ -198,6 +192,7 @@ Compare the responses and note the differences in quality and relevance.
 - Front-load important information.  
 - If you get an unexpected response, try providing more context.  
 - Remember: these are prediction engines, not knowledge databases.
-![Gingerbread man watercolor painting on a dark background. ](https://res.cloudinary.com/dt5ug8amw/image/upload/v1733614331/AI%20Advent%202024/Gingersnap.png)
+
+![Over the shoulder painting of a bulldog providing therapy to a woman](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850249/Practical%20AI%20Literacy%20Challenges/bulldog_therapist.jpg)
 ## Image Description
-Made with Midjourney: A small, simple watercolor gingersnap cookie with a cute smile, soft pastel colors, black background. --chaos 20 --ar 1:1 --style raw --sref https://s.mj.run/C04IY4x3NTY --personalize us3j9yo --v 6.1
+Made with Midjourney: An oil painting capturing a female French Bulldog therapist talking to a client, over the shoulder perspective, client from behind --chaos 20 --ar 1:1 --style raw --sref 1777125610 --profile rpyy4to

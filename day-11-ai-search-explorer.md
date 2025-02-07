@@ -1,10 +1,4 @@
----
-day: 11
-title: December 11: AI Search Explorer 🔍
-type: interactive
-shareType: resource
----
-# Day 11: December 11: AI Search Explorer 🔍
+# Day 11: AI Search Explorer 🔍
 ## **AI-Powered Search in Action!**
 
 ### 🎯 **Objective:**
@@ -21,7 +15,7 @@ Learn how AI-powered search tools differ from traditional search engines and und
 
 AI language models are trained up to certain dates, meaning they may not know about events or data beyond these points. Here are some current knowledge cutoffs:
 
-- **GPT-4o:** [October 2023](https://platform.openai.com/docs/models)
+- **GPT-4o:** [June 2024](https://help.openai.com/en/articles/9624314-model-release-notes)
 - **Claude 3.5 Sonnet:** [April 2024](https://docs.anthropic.com/en/docs/about-claude/models)
 - **Gemini:** [August 2024](https://aistudio.google.com/prompts/new_chat)
 
@@ -29,16 +23,18 @@ These cutoffs highlight why AI-powered search tools like Perplexity and ChatGPT 
 
 **Getting Around Knowledge Cutoffs**
 
-A knowledge cutoff doesn't prevent a model from discussing current topics intelligently. You just have to be aware that for bleeding-edge content, it's best if you supply the specific information, articles, or data related to your query as part of your chat to give the AI context. Or if you know a model has internet search capabilities provided by the features offered in the platform:
+A knowledge cutoff doesn't prevent a model from discussing current topics intelligently. You just have to be aware that for bleeding-edge content, it's best if you supply the specific information, articles, or data related to your query as part of your chat to give the AI context. 
+
+Alternatively, if you know a model has internet search capabilities provided by the features offered in the platform, it may intelligently use the internet to answer your question. You can also directly ask an AI chat assistant with these capabilities to use it's search tool if it's available. Here are some of the platforms that offer internet search:
 
 - **ChatGPT:** Great for conversational AI and browsing capabilities.
-- **Google Search with AI Overview:** Integrates AI summaries into traditional search.
+- **Google Search with AI Overview:** Integrates AI summaries into traditional Google search.
 - **Perplexity:** Searches the internet to give you an accessible, conversational, and verifiable answer.
   - Note: Perplexity uses one of the common foundational models to summarize and synthesize material. You can choose GPT-4o, Claude, etc. in your settings (a paid plan is required to choose).
 - **Gemini:** Evaluate and cite responses with the "Double Check Responses" feature.
-- **Claude:** Notably, at this time, Claude does not have access to the internet in the chat interface.
-
-Then you can ask the model to use its search capabilities or provide a link for it to crawl.
+- **Mistral:** A French model that has internet search capabilities.
+- **DeepSeek:** A Chinese model that has internet search capabilities.
+- **Claude:** Notably, at this time, Claude **does not** have access to the internet in the chat interface.
 
 ---
 
@@ -60,17 +56,16 @@ Choose one of these exploration paths to dive into AI-powered search!
 - **Step 1:** Select a current topic or trend you want to explore.
 - **Step 2:** Run an initial broad search on Perplexity or ChatGPT.
 - **Step 3:** Use the results to ask more specific follow-up questions.
-- **Step 4:** Notice how the tool connects different sources and handles conflicting information.
+- **Step 4:** Notice how the tool connects different sources and handles synthesizing information.
 
 ---
 
 ## 💡 **Tips for Success:**
 
 - **Source Quality:** Pay attention to the sources cited. Are they reputable?
-- **Comparison:** Try the same query on both Perplexity and ChatGPT to compare results.
 - **Verification:** Always double-check critical information, especially for professional or academic purposes.
 - **Synthesis:** Notice how AI synthesizes data compared to traditional search engines.
-- **Citations:** Use the "Ask for sources" or "Find citations" features when available.
+- **Citations:** Most platforms cite sources now. If not, use the "ask for sources" , "verify sources" or other similar features when available.
 
 ---
 
@@ -91,6 +86,6 @@ AI search tools offer incredible potential for aggregation and synthesis, but th
 **Happy exploring! 🌐🔍**
 
 
-![A raccoon wearing a red winter jacket on ice skates](https://res.cloudinary.com/dt5ug8amw/image/upload/v1733614331/AI%20Advent%202024/ice_Skating_Raccoon.png)
+![Abstract art of a man standing in ruins looking at the night sky](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850251/Practical%20AI%20Literacy%20Challenges/Making_space.jpg)
 ## Image Description
-Made with Midjourney: https://s.mj.run/gkNpupB6NDA A small, simple watercolor raccoon, the raccoon is wearing ice skates, soft pastel colors, black background. --chaos 20 --ar 1:1 --style raw --sref https://s.mj.run/C04IY4x3NTY --personalize us3j9yo --stylize 250 --v 6.1
+Made with Midjourney: making space --ar 74:63 --sref 3552739730 --stylize 1000 --v 6

@@ -1,9 +1,3 @@
----
-day: 1
-title: Day 1: Your AI Co-Intelligence Partner 🤝
-type: prompt
-shareType: resource
----
 # Day 1: Your AI Co-Intelligence Partner 🤝
 ## A Friendly Introduction
 
@@ -21,16 +15,18 @@ Note: All of these tools have a free tier.
 ### 📝 Challenge:
 Ask an AI how it could support your studies, work, or hobbies. 
 
-Sample prompts:
-1. "I'm a [your role] at [Boston College Law School]. What are 3 ways AI could help me with my daily tasks?"
+**Sample prompts:**
+1. "I'm a [your role] at [_Boston College Law School_ OR _your organization_]. What are 3 ways AI could help me with my daily tasks?"
 2. "Help me brainstorm one new way to use AI in my work or personal life this week."
 3. "Help me identify one AI skill I could develop this month that would be valuable for my legal career."
 
-💡 Tip: Treat this like a conversation 
+💡 **Tip:** Treat this like a conversation 
+- Ask the AI to be proactive and ask questions to help tailor the recommendations to your needs
 - Follow up on one of the AI’s suggestions 
 - Ask for more examples or dive deeper into how it works
 - Give more context about yourself to get more detailed and tailored responses
-- Ask the AI to be proactive and ask questions to help tailor the recommendations to your needs
-![Snowman wearing a top hat and coat](https://res.cloudinary.com/dt5ug8amw/image/upload/v1733231221/Snowman.jpg)
+
+
+![Digital illustration of a sprout growing into a circuit board tree](https://res.cloudinary.com/dt5ug8amw/image/upload/v1733231221/Snowman.jpg)
 ## Image Description
-Made with Midjourney: "sketch, snowman wearing a tophat, in inky pen styling, minimalistic --chaos 20 --ar 1:1 --style raw --sref 3362174710 https://s.mj.run/9sQtGhWa-rw https://s.mj.run/uVDC2dhFrQU --personalize us3j9yo --weird 5 --v 6.1"
+Made with [Imagen3](https://labs.google.com/fx/tools/image-fx): "a small green sprout emerging from the ground, with a simple, gently curved stem and two small, minimalist leaves. The sprout then seamlessly transitions upwards into a stylized tree trunk that becomes increasingly geometric and digital, culminating in an upper portion where the branches are formed by clean, geometric lines resembling a circuit board pattern, with simplified, abstract representations of leaves made from small, angular shapes connected to the circuit-branches. The entire design will utilize a limited color palette, primarily soft green for the sprout, transitioning into a darker, more vibrant green for the circuit-tree portion, against a neutral background."

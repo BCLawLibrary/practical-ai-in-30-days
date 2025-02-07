@@ -1,10 +1,4 @@
----
-day: 3
-title: December 3: AI Poetry Corner 💝
-type: prompt
-shareType: resource
----
-# Day 3: December 3: AI Poetry Corner 💝
+# Day 3: AI Poetry Corner 💝
 ## **Express yourself through verse!**
 
 ### 🎯 Objective: 
@@ -28,6 +22,6 @@ Create a personal poem for someone special using these formats:
 **Example prompt**: "Help me write a haiku for my sister who always supported my dreams. She loves gardening and makes the best chocolate chip cookies. I want to thank her for always being there for me."
 
 **💡 Tip**: Include specific details about the person - their hobbies, memorable moments, inside jokes, or unique qualities. The more personal details you provide, the more meaningful the poem will be!
-![Two candy canes in an illustrated style](https://res.cloudinary.com/dt5ug8amw/image/upload/v1733235443/candy-canes.jpg)
+![Digital art of a circular tessellation of fish](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850254/Practical%20AI%20Literacy%20Challenges/tesselated_Fish.jpg)
 ## Image Description
-Made with Midjourney: sketch, Classic red and white striped candy canes, in inky pen styling, minimalistic --chaos 20 --ar 1:1 --style raw --sref 3362174710 https://s.mj.run/9sQtGhWa-rw --weird 5 --v 6.1
+Made with Midjourney: Tessellating fish in Escher-style circular limit, shrinking towards the edge, hyperbolic geometry --sref 2738729149 --profile stsnkyz
