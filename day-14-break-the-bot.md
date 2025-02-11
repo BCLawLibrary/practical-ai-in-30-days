@@ -1,10 +1,4 @@
----
-day: 14
-title: December 14: Break the Bot! 🤖
-type: interactive
-shareType: resource
----
-# Day 14: December 14: Break the Bot! 🤖
+# Day 14: Break the Bot! 🤖
 ## **Fun with AI Limitations**
 
 ### **🎯 Objective:**
@@ -115,6 +109,6 @@ These experiments help us understand:
 **Remember:** The goal isn't to "break" the AI maliciously, but to understand its capabilities and limitations through fun experimentation!
 
 
-![A watercolor painting of a cardinal on a snowy branch](https://res.cloudinary.com/dt5ug8amw/image/upload/v1734033261/AI%20Advent%202024/Watercolor_cardinal_on_a_branch.jpg)
+![Two sloths wearing tie-die shirts](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850252/Practical%20AI%20Literacy%20Challenges/Sloth_Friends.jpg)
 ## Image Description
-Made with Midjourney: A small, simple watercolor a cardinal with a cute smile, the cardinal is perched on a snowy branch, soft pastel colors, black background. --chaos 20 --ar 1:1 --style raw --sref https://s.mj.run/C04IY4x3NTY --personalize us3j9yo --v 6.1
+Made with Midjourney: Two young sloth cousins, dressed in oversized, brightly colored t-shirts, are posed against a backdrop of iridescent glitter glued haphazardly to a piece of black construction paper. The glitter is also liberally applied to their fur, creating a thick, sticky mess. The lighting is dim and uneven, highlighting the texture of the glitter and the glue. One sloth is attempting a half-hearted thumbs-up, while the other stares blankly ahead, a trail of glitter glue dripping from its chin. Their expressions are apathetic and dazed, reflecting the slow, deliberate nature of sloths. The overall image evokes a sense of forced craftiness and juvenile messiness, amplified by the inherently slow-moving nature of the sloths.

@@ -1,10 +1,4 @@
----
-day: 24
-title: 🎄 December 24: Final Day! A Journey Through AI, Reflections, and Next Steps
-type: prompt
-shareType: resource
----
-# Day 24: 🎄 December 24: Final Day! A Journey Through AI, Reflections, and Next Steps
+# Day 24: Final Day! A Journey Through AI, Reflections, and Next Steps
 ## **🎯 Objective:**
 
 Celebrate your progress, reflect on your learning journey, and prepare for continued growth with AI tools.
@@ -19,7 +13,7 @@ If you've made it through all 24 days, give yourself a huge pat on the back. You
 
 ## **📝 Challenge: Set Your AI Journey Goals**
 
-Use this advent calendar as a launchpad for growth. Here's how to structure your planning:
+Use this calendar of AI activitiesas a launchpad for growth. Here's how to structure your planning:
 
 ### Personal Development Goals
 
@@ -49,7 +43,7 @@ Identify 3 ways to thoughtfully incorporate AI into:
 4. Potential risks to mitigate
 5. Success metrics to track
 
-Consider my role as [your role] and my goal to [specific objective].Ask me additional questions to help you tailor your plan for me as you see fit."
+Consider my role as [your role] and my goal to [specific objective]. Ask me additional questions to help you tailor your plan for me as you see fit."
 ```
 
 ---
@@ -65,28 +59,28 @@ I like the analogy my colleague, Tim Lindgren, uses which is to think of AI as a
 1. **What problems can AI help me solve?**  
    How can your domain expertise and unique insights help you ask better questions and build better systems?
 
-2. **How can I build my AI muscle?**  
+2. **How can I build my AI 'muscle'?**  
    Like any skill, using AI effectively requires practice, experimentation, and iteration.
 
 3. **What role should AI play in my life?**  
-   Everyone's relationship with AI is different. Whether it's an occasional assistant or a daily collaborator, find what works for you.
+   Everyone's relationship with AI is different. Whether it's an occasional assistant or a daily collaborator, over time you'llfind what works for you.
 
 ---
 
 ## **💡 My Biggest Tips & Takeaways**
 
-If you're still unsure about AI or struggling to see where it fits into your work, here's my most important advice: start by using AI to get feedback on your work. This is the lowest-hanging fruit that most people overlook. Even if you don't end up using AI's suggestions directly, asking for feedback with proper context will almost always spark ideas to move you in a helpful direction.
+If you're still unsure about AI or struggling to see where it fits into your work, here's my most important suggestion: start by using AI to get feedback on your work. This is the lowest-hanging fruit that most people overlook. Even if you don't end up using AI's suggestions directly, asking for feedback with proper context will almost always spark ideas to move you in a helpful direction.
 
-A few key takeaways from my AI journey:
+Here are some other takeaways from my AI journey:
 
-- AI isn't overhyped, but its value is deeply personal \- shaped by your unique context, expertise, and goals. What makes AI transformative for one person might make it merely useful for another.  
-- Your creativity and ingenuity in surfacing relevant knowledge, resources, and context for AI tools will set you apart. Think of yourself as an orchestrator, bringing together the right pieces for AI to work with.  
+- AI isn't overhyped, but its value is deeply personal \- shaped by your unique context, expertise, and goals. You will most likely find that AI is transformative for one task or purpose, simply useful or mediocre in others, and even downright useless, anti-productive, or harmful for others.  
+- Your creativity and ingenuity in surfacing relevant knowledge, resources, and context for AI tools will set you apart. Think of yourself as an orchestrator, bringing together the right pieces of content and information at the right time for AI to work with.  
 - The ability to curate and structure information for LLMs is, for now, a crucial skill. The difference between basic and exceptional AI use often lies in how well you can feed it the right context.  
 - The real magic happens when you shift from seeking output to seeking input. Use AI to refine and challenge your ideas, not just generate content.  
 - Build your AI intuition gradually. Start with small experiments, learn from the surprises (both good and bad), and keep iterating.  
 - Scale your thinking. Instead of tweaking one email, generate dozens of variations. Rather than brainstorming a few ideas, explore hundreds of possibilities. LLMs thrive on scale—tap into their capacity to explore an entire universe of options quickly and effortlessly.  
 - AI isn't a mindreader \- the art of effective prompting is about clearly communicating your needs and requirements. The more specific you are about what you want, the better your results will be.  
-- Don’t forget, AI can be fun\! Embrace the playful side of AI. Try out different personas, write silly stories, or frame questions through the lens of your favorite characters. Often, the best explanations and insights come from these more creative, unconventional approaches.
+- Don’t forget, AI can be fun\! Embrace the playful side of AI. Try out different personas, write silly stories, or frame questions through the lens of your favorite characters. Sometimes, the best explanations and insights come from these more creative, unconventional approaches.
 
 ---
 
@@ -104,8 +98,9 @@ A few key takeaways from my AI journey:
 
 **Boston College Community Access:**
 
-* [Microsoft Copilot](https://copilot.microsoft.com) (Available with BC credentials)  
-* [Gemini](https://gemini.google.com) (Available with BC credentials)
+* [Microsoft Copilot](https://copilot.microsoft.com) (Free access available with BC credentials)  
+* [Gemini](https://gemini.google.com) (Free access available with BC credentials)
+* [NotebookLM](http://notebooklm.google.com) (Free access available with BC credentials)
 
 **Boston College Law School Access:**
 
@@ -113,10 +108,10 @@ A few key takeaways from my AI journey:
 
 **Premium Options to Consider:** When you're ready to take your AI usage to the next level, consider investing in a premium tier of your preferred platform. For approximately $20/month, you can access:
 
-* Higher rate limits  
+* Higher rate limits and access to the most advanced models  
 * Longer conversations  
-* Advanced features like custom GPTs, projects, personalization, or advanced Voice with ChatGPT  
-* Multimodal capabilities (files/image/code/data analysis)  
+* Advanced features like custom GPTs, projects, personalization, code execution, data analysis, or advanced Voice with ChatGPT  
+* Multimodal capabilities (files/image/audio/video)  
 * Priority access during peak times
 
 My recommendation? Start with the free tiers to discover which interface and capabilities best match your needs. Once you've identified your preferred platform and are consistently pushing against free tier limits, or find that free tier features are not meeting your needs, that's the time to consider a premium subscription. The productivity gains and quality of life improvements can far outweigh the cost for regular users.
@@ -132,7 +127,7 @@ This isn't the end—it's a beginning. The tools, tips, and lessons you've explo
 - Stay curious and keep learning  
 - Focus on using AI to augment, not replace, your skills
 
-Let's make the next year one of growth, curiosity, and creativity. Happy holidays, and may your journey with AI continue to inspire and empower you\! 🎉
+Let's continue to adopt a mindset of growth, curiosity, and creativity. May your journey with AI continue to inspire and empower you\! 🎉
 
 ---
 
@@ -208,6 +203,7 @@ Important cautionary and analytical views:
 ## **📚 Additional Resources**
 
 - [Top Hat](https://tophat.com/teaching-resources/webinars-and-videos/) \- Educational resources and implementation guides
-![Watercolor of a Highland Cow wearing a santa hat and adorned with a colorful christmas light necklace.](https://res.cloudinary.com/dt5ug8amw/image/upload/v1734182761/AI%20Advent%202024/Highland_Cow.jpg)
+
+![A lighthouse in a vector logo style](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850249/Practical%20AI%20Literacy%20Challenges/Lighthouse_Logo.jpg)
 ## Image Description
-Made with Midjourney: Watercolor painting, profile portrait of a highland cow on a white background, the cow is wearing a santa hat and a necklace made of colorful Christmas lights. --chaos 25 --ar 1:1 --style raw --profile qaj1k1t --stylize 750 --v 6.1
+Made with Midjourney: lighthouse logo --chaos 25 --ar 6:5 --style raw --profile 7bn4kwq --stylize 250

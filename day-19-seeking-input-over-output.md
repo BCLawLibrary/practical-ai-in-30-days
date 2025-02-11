@@ -1,13 +1,9 @@
----
-day: 19
-title: December 19: Seeking Input over Output
-type: prompt
-shareType: image
----
 # Day 19: December 19: Seeking Input over Output
 **Finding Meaning with AI**
 
-Today we're taking a moment to explore two thought-provoking perspectives that challenge how we think about AI integration. Ethan Mollick, a leading voice on the practical use of AI, has written an insightful piece that captures a balanced, nuanced view of how AI can best support our expertise. His article, linked below, outlines scenarios where AI shines and where it falls short. This isn’t just a "how-to"; it’s a guide for *thinking differently* about AI. Meanwhile, Rhea Purohit encourages us to move beyond mere efficiency to find deeper meaning in our AI interactions. Their insights feel especially relevant now that we've spent time experimenting with various AI tools and techniques. Take some time today to read these pieces and reflect on how they might reshape your approach to AI partnership.
+Today we're taking a moment to explore two thought-provoking perspectives that challenge how we think about AI integration. Ethan Mollick, a leading voice on the practical use of AI, has written an insightful piece that captures a balanced, nuanced view of how AI can best support our expertise. His article, linked below, outlines scenarios where AI shines and where it falls short. This isn’t just a "how-to"; it’s a guide for *thinking differently* about AI. 
+
+Meanwhile, Rhea Purohit encourages us to move beyond mere efficiency to find deeper meaning in our AI interactions. Their insights feel especially relevant now that we've spent time experimenting with various AI tools and techniques. Take some time today to read these pieces and reflect on how they might reshape your approach to AI partnership.
 
 ---
 🎯 **Objective:**  
@@ -73,6 +69,7 @@ The key is to treat this as a real conversation - respond naturally to the AI's 
 - How might shifting from "output-first" to "input-first" change your relationship with AI?  
 - What parts of your work do you want to protect and enhance rather than automate?  
 - How could AI help you spend more time on what matters most to you?
-![A surreal artistic photograph showing a person's bare feet standing in snow, with their body replaced by an ethereal Christmas tree-shaped explosion of colorful smoke and glitter in pink, purple, orange, and blue hues.](https://res.cloudinary.com/dt5ug8amw/image/upload/v1734182833/AI%20Advent%202024/surreal_tree_square.jpg)
+
+![A surreal artistic illustration of a rabbit sitting next to a tree stump, with clocks and hourglasses floating in the background.](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850252/Practical%20AI%20Literacy%20Challenges/Rabbit_Time_Warp.jpg)
 ## Image Description
-Made with Midjourney: Cinematic Still, A christmas tree in a snowy forest opening, the tree is adorned with fancy color ornaments and tinsel, golden hour, snow covers the forest floor. 35mm --chaos 20 --ar 1:1 --style raw --sref 2963077458 --personalize 5luv3fa --sw 300 --stylize 500 --v 6.1
+Made with Midjourney: digital illustration, a rabbit sits next to a tree stump, the tree stump has a portal to another time, clocks and hourglasses float in the background --chaos 25 --ar 4:3 --style raw --sref 3500888721 --profile 8rqt991 qfbz31g

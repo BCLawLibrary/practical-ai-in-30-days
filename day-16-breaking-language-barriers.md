@@ -1,14 +1,8 @@
----
-day: 16
-title: December 16: Breaking Language Barriers 🌎
-type: interactive
-shareType: resource
----
-# Day 16: December 16: Breaking Language Barriers 🌎
+# Day 16: Breaking Language Barriers 🌎
 ## Language Learning & Cross-Cultural Communication
 
 ### 🎯 Objective:
-Master AI tools for translation, language learning, and cross-cultural communication to enhance accessibility and reach global audiences.
+Explore AI tools for translation, language learning, and cross-cultural communication to enhance accessibility and reach global audiences.
 
 ### **💪The Power of AI in Translation**
 
@@ -108,6 +102,7 @@ Bring a piece of text to life with ElevenLabs! Create an audio version of:
 Generate a translation with an AI assistant, then use ElevenLabs to voice it in another language.
 
 The possibilities are endless! Experience how AI can turn written content into dynamic, expressive audio. When used appropriately AI can deepen understanding and connection across cultures and languages.
-![Family of baby hippos in sweaters and Santa Hats sitting on a couch for a photo shoot](https://res.cloudinary.com/dt5ug8amw/image/upload/v1734182781/AI%20Advent%202024/hippo_christmas_shoot.jpg)
+
+![A woman holding an umbrella standing in a glass box in the middle of the street](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850251/Practical%20AI%20Literacy%20Challenges/Mood.jpg)
 ## Image Description
-Made with Midjourney: Sears photoshoot, family of baby hippos celebrating Christmas, the animals are wearing Christmas sweaters and santa hats, there are Christmas decorations in the background. 35mm f/4, kodak portra, faded film --chaos 25 --ar 5:4 --style raw --personalize grwo67u --weird 100 --v 6.1
+Made with Midjourney: Mood --chaos 10 --ar 2:3 --profile fyitkl7 --stylize 400 --weird 10 --v 6

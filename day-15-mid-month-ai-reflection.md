@@ -1,13 +1,7 @@
----
-day: 15
-title: December 15: Mid-Month AI Reflection 📖
-type: interactive
-shareType: resource
----
-# Day 15: December 15: Mid-Month AI Reflection 📖
+# Day 15: Mid-Month AI Reflection 📖
 ### **🎯 Objective:**
 
-Pause and reflect on your AI journey so far, identifying key insights, challenges, and areas for growth as you head into the second half of the advent calendar.
+Pause and reflect on your AI journey so far, identifying key insights, challenges, and areas for growth as you head into the second half of the AI calendar.
 
 ### **🛠️ Tools:**
 
@@ -52,9 +46,6 @@ This past week focused on AI literacy, exploring new search tools, and refining 
 * **Consider Growth**: How has your confidence or understanding of AI tools changed?  
 * **Set Intentions**: Identify one practical way you plan to use AI more effectively in the next week.
 
-### **✨ Bonus Challenge:**
-
-Share one key insight from your reflection with a colleague, classmate, or on social media (tag @bclawlibrary). Discuss how your experiences align or differ.
-![faded photo of a snowy road at the north pole. There are people seen in the distance. It's a clear and sunny day.](https://res.cloudinary.com/dt5ug8amw/image/upload/v1734182718/AI%20Advent%202024/North_Pole.jpg)
+![watercolor painting of a fox curled up sleeping in a forest](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850250/Practical%20AI%20Literacy%20Challenges/curled_up_fox.jpg)
 ## Image Description
-Made with Midjourney: wide angle photo, the north pole. Faded Filmstock, dreamy --chaos 20 --ar 3:2 --style raw --sref 1878938910 --personalize us3j9yo --stylize 200 --v 6.1
+Made with Midjourney: A fox curled up under a tree, watercolor illustration, soft pastel hues, delicate brushstrokes, a dreamy and serene atmosphere --chaos 25 --ar 6:5 --style raw --profile 8rqt991 --stylize 250

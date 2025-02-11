@@ -1,10 +1,4 @@
----
-day: 13
-title: December 13: Effective Prompting II - The Art of Step-by-Step Reasoning 🧠
-type: educational
-shareType: resource
----
-# Day 13: December 13: Effective Prompting II - The Art of Step-by-Step Reasoning 🧠
+# Day 13: Effective Prompting II - The Art of Step-by-Step Reasoning 🧠
 ## **Mini-lesson Day: Show Your Work!**
 
 ### 🎯 Objective
@@ -147,6 +141,7 @@ Remember that AI assistants can be collaborative thinking partners. Try:
 - Getting them to identify potential weaknesses in their reasoning
 
 This approach helps create a more robust analysis and often leads to unexpected insights!
-![A snowflake in cartoon style with a cute smile and rosy cheeks](https://res.cloudinary.com/dt5ug8amw/image/upload/v1733614332/AI%20Advent%202024/Snowflake_with_a_cherry.png)
+
+![A giant jellyfish floating above a salt flat desert](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850254/Practical%20AI%20Literacy%20Challenges/Surreal_Desert_Jellyfish.jpg)
 ## Image Description
-Made with Midjourney: A small, simple watercolor snowflake with a cute smile, decorated with a cherry, soft pastel colors, black background. --chaos 20 --ar 1:1 --style raw --sref https://s.mj.run/C04IY4x3NTY --personalize us3j9yo --v 6.1
+Made with Midjourney: Surrealist art, otherworldly jellyfish suspended mid-air over a cracked desert floor, muted cyan with translucent details, desert sunset with sci-fi undertones. --chaos 25 --ar 6:5 --style raw --profile 7bn4kwq --stylize 250

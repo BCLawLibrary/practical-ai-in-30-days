@@ -1,10 +1,4 @@
----
-day: 22
-title: December 22: Organizing your Knowledge Base 📚
-type: educational
-shareType: resource
----
-# Day 22: December 22: Organizing your Knowledge Base 📚
+# Day 22: Organizing your Knowledge Base 📚
 ## **Mini-lesson day\!**
 
 ### **🎯 Objective**
@@ -26,8 +20,6 @@ Choose one or more platforms to organize your knowledge:
 - [Claude.ai Projects](https://claude.ai) (Requires subscription)  
 - [ChatGPT Projects/Custom GPTs](https://chat.openai.com) (Requires subscription)  
 - [NotebookLM](https://notebooklm.google.com) (Free)
-
-**Important Note:** You'll need to use a personal Gmail account as BC Google Workspace accounts cannot access NotebookLM at this time. While you can't use your BC email, you can still explore the tools using any personal Google account.
 
 ### **🖍️ Core Concepts**
 
@@ -61,7 +53,7 @@ Pick one of these starter projects:
    - Key papers  
    - Notes  
    - Research questions  
-3. A custom copy editor and ghostwriter trained in your writing style (My personal go to)  
+3. A custom copy editor and ghostwriter trained in your writing style (My personal go to custom assistant)  
    - Examples of the writing style(s) you want help replicating  
    - Examples of writing you aspire to  
    - Separate documents for each style of writing  
@@ -210,6 +202,7 @@ When in doubt, it's always best to check the documentation of the tool you're us
 2. What structure works best for your specific needs?  
 3. What could you improve in your organization?  
 4. How might others use this knowledge?
+5. Did adding documents to your knowledge base improve or harm model response quality?
 
 Remember: The goal is to help AI tools better understand and use your information, not to create perfect documentation. Start simple, test often, and improve gradually based on actual usage.
 
@@ -227,15 +220,16 @@ You can include URLs in two ways:
 1. Plain links: `https://example.com/documentation`  
 2. Markdown format: `[Documentation Link](https://example.com/documentation)`
 
-Both formats work well \- use whichever you prefer\!
+Both formats generally work well \- use whichever you prefer\!
 
 Example use cases:
 
-- "For more information about X, you can visit [our documentation](https://docs.example.com)"  
-- "Reference guide: [https://example.com/guide](https://example.com/guide)"  
-- "Please see the following resources: [Getting Started](https://example.com/start), [FAQs](https://example.com/faqs)"
+- "For more information about {topic}, you can visit \[our documentation\]\(https://docs.example.com)"  
+- "Reference guide: \[https://example.com/guide\]\(https://example.com/guide)"  
+- "Please see the following resources: \[Getting Started\]\(https://example.com/start), \[FAQs\]\(https://example.com/faqs)"
 
 💡 **Pro Tip**: When adding URLs to your knowledge base, include a brief description of what users will find at each link. This helps the AI provide more contextual and helpful responses.
-![A reindeer with large antlers and sleigh bells, the reindeer are in Boston Common at night. It's snowing heavily](https://res.cloudinary.com/dt5ug8amw/image/upload/v1734182803/AI%20Advent%202024/reindeer_in_a_park.jpg)
+
+![An ink pen sketch of a retro computer](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850252/Practical%20AI%20Literacy%20Challenges/Retro_Computer_Sketch.jpg)
 ## Image Description
-Made with Midjourney: Street Photography, Reindeer with large antlers and sleighbells, the reindeer are in Boston Common at night. It's snowing heavily. Shot from a low angle with a wide-angle lens (24mm), f/2.8 aperture to blur the background, capturing the bustling city atmosphere. Shallow depth of field, natural light, overcast, long exposure. --chaos 20 --ar 5:4 --style raw --profile us3j9yo --stylize 250 --weird 100 --v 6.1
+Made with Midjourney: sketch, retro computer, in inky pen styling, minimalistic --chaos 20 --ar 1:1 --style raw --sref 3362174710 https://s.mj.run/9sQtGhWa-rw --profile us3j9yo --stylize 1000 --weird 5

@@ -1,10 +1,5 @@
----
-day: 20
-title: December 20: More Image Fun and Putting everything together!
-type: interactive
-shareType: resource
----
-# Day 20: December 20: More Image Fun and Putting everything together!
+# Day 20: More Image Fun and Putting everything together!
+
 Today’s activity is a two-parter: first, you'll dive deeper into the world of AI image generation. Then, you'll pull together everything you've learned in this advent calendar to create a complete project.
 
 ---
@@ -63,7 +58,7 @@ Explore advanced image generation tools and techniques, then apply your AI skill
 
 **Bonus: Midjourney Customization**
 
-If you decide to try Midjourney, I highly recommend taking a moment to familiarize yourself with their [customization parameters](https://docs.midjourney.com/docs/parameter-list). There are a lot of ways to experiment and tweak your results. It’s my personal favorite tool but it does take some time to get used to. You can see how I use them in the descriptions for each advent day.
+If you decide to try Midjourney, I highly recommend taking a moment to familiarize yourself with their [customization parameters](https://docs.midjourney.com/docs/parameter-list). There are a lot of ways to experiment and tweak your results. It’s my personal favorite tool but it does take some time to get used to. You can see how I use them in the descriptions for each calendar day.
 
 ---
 
@@ -75,14 +70,14 @@ Now that you've explored image generation, let’s combine your AI skills for a 
 
 #### **Overview**:
 
-Create a children's story with custom illustrations, perfect for sharing with family or friends over the winter break. This project combines narrative development, character design, and visual storytelling.
+Create a children's story with custom illustrations, perfect for sharing with family or friends any time of year. This project combines narrative development, character design, and visual storytelling.
 
 #### **Workflow Guide**
 
 1. **Story Development**
     * Start with ChatGPT or Claude to brainstorm story concepts.
     * Consider themes like:
-        * Winter adventures
+        * Seasonal adventures
         * Holiday traditions from different cultures
         * Educational topics made fun
         * Family experiences
@@ -91,7 +86,7 @@ Create a children's story with custom illustrations, perfect for sharing with fa
     * Use your image generator of choice to visualize characters.
     * See if you can maintain consistent style across illustrations 
         * Note: This is notoriously difficult to do with most free image generators. Although, Midjourney provides both ```--sref``` and ```--cref``` parameters to influence style and character references. Also, the new and free [Google Whisk](https://labs.google/fx) image creator allows you to mix and match characters, styles and scenes as well!
-        * Pro tip: Generate the same character in different poses to ensure consistency by asking for a pose or expression sheet.
+        * **Pro tip:** Generate the same character in different poses to ensure consistency by asking for a pose or expression sheet.
 3. **Scene Planning**
     * Break story into key moments.
     * Work on one scene at a time.
@@ -108,7 +103,7 @@ Take a presentation you've already created and use AI to enhance it with fresh p
  #### **Quick Start Guide**
 
 1. Choose an existing presentation or lecture you'd like to enhance.
-2. Copy your notes, outline, or even just explain your topic to an AI assistant.
+2. Copy your notes, outline, or simply explain your topic to an AI assistant.
 3. Let AI help generate fresh perspectives and visual ideas.
 4. Add engaging visuals and data elements.
 
@@ -118,7 +113,7 @@ Take a presentation you've already created and use AI to enhance it with fresh p
     * Existing presentation notes
     * Rough outline
     * Key talking points
-    * Or simply explain your topic to the AI
+    * Clearly explain your topic to the AI
 2. **Easy Enhancement Process** Start a new chat and try:
     * "I have a presentation about [your topic]. Here are my current notes: [paste notes]"
     * "Can you suggest a fresh outline based on these key points?"
@@ -145,18 +140,19 @@ Take a presentation you've already created and use AI to enhance it with fresh p
 * Upload a screenshot of your slides and ask for tips for improvement to design, content, or both\!
 * Remember: AI is enhancing your existing work, not replacing it\!
 
-**Remember**: These projects are meant to be fun learning experiences. Don't aim for perfection \- focus on experimenting with different tools and techniques you've learned throughout the month. The goal is to understand how different AI tools can work together to enhance your creative process.
+**Remember**: These projects are meant to be fun learning experiences. Don't aim for perfection \- focus on experimenting with different tools and techniques you've learned throughout the previous activities. The goal is to understand how different AI tools can work together to enhance your creative process.
 
 ## **💡 Connect to Previous Learning:**
 
-* [Use custom AI assistants (December 17) for repetitive tasks](https://ai-advent-calendar.netlify.app/day/17)
-* [Apply clear prompting techniques (December 1o)](https://ai-advent-calendar.netlify.app/day/10)    
-* [Utilize multi-modal capabilities (December 12)](https://ai-advent-calendar.netlify.app/day/12)
-* [Troubleshoot if necessary (December 18)](https://ai-advent-calendar.netlify.app/day/18)
+* [Use custom AI assistants (Day 17) for repetitive tasks](https://ai-advent-calendar.netlify.app/day/17)
+* [Apply clear prompting techniques (Day 10)](https://ai-advent-calendar.netlify.app/day/10)    
+* [Utilize multi-modal capabilities (Day 12)](https://ai-advent-calendar.netlify.app/day/12)
+* [Troubleshoot if necessary (Day 18)](https://ai-advent-calendar.netlify.app/day/18)
 
 ## **Bonus: Artistic Relaxation Project 🎨**
 
-Here’s one last fun thing to try. Create a themed collection of either children or adult coloring pages \- perfect for winter break relaxation or sharing with others. This project focuses on design consistency and artistic composition.
-![A group of owls of varying colors and feather styles in a seamless pattern. Some owls are wearing Santa hats.](https://res.cloudinary.com/dt5ug8amw/image/upload/v1734182031/AI%20Advent%202024/A_large_group_of_owls_in_various_poses.jpg)
+Here’s one last fun thing to try. Create a themed collection of either children or adult coloring pages \- perfect for weekend relaxation or sharing with others. This project focuses on design consistency and artistic composition.
+
+![A mountain range in minimal digital illustration style with warm pastel colors](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850250/Practical%20AI%20Literacy%20Challenges/minimal_slide_design.jpg)
 ## Image Description
-Made with Midjourney: A large group of owls in various poses and expressions, with different feather colors and patterns, gathered together filling the whole frame with no gaps. The owl faces all have expressive eyes that convey their emotions to viewers facing the camera. The owls are wearing santa hats. This is an adorable and heartwarming composition that makes people smile. This image is the result of focus stacking, a technique used in artistic photography to create high-resolution images. --chaos 25 --ar 4:3 --style raw --sref https://s.mj.run/nb1GxXR2OiI --personalize h1khssg --v 6.1
+Made with Midjourney: Minimal slide design. stylized shapes on blank background. Maroon and gold color palette, desaturated. minimalistic --chaos 20 --ar 16:9 --style raw --sref 2907974220 --profile zn92tm6 --stylize 250

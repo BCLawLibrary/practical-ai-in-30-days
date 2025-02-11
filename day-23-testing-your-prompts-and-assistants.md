@@ -1,10 +1,4 @@
----
-day: 23
-title: December 23: Testing your Prompts and Assistants 🧪
-type: prompt
-shareType: resource
----
-# Day 23: December 23: Testing your Prompts and Assistants 🧪
+# Day 23: Testing your Prompts and Assistants 🧪
 ## **Mini-lesson day\!**
 
 ### **🎯 Objective**
@@ -184,6 +178,7 @@ For ongoing improvement:
 - [Google's AI Safety Practices](https://ai.google.dev/gemini-api/docs/safety-guidance)  
 - [OpenAI Evals](https://platform.openai.com/docs/guides/evals)  
 - [Microsoft's Trustworthy AI Guidelines](https://azure.microsoft.com/en-us/blog/announcing-new-tools-in-azure-ai-to-help-you-build-more-secure-and-trustworthy-generative-ai-applications/)
-![Three fairies with iridescent wings and shimmering dresses are window shopping on a snowy Parisian street, admiring the Christmas decorations in a boutique window](https://res.cloudinary.com/dt5ug8amw/image/upload/v1734182700/AI%20Advent%202024/fairies_window_shopping.jpg)
+
+![Cartoon sketch of a chalkboard](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850249/Practical%20AI%20Literacy%20Challenges/Chalkboard_Drawing.jpg)
 ## Image Description
-Made with Midjourney: National Geographic photo, Three fairies with iridescent wings and shimmering dresses are window shopping on a snowy Parisian street, admiring the Christmas decorations in a boutique window. Shot with a macro lens (100mm), f/2.8 aperture, capturing the intricate details of their wings and the frost on the windowpane. Soft focus, bokeh, pastel colors, backlight. --chaos 20 --ar 5:4 --style raw --stylize 750 --weird 5 --v 6.1
+Made with Midjourney: a cartoonish drawing of a chalkboard --chaos 25 --ar 6:5 --style raw --profile l91zudi --stylize 250

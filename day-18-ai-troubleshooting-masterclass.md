@@ -1,10 +1,4 @@
----
-day: 18
-title: December 18: AI Troubleshooting Masterclass 🛠️
-type: prompt
-shareType: resource
----
-# Day 18: December 18: AI Troubleshooting Masterclass 🛠️
+# Day 18: AI Troubleshooting Masterclass 🛠️
 ## **A Guide to Getting Better Results**
 
 *Inspired by and adapted from Allie K. Miller's "[Complete ChatGPT Troubleshooting Guide](https://x.com/alliekmiller/status/1868726115969515568?s=12&t=6Q7ZpHLPwTuRWMRW61xSxw)" (December 2024\)*
@@ -57,20 +51,20 @@ Choose one of these approaches:
 
 **Option A: Personal Reflection** Revisit a prompt that didn't quite work for you in the past. This could be:
 
-- A previous advent calendar challenge you want to improve  
+- A previous calendar challenge you want to improve  
 - A work-related prompt that gave underwhelming results  
 - A personal project that needs refinement  
 - Any AI interaction where you thought "there must be a better way"
 
 **Option B: Practice Scenarios** Or work with one of these example scenarios:
 
-1. **Professional Context:** "Transform these rough presentation notes into a polished slide deck outline about recent developments in privacy law. Include speaker notes and suggestions for visual elements."
+1. **Professional Context:** "Transform these rough presentation notes into a polished slide deck outline about recent developments in {Insert Topic Here}. Include speaker notes and suggestions for visual elements."
 
-2. **Creative Context:** "Create a holiday-themed story to share with family (children, grandchildren, nieces, nephews, etc.). You might try:
+2. **Creative Context:** Create a fun and entertaining short story to share with family (children, grandchildren, nieces, nephews, etc.). You might try:
 
    - A winter tale about Baldwin the Eagle helping lost students find their way home  
-   - A modern remix of a classic holiday story set at Boston College  
-   - Your own heartwarming holiday memory reimagined as a children's story"  
+   - A modern remix of a classic heroes journey set at Boston College  
+   - Your own heartwarming family memory reimagined as a children's story
 3. **Complex Project Context:** "Create an original legal case study for teaching first-year law students about property rights. Include:
 
    - A realistic scenario involving neighbors disputing land use  
@@ -80,7 +74,7 @@ Choose one of these approaches:
    - Evidence and documentation  
    - Discussion questions for class"
 
-💡 **Tip:** The third scenario is intentionally complex. You might find it overwhelming if approached as a single prompt \- this makes it perfect for practicing how to break down and troubleshoot larger tasks.
+💡 **Tip:** The third scenario is intentionally complex. You might find it overwhelming if approached as a single prompt \- this makes it perfect for practicing how to break down and troubleshoot larger tasks!
 
 ---
 
@@ -227,7 +221,7 @@ Here's how to apply this surprisingly effective technique:
    - Avoid carrying over potentially confusing context  
    - Apply the insights gained from your meta-discussion
 
-💡 **Pro Tip:** While it might feel odd at first to ask an AI how to better interact with AI, remember that these systems are trained to understand their own capabilities and limitations. They can often provide surprisingly insightful suggestions for more effective interaction.
+💡 **Pro Tip:** While it might feel odd at first to ask an AI how to better interact with AI, remember that while these systems are not trained to understand their own capabilities and limitations, they can often provide surprisingly insightful suggestions for more effective interaction.
 
 ⚠️ **Important:** If you're ever working on a sensitive or confidential task, be careful not to include specific details when asking for prompting help. Instead, use general descriptions or analogous examples.
 
@@ -250,6 +244,7 @@ Document your troubleshooting process:
 4. How might these skills improve your use of AI in work or study?
 
 Remember: Working with AI is more like conducting an experiment than running a program. Sometimes you'll get exactly what you want on the first try. Other times, you'll need to guide, refine, and redirect. That's not just normal – it's part of the process!
-![Two elves looking frustrated trying to hail a taxi on a snowy New York City street.](https://res.cloudinary.com/dt5ug8amw/image/upload/v1734182684/AI%20Advent%202024/elves_hailing_a_cab.jpg)
+
+![First person point of view, a person looking down at the deep end of the pool.](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850249/Practical%20AI%20Literacy%20Challenges/Imagen3_-_Deep_End.jpg)
 ## Image Description
-Made with Midjourney: Christmas elves with pointy ears and green suits, the elves are attempting to hail a taxi in snow covered New York City, The elves can be seen with a frustrated expression on their faces as cars pass by. It's snowing heavily. Shot from a low angle with a wide-angle lens (24mm), f/2.8 aperture to blur the background, capturing the bustling city atmosphere. Shallow depth of field, natural light, overcast, long exposure. --chaos 20 --ar 5:4 --style raw --personalize us3j9yo --stylize 250 --v 6.1
+Made with Imagen 3: First person point of view, a person standing at the "deep end" of the pool. 

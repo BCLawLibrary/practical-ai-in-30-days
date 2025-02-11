@@ -1,11 +1,6 @@
----
-day: 17
-title: December 17: Custom Instructions & System Prompts
-type: interactive
-shareType: resource
----
-# Day 17: December 17: Custom Instructions & System Prompts
-**Fun and Functional\!**
+# Day 17: Custom Instructions & System Prompts
+
+## Fun and Functional!
 
 ---
 

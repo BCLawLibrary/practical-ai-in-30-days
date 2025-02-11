@@ -1,10 +1,4 @@
----
-day: 21
-title: December 21: A Peek into the Next Year 🔮
-type: interactive
-shareType: resource
----
-# Day 21: December 21: A Peek into the Next Year 🔮
+# Day 21: A Peek into the Next Year 🔮
 ### 🎯 **Objective:**
 
 Explore AI agents, multimodal interactions, and new features coming in the near future by experimenting with real-time live-streaming AI.
@@ -19,7 +13,7 @@ Explore AI agents, multimodal interactions, and new features coming in the near 
 
 Today's challenge is to explore the real-time multimodal capabilities of AI models. These AI tools can now “see” using your webcam/phone camera, hear you using your device’s microphone, and respond in real time. They are also capable of responding in various modalities including text, audio, and images. Here's what you'll do:
 
-**Important Note:** You'll need to use a personal Gmail account as BC Google Workspace accounts cannot access AI Studio at this time. While you can't use your BC email, you can still explore the tools using any personal Google account.
+**Important Note:** You'll need to use a personal Gmail account as BC Google Workspace accounts cannot access AI Studio at this time. While you can't use your BC email, you can still explore the tools using a personal Google account.
 
 1. **Explore Google AI Studio**
 
@@ -49,12 +43,18 @@ If I could look into the crystal ball and predict one thing about 2025, it would
 
 **A Few Real-World Examples:**
 
-- **Research Agents**: Find, summarize, and organize information ([Google's Deep Research](https://blog.google/products/gemini/google-gemini-deep-research/))  
+- **Research Agents**: Find, summarize, and organize information
+  - [Google's Deep Research](https://blog.google/products/gemini/google-gemini-deep-research/)  
+  - [OpenAI's Deep Research](https://openai.com/index/introducing-deep-research/)
+  - [Storm](https://storm.genie.stanford.edu/)
 - **Coding Agents**: Help write and deploy code  
   - [Devin AI](https://devin.ai/)  
   - [Replit AI](https://docs.replit.com/replitai/agent)  
   - [Cursor Composer](https://docs.cursor.com/composer/overview)  
-- **Anthropic:** [Computer Use](https://www.anthropic.com/news/3-5-models-and-computer-use) and [MCP](https://www.anthropic.com/news/model-context-protocol)
+- **Computer Use:** Operate your computer and other devices
+  - [Anthropic's Computer Use](https://www.anthropic.com/news/3-5-models-and-computer-use) 
+  - [Anthropic's Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
+  - [OpenAI's Operator](https://openai.com/index/introducing-operator/)
 
 **What's Already Possible Now and/or Coming Soon:**
 
@@ -127,6 +127,7 @@ Before engaging with multimodal AI tools, consider these important points:
 
 - Share what you learned or a fun insight with colleagues 
 - Log your activity for today so others can see!
-![A photoshoot of baby turtles, the turtles are wearing Santa hats and are crawling across a living room floor with ornaments randomly placed on a carpet.](https://res.cloudinary.com/dt5ug8amw/image/upload/v1734182657/AI%20Advent%202024/baby_turle_christmas_shoot.jpg)
+
+![An art nouveau style door on the beach with the ocean in the background](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850248/Practical%20AI%20Literacy%20Challenges/Door_to_nowhere.jpg)
 ## Image Description
-Made with Midjourney: https://s.mj.run/HnCnyMeJXYg Sears photoshoot, family of baby turtles celebrating Christmas, the turtles are wearing Christmas sweaters and santa hats, there are Christmas decorations in the background. 35mm f/4, kodak portra, faded film --chaos 25 --ar 5:4 --style raw --profile grwo67u --weird 100 --v 6.1
+Made with Midjourney: an art nouveau doorway to nowhere. set on the beach --chaos 25 --ar 6:5 --style raw --profile v3l7vfp --stylize 250
