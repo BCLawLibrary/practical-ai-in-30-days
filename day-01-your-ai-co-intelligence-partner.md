@@ -27,6 +27,6 @@ Ask an AI how it could support your studies, work, or hobbies.
 - Give more context about yourself to get more detailed and tailored responses
 
 
-![Digital illustration of a sprout growing into a circuit board tree](https://res.cloudinary.com/dt5ug8amw/image/upload/v1733231221/Snowman.jpg)
+![Digital illustration of a sprout growing into a circuit board tree](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850252/Practical%20AI%20Literacy%20Challenges/sprout_to_tree_of_knowledge.jpg)
 ## Image Description
 Made with [Imagen3](https://labs.google.com/fx/tools/image-fx): "a small green sprout emerging from the ground, with a simple, gently curved stem and two small, minimalist leaves. The sprout then seamlessly transitions upwards into a stylized tree trunk that becomes increasingly geometric and digital, culminating in an upper portion where the branches are formed by clean, geometric lines resembling a circuit board pattern, with simplified, abstract representations of leaves made from small, angular shapes connected to the circuit-branches. The entire design will utilize a limited color palette, primarily soft green for the sprout, transitioning into a darker, more vibrant green for the circuit-tree portion, against a neutral background."

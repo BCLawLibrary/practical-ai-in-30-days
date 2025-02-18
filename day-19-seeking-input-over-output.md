@@ -1,4 +1,4 @@
-# Day 19: December 19: Seeking Input over Output
+# Day 19: Seeking Input over Output
 **Finding Meaning with AI**
 
 Today we're taking a moment to explore two thought-provoking perspectives that challenge how we think about AI integration. Ethan Mollick, a leading voice on the practical use of AI, has written an insightful piece that captures a balanced, nuanced view of how AI can best support our expertise. His article, linked below, outlines scenarios where AI shines and where it falls short. This isn’t just a "how-to"; it’s a guide for *thinking differently* about AI. 
