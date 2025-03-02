@@ -6,7 +6,7 @@ Understand and experiment with AI-powered deep research tools that autonomously 
 
 ## 🛠️ Required Tools
 
-- **[OpenAI Deep Research](https://chat.openai.com)** (Pro Required - \$200/month)
+- **[OpenAI Deep Research](https://chat.openai.com)** (Pro or Plus subscription required - \$200/month or $20/month)
 - **[Perplexity Deep Research](https://www.perplexity.ai/)** (Free, with Pro version available)
 - **[Storm](https://storm.genie.stanford.edu/)** (Free - Generates Wikipedia-style research summaries)
 - **[Google Deep Research](https://gemini.google.com/)** (Availability varies, typically \$20/month, often discounts for first-time users)
