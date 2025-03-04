@@ -1,4 +1,4 @@
-# Day 2: December 2: Meet Gail!
+# Day 2: Meet Gail!
 ### 🎯 Objective: 
 - Get to know AI through a guided conversation with GAIL, the GenAI Literacy Assistant.
 
