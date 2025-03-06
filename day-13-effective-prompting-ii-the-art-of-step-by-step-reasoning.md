@@ -1,5 +1,5 @@
 # Day 13: Effective Prompting II - The Art of Step-by-Step Reasoning 🧠
-## **Mini-lesson Day: Show Your Work!**
+## Mini-lesson Day: Show Your Work!
 
 ### 🎯 Objective
 

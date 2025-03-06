@@ -7,7 +7,7 @@ Celebrate your progress, reflect on your learning journey, and prepare for conti
 
 ## **🏆 Congratulations\!**
 
-If you've made it through all 24 days, give yourself a huge pat on the back. You've developed a foundation in AI literacy that puts you ahead of most. Think of today as the closing ceremonies of our AI exploration journey—a time to reflect, celebrate, and look forward.
+If you've completed all of the activities in this guide, give yourself a huge pat on the back. You've developed a foundation in AI literacy that puts you ahead of 99% of people. Think of today as the closing ceremonies of our AI exploration journey—a time to reflect, celebrate, and look forward.
 
 ---
 
@@ -50,11 +50,11 @@ Consider my role as [your role] and my goal to [specific objective]. Ask me addi
 
 ## ✨ Reflections on AI & Societal Change  
 
-The development of AI is moving at a blistering pace—[what was science fiction in 2022](https://x.com/emollick/status/1869077739485253659?s=12&t=6Q7ZpHLPwTuRWMRW61xSxw) is now available in consumer tools, and [what's experimental today](https://x.com/livekit/status/1870194686532694417?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1870194686532694417%7Ctwgr%5E08c21ca839c163d0ac611418e179aebc248c55f0%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fwww.notion.so%2Fkyle-ts%2FUltimate-Brain-87b49ba845e149699d9876ebae626519%3Fp%3D15eb37cc433981e5bff9fcfc15e059b5pm%3Ds) will likely be [commonplace by next year](https://www.youtube.com/watch?v=ctWfv4WUp2I). As humans, we tend to normalize these advances quickly, making it easy to overlook just how exponential this growth is. We’re living through a fascinating period where tools like ChatGPT, Claude, and Gemini are matching or exceeding human performance in specific domains, and we’re all collectively figuring out what this means in real-time.  
+The development of AI is moving at a blistering pace—[what was science fiction in 2022](https://x.com/emollick/status/1869077739485253659?s=12&t=6Q7ZpHLPwTuRWMRW61xSxw) is now available in consumer tools, and [what's experimental today](https://x.com/livekit/status/1870194686532694417?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1870194686532694417%7Ctwgr%5E08c21ca839c163d0ac611418e179aebc248c55f0%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fwww.notion.so%2Fkyle-ts%2FUltimate-Brain-87b49ba845e149699d9876ebae626519%3Fp%3D15eb37cc433981e5bff9fcfc15e059b5pm%3Ds) will likely be [commonplace by next year](https://www.youtube.com/watch?v=ctWfv4WUp2I). As humans, we tend to normalize these advances quickly, making it easy to overlook just how exponential this growth is. We're living through a fascinating period where tools like ChatGPT, Claude, and Gemini are matching or exceeding human performance in specific domains, and we're all collectively figuring out what this means in real-time.  
 
-I like the analogy my colleague, Tim Lindgren, uses—AI as a *"bicycle for the mind."* It’s a tool that can take you further than you might go on your own, but you’re still the one pedaling, in control of the direction and effort.  
+I like the analogy my colleague, Tim Lindgren, uses—AI as a *"bicycle for the mind."* It's a tool that can take you further than you might go on your own, but you're still the one pedaling, in control of the direction and effort. This speaks to several things that are important to keep in mind. It's hard to fall asleep at the wheel so to speak when you're riding a bike. The element of human oversight, guidance, and critical evaluation is still very important when using these new tools. When used with intention and grounding conversations and tasks in both high quality context and your own personal context, you truly can go much farther much faster than you otherwise might be able to on your own. 
 
-At the same time, AI is advancing so quickly that even experts struggle to evaluate its responses in certain contexts. Most of the time, it gets things right—or at least sounds plausible enough that errors aren’t always obvious at first glance. In that sense, AI isn’t just a bicycle; it’s more like a plane. When you're on course, it can get you to your destination far faster than you otherwise would. But unlike a plane with autopilot, AI doesn’t recognize when it’s off track—it just keeps going. A small trajectory shift early on can compound over time, especially in complex workflows or automated systems where AI is making incremental decisions. By the time it comes back to you, significant course correction may be needed to ensure it actually landed where you intended.  
+At the same time, AI is advancing so rapidly that the bicycle analogy may undersell today's capabilities. These systems are increasingly solving complex problems that challenge even human experts. Recent benchmarks like GPQA [citation] show LLMs now outperforming specialized human experts on particularly difficult questions across mathematics, physics, chemistry, and biology. Even leading AI researchers are surprised by the pace of these developments. In many ways, AI isn't just a bicycle; it's more like a plane. When you're on course, it can get you to your destination far faster than you otherwise would. But unlike a plane with autopilot, AI doesn't always recognize when it's off track—it just keeps going. A small trajectory shift early on can compound over time, especially in complex workflows or automated systems where AI is making incremental decisions. By the time it comes back to you, significant course correction may be needed to ensure it actually landed where you intended.  
 
 Rather than fearing AI or avoiding its use, the goal is to stay engaged and intentional in how we use it. The more actively you pilot the tool, the more you amplify its benefits—turning it into something that works *for* you and *with* you, not the other way around.  
 
@@ -85,7 +85,7 @@ Here are some other takeaways from my AI journey:
 - Build your AI intuition gradually. Start with small experiments, learn from the surprises (both good and bad), and keep iterating.  
 - Scale your thinking. Instead of tweaking one email, generate dozens of variations. Rather than brainstorming a few ideas, explore hundreds of possibilities. LLMs thrive on scale—tap into their capacity to explore an entire universe of options quickly and effortlessly.  
 - AI isn't a mindreader \- the art of effective prompting is about clearly communicating your needs and requirements. The more specific you are about what you want, the better your results will be.  
-- Don’t forget, AI can be fun\! Embrace the playful side of AI. Try out different personas, write silly stories, or frame questions through the lens of your favorite characters. Sometimes, the best explanations and insights come from these more creative, unconventional approaches.
+- Don't forget, AI can be fun\! Embrace the playful side of AI. Try out different personas, write silly stories, or frame questions through the lens of your favorite characters. Sometimes, the best explanations and insights come from these more creative, unconventional approaches.
 
 ---
 
@@ -94,14 +94,17 @@ Here are some other takeaways from my AI journey:
 ### **Getting Started with AI Tools**
 
 **Freely Available Tools:**
+All of these tools have a free tier to allow you to explore their capabilities. Different rate limits and features available vary greatly so check with the provider for up to date information about what's available.
 
-* [Google AI Studio](https://aistudio.google.com) (An incredible no-cost entry point with access to high token limits and cutting-edge models 🤯)  
-* [Claude](https://claude.ai) (Free tier with strong reasoning capabilities)  
-* [ChatGPT](https://chatgpt.com) (Free tier with broad functionality)  
-* [NotebookLM](http://notebooklm.google.com) (An incredible no-cost research, writing, and study tool)  
-* [Perplexity](https://perplexity.ai) (Free tier with real-time search integration)
+* [Claude:](https://claude.ai) General Purpose Chat Assistant
+* [ChatGPT:](https://chatgpt.com) General Purpose Chat Assistant
+* [Google Gemini:](https://gemini.google.com) General Purpose Chat Assistant 
+* [Google AI Studio:](https://aistudio.google.com) General Purpose Chat Assistant (An incredible no-cost entry point with access to high token limits and cutting-edge models 🤯)  
+* [NotebookLM:](http://notebooklm.google.com) An incredible no-cost research, writing, and study tool 
+* [Perplexity:](https://perplexity.ai) AI powered internet search with agentic capabilities
 
 **Boston College Community Access:**
+These tools have higher security standards and privacy agreements and are approved for use with your BC credentials. They do not train on any uploaded information or chat history by default. Of course, privacy protections can also be enabled in private accounts with these tools in your user settings.
 
 * [Microsoft Copilot](https://copilot.microsoft.com) (Free access available with BC credentials)  
 * [Gemini](https://gemini.google.com) (Free access available with BC credentials)
@@ -125,9 +128,9 @@ My recommendation? Start with the free tiers to discover which interface and cap
 
 ## **🌟 Looking Forward**
 
-This isn't the end—it's a beginning. The tools, tips, and lessons you've explored over the past 24 days are just a fraction of what's possible. Remember:
+This isn't the end—it's a beginning. The tools, tips, and lessons you've explored over the course of this guide are just a fraction of what's possible. Remember:
 
-- Your judgment and creativity are more valuable than ever  
+- Your judgment, critical thinking, and creativity are more valuable than ever  
 - The best AI use comes from thoughtful experimentation  
 - Stay curious and keep learning  
 - Focus on using AI to augment, not replace, your skills
@@ -138,7 +141,7 @@ Let's continue to adopt a mindset of growth, curiosity, and creativity. May your
 
 ## **🎁 Special Parting Gift: AI Learning Resources**
 
-As a final gift, here's a curated collection from watching literally hundreds 😬 of hours of AI content. Heavy on AI literacy and productivity, with sprinkles of technical, educational, and legal insights. While not comprehensive, each resource here has earned its place by offering unique value in understanding AI capabilities, applications, and implications.
+Here's a curated collection from watching literally hundreds 😬 of hours of AI content. Heavy on AI literacy and productivity, with sprinkles of technical, educational, and legal insights. While not comprehensive, each resource here has earned its place by offering unique value in understanding AI capabilities, applications, and implications.
 
 ## **🧠 AI Working Knowledge & Insights**
 

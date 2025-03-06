@@ -1,5 +1,5 @@
 # Day 10: Foundations of Clear Prompting 🔮
-## **Mini-lesson day!**
+## Mini-lesson day!
 
 ### 🎯 Objective
 

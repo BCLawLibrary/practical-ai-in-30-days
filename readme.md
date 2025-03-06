@@ -7,7 +7,7 @@ Welcome to the BC AI Literacy Project - a comprehensive repository of daily acti
 This repository contains markdown-based activities that guide learners through various aspects of AI literacy. Each day presents a new topic, challenge, or learning opportunity, making AI education accessible and manageable.
 
 ### Key Features
-- 30 days of curated AI learning content
+- Roughly a month's worth of curated AI learning content
 - Flexible, branch-based customization for different departments
 - Hands-on activities and practical exercises
 - Focus on both theoretical understanding and practical application

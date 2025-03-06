@@ -15,7 +15,9 @@ Learn how AI-powered search tools differ from traditional search engines and und
 
 AI language models are trained up to certain dates, meaning they may not know about events or data beyond these points. Here are some current knowledge cutoffs:
 
+- **GPT-4.5:** [Sep 30, 2023](https://platform.openai.com/docs/models/gpt-4.5-preview)
 - **GPT-4o:** [June 2024](https://help.openai.com/en/articles/9624314-model-release-notes)
+- **Claude 3.7 Sonnet:** [October 2024](https://docs.anthropic.com/en/docs/about-claude/models/all-models#model-comparison-table)
 - **Claude 3.5 Sonnet:** [April 2024](https://docs.anthropic.com/en/docs/about-claude/models)
 - **Gemini:** [August 2024](https://aistudio.google.com/prompts/new_chat)
 
@@ -25,7 +27,7 @@ These cutoffs highlight why AI-powered search tools like Perplexity and ChatGPT 
 
 A knowledge cutoff doesn't prevent a model from discussing current topics intelligently. You just have to be aware that for bleeding-edge content, it's best if you supply the specific information, articles, or data related to your query as part of your chat to give the AI context. 
 
-Alternatively, if you know a model has internet search capabilities provided by the features offered in the platform, it may intelligently use the internet to answer your question. You can also directly ask an AI chat assistant with these capabilities to use it's search tool if it's available. Here are some of the platforms that offer internet search:
+Alternatively, if you know a model has internet search capabilities provided by the features offered in the platform, it may intelligently use the internet to answer your question. You can also directly ask an AI chat assistant with these capabilities to use it's search tool if it's available. This is often achieved by enabling the search feature in the UI of the application or by simply asking it to use search as part of your prompt. Here are some of the platforms that offer internet search:
 
 - **ChatGPT:** Great for conversational AI and browsing capabilities.
 - **Google Search with AI Overview:** Integrates AI summaries into traditional Google search.
@@ -34,6 +36,7 @@ Alternatively, if you know a model has internet search capabilities provided by 
 - **Gemini:** Evaluate and cite responses with the "Double Check Responses" feature.
 - **Mistral:** A French model that has internet search capabilities.
 - **DeepSeek:** A Chinese model that has internet search capabilities.
+- **Grok:** Has internet access and can intelligently search the web to fill missing context.
 - **Claude:** Notably, at this time, Claude **does not** have access to the internet in the chat interface.
 
 ---

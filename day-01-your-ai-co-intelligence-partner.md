@@ -12,8 +12,13 @@ Note: All of these tools have a free tier.
 - [Google AI Studio](https://aistudio.google.com)
 - [CoPilot](https://copilot.microsoft.com)
 
+### Overview:
+One of the first hurdles when starting with AI chat assistants is the "Blank Input" problem—staring at an empty chat window, unsure of what to ask or how to begin. This is completely normal! Today's activity is designed to help you overcome this initial hesitation by providing an engaging, reflective, and iterative way to interact with AI. 
+
+You'll have the option to use a custom chat assistant we've prepared, which includes detailed guidance to help you through the process. Alternatively, you can simply copy and paste one of the provided prompts below into your preferred AI tool. The goal is to get comfortable interacting with AI early and often, building confidence and discovering practical ways AI can support your studies, work, or hobbies.
+
 ### 📝 Challenge:
-Ask an AI how it could support your studies, work, or hobbies. 
+Have a conversation with an AI chat assistant. 
 
 **Sample prompts:**
 1. "I'm a [your role] at [_Boston College Law School_ OR _your organization_]. What are 3 ways AI could help me with my daily tasks?"

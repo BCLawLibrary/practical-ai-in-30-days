@@ -1,4 +1,4 @@
-# Day 3: AI Poetry Corner 💝
+# Day 3: AI Poetry Corner 🎭
 ## **Express yourself through verse!**
 
 ### 🎯 Objective: 
@@ -12,16 +12,28 @@ Learn how to guide AI in creating personalized poetry by providing specific deta
   - [Copilot](https://copilot.microsoft.com)
 
 ### 📝 Challenge:
-Create a personal poem for someone special using these formats:
+Generative AI isn't just for serious work—it's also a wonderful tool for creative expression! Today's challenge invites you to explore AI's artistic capabilities while having some fun with poetry. You might discover new creative possibilities or even uncover your own poetic voice along the way.
+
+Create a poem using these formats:
 - Haiku (3 lines: 5-7-5 syllables)
 - Limerick (5 lines with AABBA rhyme scheme)
 - Free verse with specific memories
-- Acrostic using their name
+- Acrostic using a meaningful word
 - Some other format of your choosing
 
-**Example prompt**: "Help me write a haiku for my sister who always supported my dreams. She loves gardening and makes the best chocolate chip cookies. I want to thank her for always being there for me."
+Your poem could be:
+- A personal poem for a friend or family member
+- A reflection on your work or profession
+- An ode to a hobby or interest you're passionate about
+- Or anything else you want to explore
 
-**💡 Tip**: Include specific details about the person - their hobbies, memorable moments, inside jokes, or unique qualities. The more personal details you provide, the more meaningful the poem will be!
+**Example prompts**: 
+1. "Help me write a haiku for my sister who always supported my dreams. She loves gardening and makes the best chocolate chip cookies. I want to thank her for always being there for me."
+
+2. "I'd like a limerick about being a law professor. I especially enjoy constitutional law debates and helping students find their voice in moot court. The most rewarding part is seeing students have 'aha' moments when complex concepts click."
+
+**💡 Tip**: Include specific details - hobbies, memorable moments, inside jokes, or unique qualities. The more personal details you provide, the more meaningful the poem will be!
+
 ![Digital art of a circular tessellation of fish](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850254/Practical%20AI%20Literacy%20Challenges/tesselated_Fish.jpg)
 ## Image Description
 Made with Midjourney: Tessellating fish in Escher-style circular limit, shrinking towards the edge, hyperbolic geometry --sref 2738729149 --profile stsnkyz

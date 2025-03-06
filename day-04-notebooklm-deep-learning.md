@@ -2,7 +2,8 @@
 ## **Educational Innovation**
 
 ### 🎯 Objective: 
-Explore NotebookLM's ability to transform written content into engaging audio discussions while learning about making AI more inclusive and accessible (Listen to the Sully Podcast).
+- Explore NotebookLM's ability to transform content into engaging learning experiences helping you more deeply understand the source material. 
+- Learn how to use the collaborative learning features of NotebookLM: Sources, Chat, and Studio
 
 ### 🛠️ Tools:
 - [NotebookLM](https://notebooklm.google.com) (Free)
@@ -17,13 +18,18 @@ Explore NotebookLM's ability to transform written content into engaging audio di
 Choose one of these pathways:
 
 1. Legal Learning Path:
-   - Download a fundamental legal case (e.g., International Shoe v. Washington)
-   - Upload to NotebookLM
-   - Create an audio discussion
+   - Upload legal content such as:
+     - Landmark court cases
+     - Legal briefs or memos
+     - Law journal articles
+     - Legislation or statutes
+     - Class notes from law courses
+   - Add to NotebookLM as source material
+   - Create an audio discussion to explore key concepts
    - Compare the AI's explanation to traditional study methods
    
 2. Research Understanding Path:
-   - Choose a complex article, paper, or YouTube lesson or workshop
+   - Choose a complex article, paper, YouTube lesson or workshop
    - Add it to a Notebook as source material
    - Note how the AI contextualizes and explains difficult concepts
 
@@ -33,17 +39,18 @@ Choose one of these pathways:
    - Listen to NotebookLM's interpretation of your career journey
    - Note any surprising insights or perspectives
 
+**Getting Help:** [Read the official getting started guide to NotebookLM at Google.](https://support.google.com/notebooklm/answer/14276471?hl=en&ref_topic=14272601&sjid=7675036795461123650-NA)
+
 **💡 Tip**: The goal isn't to replace reading or traditional study methods, but to supplement them with different perspectives and learning styles. Consider how this tool could make complex content more accessible to different types of learners.
 
-**Bonus Challenge**: Create two versions of the same content discussion - one for beginners and one for advanced learners. Compare how NotebookLM adapts its explanations for different audience levels.
-
-### 🎓 Real-World Examples and Further Learning:
+### 🎓 Real-World Examples:
 1. [Legal Education Example](https://youtu.be/eKdzkG-pf2Y?si=kT_XtqwjNwv3iykc&t=267)
-2. [NotebookLM Podcast: Creating Sully](https://notebooklm.google.com/notebook/774dc337-cd3d-41a8-b2a3-847d72656dc2/audio): I uploaded my work in creating a custom chat assistant named Sully. This podcast was generated from the source material provided. In particular, I want to call out the "hosts" thoughtful discussion about inclusivity and stereotypes that should be considered when developing custom chat assistants, particularly those meant to capture local flair.
-3. [AI+ EDU Symposium: NotebookLM Demo](https://www.youtube.com/watch?v=Evsj5RJyzFU)
+2. [NotebookLM Podcast: Creating Sully](https://notebooklm.google.com/notebook/774dc337-cd3d-41a8-b2a3-847d72656dc2/audio): This audio podcast represents one example of how insightful and thoughtful the generated content from these tools can be. Th podcast was generated from the source material provided as part of a project to create an AI persona called Sully. In particular, I want to call out the "hosts" thoughtful discussion about inclusivity and stereotypes that should be considered when developing custom chat assistants, particularly those meant to capture local flair.
 
 ### 🤝 Inclusive Design Considerations:
-- [A reflective conversation](https://docs.google.com/document/d/1doltLDeoH3Ol3fYyVwQ1XYD89W0g68YUiup2_4uQQ08/edit?usp=sharing) I had with Gemini 1.5 Pro after listening to the "Creating Sully" podcast from NotebookLM
+As a bonus, I'm providing an abbreviated conversation I had with Google's Gemini 1.5 Pro model after listening to the podcast created by NotebookLM. This is [a reflective conversation](https://docs.google.com/document/d/1doltLDeoH3Ol3fYyVwQ1XYD89W0g68YUiup2_4uQQ08/edit?usp=sharing) that highlights the kind of meaningful dialog you can have with AI chat assistants to not only improve your work, but reflect on and improve yourself as well.
+
+In particular it raises questions to ask yourself when designing AI chat assistants and personas that you plan on sharing with others. Something you'll learn how to do in future activities.
 - How can AI voices and personalities reflect diverse backgrounds authentically?
 - What stereotypes should we be careful to avoid?
 - How can AI tools make education more accessible to different learning styles?
