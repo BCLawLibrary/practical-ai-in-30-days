@@ -1,5 +1,12 @@
-# Day 3: AI Poetry Corner 🎭
-## **Express yourself through verse!**
+---
+title: "AI Poetry Corner 🎭"
+image-url: "https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850254/Practical%20AI%20Literacy%20Challenges/tesselated_Fish.jpg"
+image-alt: "Digital art of a circular tessellation of fish"
+image-description: "Made with Midjourney: Tessellating fish in Escher-style circular limit, shrinking towards the edge, hyperbolic geometry --sref 2738729149 --profile stsnkyz"
+tags: ["AI Literacy", "Creative Applications", "Text Generation", "AI-Assisted Writing"]
+---
+
+## Express yourself through verse!
 
 ### 🎯 Objective: 
 Learn how to guide AI in creating personalized poetry by providing specific details and emotional context
@@ -10,6 +17,8 @@ Learn how to guide AI in creating personalized poetry by providing specific deta
   - [Claude](https://claude.ai)
   - [Gemini](https://aistudio.google.com)
   - [Copilot](https://copilot.microsoft.com)
+
+---
 
 ### 📝 Challenge:
 Generative AI isn't just for serious work—it's also a wonderful tool for creative expression! Today's challenge invites you to explore AI's artistic capabilities while having some fun with poetry. You might discover new creative possibilities or even uncover your own poetic voice along the way.
@@ -33,7 +42,3 @@ Your poem could be:
 2. "I'd like a limerick about being a law professor. I especially enjoy constitutional law debates and helping students find their voice in moot court. The most rewarding part is seeing students have 'aha' moments when complex concepts click."
 
 **💡 Tip**: Include specific details - hobbies, memorable moments, inside jokes, or unique qualities. The more personal details you provide, the more meaningful the poem will be!
-
-![Digital art of a circular tessellation of fish](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850254/Practical%20AI%20Literacy%20Challenges/tesselated_Fish.jpg)
-## Image Description
-Made with Midjourney: Tessellating fish in Escher-style circular limit, shrinking towards the edge, hyperbolic geometry --sref 2738729149 --profile stsnkyz

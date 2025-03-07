@@ -1,3 +1,11 @@
+---
+title: "Seeking Input over Output"
+image-url: "https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850252/Practical%20AI%20Literacy%20Challenges/Rabbit_Time_Warp.jpg"
+image-alt: "A surreal artistic illustration of a rabbit sitting next to a tree stump, with clocks and hourglasses floating in the background."
+image-description: "Made with Midjourney: digital illustration, a rabbit sits next to a tree stump, the tree stump has a portal to another time, clocks and hourglasses float in the background --chaos 25 --ar 4:3 --style raw --sref 3500888721 --profile 8rqt991 qfbz31g"
+tags: ["AI Literacy", "Advanced Interaction Techniques", "Question Formulation", "Effective Interaction"]
+---
+
 # Day 19: Seeking Input over Output
 **Finding Meaning with AI**
 

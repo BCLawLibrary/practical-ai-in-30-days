@@ -1,3 +1,11 @@
+---
+title: "Foundations of Clear Prompting 🔮"
+image-url: "https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850253/Practical%20AI%20Literacy%20Challenges/stack_of_books.jpg"
+image-alt: "A stack of books"
+image-description: "Made with Midjourney: a stack of books --chaos 25 --ar 6:5 --style raw --sref 3539165485 --profile l91zudi --stylize 250"
+tags: ["AI Literacy", "Prompt Engineering", "Clear Communication", "Prompt Structure"]
+---
+
 # Day 10: Foundations of Clear Prompting 🔮
 ## Mini-lesson day!
 

@@ -1,5 +1,11 @@
-# AI Image Generation with Large Language Models
-## **Creative Visualization!**
+---
+title: "AI Image Generation with Large Language Models"
+image-url: "https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850254/Practical%20AI%20Literacy%20Challenges/stylish_streetwear_fashion.jpg"
+image-alt: "Fashionable woman wearing streetwear in front of an assortment of tropical potted plants"
+image-description: "Made with Midjourney: 35mm photo of a person wearing retro streetwear clothes. standing in front of exotic plants. Shot on analog film camera. in the style of surrealistic futuristic. pink and gold color grading --chaos 25 --ar 4:3 --style raw --profile 7bn4kwq --stylize 250"
+tags: ["AI Literacy", "Multimodal Tools", "Image Generation", "Creative Applications"]
+---
+## Creative Visualization!
 
 ### 🎯 Objective: 
 Learn the basics of creating images with AI using Large Language Models (LLMs)
@@ -46,7 +52,3 @@ Take your favorite image and recreate it with a twist! Try:
 - A different medium
 - An unexpected mood
 Get creative - sometimes the most interesting results come from unusual combinations!
-
-![Fashionable woman wearing streetwear in front of an assortment of tropical potted plants](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850254/Practical%20AI%20Literacy%20Challenges/stylish_streetwear_fashion.jpg)
-## Image Description
-Made with Midjourney: 35mm photo of a person wearing retro streetwear clothes. standing in front of exotic plants. Shot on analog film camera. in the style of surrealistic futuristic. pink and gold color grading --chaos 25 --ar 4:3 --style raw --profile 7bn4kwq --stylize 250

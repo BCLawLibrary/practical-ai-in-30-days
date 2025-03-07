@@ -1,3 +1,11 @@
+---
+title: "AI Music Studio 🎵"
+image-url: "https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850249/Practical%20AI%20Literacy%20Challenges/Flamingos_at_a_disco.jpg"
+image-alt: "A woman and flamingos attending a disco party"
+image-description: "Made with Midjourney: large birds at a disco, soft pastels, dreamcore aesthetic, 90s decore --chaos 25 --ar 25:21 --style raw --sref 1172654203 --profile 7bn4kwq --stylize 750"
+tags: ["AI Literacy", "Multimodal Tools", "Audio Generation", "Creative Expression"]
+---
+
 # Day 7: AI Music Studio 🎵
 ## **More creative expression through AI!**
 

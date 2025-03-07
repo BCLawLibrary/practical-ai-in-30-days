@@ -1,3 +1,11 @@
+---
+title: "Effective Prompting II - The Art of Step-by-Step Reasoning 🧠"
+image-url: "https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850254/Practical%20AI%20Literacy%20Challenges/Surreal_Desert_Jellyfish.jpg"
+image-alt: "A giant jellyfish floating above a salt flat desert"
+image-description: "Made with Midjourney: Surrealist art, otherworldly jellyfish suspended mid-air over a cracked desert floor, muted cyan with translucent details, desert sunset with sci-fi undertones. --chaos 25 --ar 6:5 --style raw --profile 7bn4kwq --stylize 250"
+tags: ["AI Literacy", "Advanced Prompt Engineering", "Chain-of-Thought", "Reasoning Techniques"]
+---
+
 # Day 13: Effective Prompting II - The Art of Step-by-Step Reasoning 🧠
 ## Mini-lesson Day: Show Your Work!
 

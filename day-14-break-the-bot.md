@@ -1,3 +1,11 @@
+---
+title: "Break the Bot! 🤖"
+image-url: "https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850252/Practical%20AI%20Literacy%20Challenges/Sloth_Friends.jpg"
+image-alt: "Two sloths wearing tie-die shirts"
+image-description: "Made with Midjourney: Two young sloth cousins, dressed in oversized, brightly colored t-shirts, are posed against a backdrop of iridescent glitter glued haphazardly to a piece of black construction paper. The glitter is also liberally applied to their fur, creating a thick, sticky mess. The lighting is dim and uneven, highlighting the texture of the glitter and the glue. One sloth is attempting a half-hearted thumbs-up, while the other stares blankly ahead, a trail of glitter glue dripping from its chin. Their expressions are apathetic and dazed, reflecting the slow, deliberate nature of sloths. The overall image evokes a sense of forced craftiness and juvenile messiness, amplified by the inherently slow-moving nature of the sloths."
+tags: ["AI Literacy", "Critical Evaluation", "Edge Cases", "AI Limitations"]
+---
+
 # Day 14: Break the Bot! 🤖
 ## **Fun with AI Limitations**
 

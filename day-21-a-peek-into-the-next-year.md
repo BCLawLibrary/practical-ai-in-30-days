@@ -1,3 +1,11 @@
+---
+title: "A Peek into the Next Year 🔮"
+image-url: "https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850248/Practical%20AI%20Literacy%20Challenges/Door_to_nowhere.jpg"
+image-alt: "An art nouveau style door on the beach with the ocean in the background"
+image-description: "Made with Midjourney: an art nouveau doorway to nowhere. set on the beach --chaos 25 --ar 6:5 --style raw --profile v3l7vfp --stylize 250"
+tags: ["AI Literacy", "Future Perspectives", "Emerging Trends", "Future Skills"]
+---
+
 # Day 21: A Peek into the Next Year 🔮
 ### 🎯 **Objective:**
 

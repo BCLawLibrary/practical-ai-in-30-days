@@ -1,3 +1,11 @@
+---
+title: "Organizing your Knowledge Base 📚"
+image-url: "https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850252/Practical%20AI%20Literacy%20Challenges/Retro_Computer_Sketch.jpg"
+image-alt: "An ink pen sketch of a retro computer"
+image-description: "Made with Midjourney: sketch, retro computer, in inky pen styling, minimalistic --chaos 20 --ar 1:1 --style raw --sref 3362174710 https://s.mj.run/9sQtGhWa-rw --profile us3j9yo --stylize 1000 --weird 5"
+tags: ["AI Literacy", "Knowledge Management", "Knowledge Systems", "Information Management"]
+---
+
 # Day 22: Organizing your Knowledge Base 📚
 ## **Mini-lesson day\!**
 

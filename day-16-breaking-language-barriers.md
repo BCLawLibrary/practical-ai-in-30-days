@@ -1,3 +1,11 @@
+---
+title: "Breaking Language Barriers 🌎"
+image-url: "https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850251/Practical%20AI%20Literacy%20Challenges/Mood.jpg"
+image-alt: "A woman holding an umbrella standing in a glass box in the middle of the street"
+image-description: "Made with Midjourney: Mood --chaos 10 --ar 2:3 --profile fyitkl7 --stylize 400 --weird 10 --v 6"
+tags: ["AI Literacy", "Practical Applications", "Translation", "Language Learning"]
+---
+
 # Day 16: Breaking Language Barriers 🌎
 ## Language Learning & Cross-Cultural Communication
 

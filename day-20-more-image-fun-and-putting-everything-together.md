@@ -1,3 +1,11 @@
+---
+title: "More Image Fun and Putting everything together!"
+image-url: "https://res.cloudinary.com/dt5ug8amw/image/upload/v1734638039/AI%20Advent%202024/Impressionist_Oil_Painting_of_a_cat.jpg"
+image-alt: "Impressionist painting of a cat near a fireplace"
+image-description: "Made with Midjourney: Minimal slide design. stylized shapes on blank background. Maroon and gold color palette, desaturated. minimalistic --chaos 20 --ar 16:9 --style raw --sref 2907974220 --profile zn92tm6 --stylize 250"
+tags: ["AI Literacy", "Integration & Synthesis", "Workflow Integration", "Practical Application"]
+---
+
 # Day 20: More Image Fun and Putting everything together!
 
 Today’s activity is a two-parter: first, you'll dive deeper into the world of AI image generation. Then, you'll pull together everything you've learned in this advent calendar to create a complete project.

@@ -1,3 +1,11 @@
+---
+title: "How do AI Assistants "Think"? 🧠"
+image-url: "https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850249/Practical%20AI%20Literacy%20Challenges/bulldog_therapist.jpg"
+image-alt: "Over the shoulder painting of a bulldog providing therapy to a woman"
+image-description: "Made with Midjourney: An oil painting capturing a female French Bulldog therapist talking to a client, over the shoulder perspective, client from behind --chaos 20 --ar 1:1 --style raw --sref 1777125610 --profile rpyy4to"
+tags: ["AI Literacy", "Technical Understanding", "LLM Fundamentals", "AI Processing"]
+---
+
 # Day 9: How do AI Assistants "Think"? 🧠
 ## Mini-lesson day!
 
@@ -36,10 +44,10 @@ AI chat assistants work through what's called "autoregression" \- they predict w
 
 These concepts matter because:
 
-- The AI can only work with what's in its current context window.  
+- AI chat tools have a short term "memory" for the current conversation known as the context window.  
 - Earlier parts of very long conversations may get "pushed out" of view and forgotten.  
 - You might need to occasionally remind the AI of important details from earlier.  
-- The more relevant and high quality context you provide within the window, the better the responses.
+- The more relevant and high quality context you provide within the context window, the better the responses.
 
 Even though generative AI tools are programs, sometimes it can be helpful to think of them as having a conversation with a knowledgeable colleague or friend who:
 
@@ -112,7 +120,7 @@ Large Language Models (LLMs) operate within fixed token limits, which define the
 
 #### Hands-On Exploration:
 
-1. Check the token limits of the AI assistant you’re using (if available).  
+1. Check the token limits of the AI assistant you're using (if available).  
 2. Start a conversation with a detailed prompt.  
 3. Gradually add more text or context.  
 4. Push the token limit and observe how earlier parts of the conversation might get "forgotten" or ignored.
@@ -192,7 +200,3 @@ Compare the responses and note the differences in quality and relevance.
 - Front-load important information.  
 - If you get an unexpected response, try providing more context.  
 - Remember: these are prediction engines, not knowledge databases.
-
-![Over the shoulder painting of a bulldog providing therapy to a woman](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850249/Practical%20AI%20Literacy%20Challenges/bulldog_therapist.jpg)
-## Image Description
-Made with Midjourney: An oil painting capturing a female French Bulldog therapist talking to a client, over the shoulder perspective, client from behind --chaos 20 --ar 1:1 --style raw --sref 1777125610 --profile rpyy4to

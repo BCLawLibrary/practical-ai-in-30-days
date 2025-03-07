@@ -1,3 +1,11 @@
+---
+title: "Multimodal Magic 📸"
+image-url: "https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850251/Practical%20AI%20Literacy%20Challenges/Goose_in_an_arthall.jpg"
+image-alt: "A goose in an art gallery"
+image-description: "Made with Midjourney: A goose stands in the grand hall of a museum, its neck slightly craned as it admires a painting on the wall. The painting is a large, abstract work, vibrant with swirling colors. The goose's head is tilted slightly, as if pondering the meaning of the artwork. The goose is realistically rendered with detailed feather texture, but the scene itself has a slightly painterly, illustrated quality, with softer edges and slightly exaggerated colors. The museum hall is quiet and stately, with a high arched ceiling and classical architectural details. A single shaft of light streams in from a high window, illuminating the goose and the artwork. The overall tone is whimsical and contemplative. --chaos 25 --ar 3:2 --style raw --sref https://s.mj.run/HFt4hL2Mi3w --profile h1khssg"
+tags: ["AI Literacy", "Advanced Features", "Multimodal Capabilities", "Visual Processing"]
+---
+
 # Day 12: Multimodal Magic 📸
 ## **Exploring Computer Vision**
 

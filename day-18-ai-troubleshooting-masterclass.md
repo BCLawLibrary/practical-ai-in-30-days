@@ -1,3 +1,11 @@
+---
+title: "AI Troubleshooting Masterclass 🛠️"
+image-url: "https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850249/Practical%20AI%20Literacy%20Challenges/Imagen3_-_Deep_End.jpg"
+image-alt: "First person point of view, a person looking down at the deep end of the pool."
+image-description: "Made with Imagen 3: First person point of view, a person standing at the "deep end" of the pool."
+tags: ["AI Literacy", "Technical Problem-Solving", "Error Patterns", "Problem Solving"]
+---
+
 # Day 18: AI Troubleshooting Masterclass 🛠️
 ## **A Guide to Getting Better Results**
 

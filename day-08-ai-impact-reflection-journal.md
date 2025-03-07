@@ -1,3 +1,11 @@
+---
+title: "AI Impact Reflection Journal 🤔"
+image-url: "https://res.cloudinary.com/dt5ug8amw/image/upload/v1733614332/AI%20Advent%202024/Small_Forest_Creature_in_Winter_attire.png"
+image-alt: "A small woodland creature against a dark background in illustrative watercolor style. The creature is wearing a winter cap and a white polka dot black sweater."
+image-description: "Made with Midjourney: A small, simple watercolor chipmunk, the chipmunk is wearing ice skates, soft pastel colors, black background. --chaos 20 --ar 1:1 --style raw --sref https://s.mj.run/C04IY4x3NTY --personalize us3j9yo --stylize 250 --v 6.1"
+tags: ["AI Literacy", "AI Literacy", "Generative AI"]
+---
+
 # Day 8: AI Impact Reflection Journal 🤔
 ## **Professional Development**
 

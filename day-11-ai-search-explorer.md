@@ -1,3 +1,11 @@
+---
+title: "AI Search Explorer 🔍"
+image-url: "https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850251/Practical%20AI%20Literacy%20Challenges/Making_space.jpg"
+image-alt: "Abstract art of a man standing in ruins looking at the night sky"
+image-description: "Made with Midjourney: making space --ar 74:63 --sref 3552739730 --stylize 1000 --v 6"
+tags: ["AI Literacy", "Tools & Features", "Information Retrieval", "Search Strategies"]
+---
+
 # Day 11: AI Search Explorer 🔍
 ## **AI-Powered Search in Action!**
 

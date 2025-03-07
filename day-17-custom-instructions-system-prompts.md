@@ -1,3 +1,11 @@
+---
+title: "Custom Instructions & System Prompts"
+image-url: "https://res.cloudinary.com/dt5ug8amw/image/upload/v1734382959/AI%20Advent%202024/cosmic_nebulae.png"
+image-alt: "A cosmic nebula in the shape of a snowflake with deep space and distant stars in the background"
+image-description: "Made with Midjourney: https://s.mj.run/Elbd6xXyKIc a cosmic snowflake nebula, ethereal and delicate, six-pointed structure, shimmering blue and white light, wispy star trails forming intricate patterns, icy glow, deep black background with distant stars --chaos 30 --ar 1:1 --style raw --personalize qaj1k1t --stylize 750 --v 6.1"
+tags: ["AI Literacy", "Advanced Customization", "System Prompts", "Customization"]
+---
+
 # Day 17: Custom Instructions & System Prompts
 
 ## Fun and Functional!

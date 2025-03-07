@@ -1,3 +1,11 @@
+---
+title: "Mid-Month AI Reflection 📖"
+image-url: "https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850250/Practical%20AI%20Literacy%20Challenges/curled_up_fox.jpg"
+image-alt: "watercolor painting of a fox curled up sleeping in a forest"
+image-description: "Made with Midjourney: A fox curled up under a tree, watercolor illustration, soft pastel hues, delicate brushstrokes, a dreamy and serene atmosphere --chaos 25 --ar 6:5 --style raw --profile 8rqt991 --stylize 250"
+tags: ["AI Literacy", "Critical Thinking", "Progress Assessment", "Learning Reflection"]
+---
+
 # Day 15: Mid-Month AI Reflection 📖
 ### **🎯 Objective:**
 

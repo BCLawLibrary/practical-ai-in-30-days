@@ -1,4 +1,10 @@
-# Day xx: Reasoning Models vs. Chat Models: Different AI, Different Prompting 🧠
+---
+title: "Reasoning Models vs. Chat Models: Different AI, Different Prompting 🧠"
+image-url: "https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850250/Practical%20AI%20Literacy%20Challenges/Geometric_Owl.jpg"
+image-alt: "Digital Illustration of an owl in pastel geometric forms"
+image-description: "Made with Midjourney: A geometric owl with piercing eyes, risograph print style, navy blue background, flat muted tones, bold outlines, triangular and circular shapes creating symmetry --chaos 25 --ar 6:5 --style raw --profile 7bn4kwq --stylize 250"
+tags: ["AI Literacy", "Generative AI"]
+---
 
 ## Mini-lesson Day: Advanced AI Concepts Made Simple
 

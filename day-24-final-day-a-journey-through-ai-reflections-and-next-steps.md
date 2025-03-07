@@ -1,3 +1,11 @@
+---
+title: "Final Day! A Journey Through AI, Reflections, and Next Steps"
+image-url: "https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850249/Practical%20AI%20Literacy%20Challenges/Lighthouse_Logo.jpg"
+image-alt: "A lighthouse in a vector logo style"
+image-description: "Made with Midjourney: lighthouse logo --chaos 25 --ar 6:5 --style raw --profile 7bn4kwq --stylize 250"
+tags: ["AI Literacy", "Reflection & Future Planning", "Learning Journey", "Skill Application"]
+---
+
 # Day 24: Final Day! A Journey Through AI, Reflections, and Next Steps
 ## **🎯 Objective:**
 

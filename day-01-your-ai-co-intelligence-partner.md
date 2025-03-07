@@ -1,4 +1,10 @@
-# Day 1: Your AI Co-Intelligence Partner 🤝
+---
+title: "Your AI Co-Intelligence Partner 🤝"
+image-url: "https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850252/Practical%20AI%20Literacy%20Challenges/sprout_to_tree_of_knowledge.jpg"
+image-alt: "Digital illustration of a sprout growing into a circuit board tree"
+image-description: "Made with Imagen3: \"a small green sprout emerging from the ground, with a simple, gently curved stem and two small, minimalist leaves. The sprout then seamlessly transitions upwards into a stylized tree trunk that becomes increasingly geometric and digital, culminating in an upper portion where the branches are formed by clean, geometric lines resembling a circuit board pattern, with simplified, abstract representations of leaves made from small, angular shapes connected to the circuit-branches. The entire design will utilize a limited color palette, primarily soft green for the sprout, transitioning into a darker, more vibrant green for the circuit-tree portion, against a neutral background.\""
+tags: ["AI Literacy", "Introduction & Fundamentals", "Chat Assistants", "Getting Started"]
+---
 ## A Friendly Introduction
 
 ### 🎯 Objective: 
@@ -27,11 +33,7 @@ Have a conversation with an AI chat assistant.
 
 💡 **Tip:** Treat this like a conversation 
 - Ask the AI to be proactive and ask questions to help tailor the recommendations to your needs
-- Follow up on one of the AI’s suggestions 
+- Follow up on one of the AI's suggestions 
 - Ask for more examples or dive deeper into how it works
 - Give more context about yourself to get more detailed and tailored responses
 
-
-![Digital illustration of a sprout growing into a circuit board tree](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850252/Practical%20AI%20Literacy%20Challenges/sprout_to_tree_of_knowledge.jpg)
-## Image Description
-Made with [Imagen3](https://labs.google.com/fx/tools/image-fx): "a small green sprout emerging from the ground, with a simple, gently curved stem and two small, minimalist leaves. The sprout then seamlessly transitions upwards into a stylized tree trunk that becomes increasingly geometric and digital, culminating in an upper portion where the branches are formed by clean, geometric lines resembling a circuit board pattern, with simplified, abstract representations of leaves made from small, angular shapes connected to the circuit-branches. The entire design will utilize a limited color palette, primarily soft green for the sprout, transitioning into a darker, more vibrant green for the circuit-tree portion, against a neutral background."

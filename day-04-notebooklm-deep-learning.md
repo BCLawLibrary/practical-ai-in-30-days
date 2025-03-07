@@ -1,5 +1,12 @@
-# Day 4: NotebookLM Deep Learning 🎧
-## **Educational Innovation**
+---
+title: "NotebookLM Deep Learning 🎧"
+image-url: "https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850251/Practical%20AI%20Literacy%20Challenges/Owl_on_a_branch.jpg"
+image-alt: "Sketching of a horned owl on a branch"
+image-description: "Made with Midjourney: an owl on a branch --sref 2142149306 --v 6"
+tags: ["AI Literacy", "Tools & Features", "Learning Tools", "Information Organization"]
+---
+
+## Educational Innovation
 
 ### 🎯 Objective: 
 - Explore NotebookLM's ability to transform content into engaging learning experiences helping you more deeply understand the source material. 
@@ -54,7 +61,3 @@ In particular it raises questions to ask yourself when designing AI chat assista
 - How can AI voices and personalities reflect diverse backgrounds authentically?
 - What stereotypes should we be careful to avoid?
 - How can AI tools make education more accessible to different learning styles?
-
-![Sketching of a horned owl on a branch](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850251/Practical%20AI%20Literacy%20Challenges/Owl_on_a_branch.jpg)
-## Image Description
-Made with Midjourney: an owl on a branch --sref 2142149306 --v 6

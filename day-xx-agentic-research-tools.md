@@ -1,4 +1,10 @@
-# **Day X: AI Deep Research Tools Mini-Lesson 🕵️‍♂️📚**
+---
+title: "AI Deep Research Tools Mini-Lesson 🕵️‍♂️📚"
+image-url: ""
+image-alt: ""
+image-description: ""
+tags: ["AI Literacy", "AI Literacy", "Generative AI"]
+---
 
 ## 🎯 Learning Objective
 

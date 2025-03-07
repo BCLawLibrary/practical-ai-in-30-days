@@ -1,4 +1,11 @@
-# Day 23: Testing your Prompts and Assistants 🧪
+---
+title: "Testing your Prompts and Assistants 🧪"
+image-url: "https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850249/Practical%20AI%20Literacy%20Challenges/Chalkboard_Drawing.jpg"
+image-alt: "Cartoon sketch of a chalkboard"
+image-description: "Made with Midjourney: a cartoonish drawing of a chalkboard --chaos 25 --ar 6:5 --style raw --profile l91zudi --stylize 250"
+tags: ["AI Literacy", "Quality Assurance", "Testing Practices", "Quality Control"]
+---
+
 ## **Mini-lesson day\!**
 
 ### **🎯 Objective**
