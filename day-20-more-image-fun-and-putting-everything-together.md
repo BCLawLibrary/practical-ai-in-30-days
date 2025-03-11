@@ -6,9 +6,7 @@ image-description: "Made with Midjourney: Minimal slide design. stylized shapes 
 tags: ["AI Literacy", "Integration & Synthesis", "Workflow Integration", "Practical Application"]
 ---
 
-# Day 20: More Image Fun and Putting everything together!
-
-Today’s activity is a two-parter: first, you'll dive deeper into the world of AI image generation. Then, you'll pull together everything you've learned in this advent calendar to create a complete project.
+Today’s activity is a two-parter: first, you'll dive deeper into the world of AI image generation. Then, you'll pull together everything you've learned in this guide to create a complete project.
 
 ---
 
@@ -18,36 +16,39 @@ Explore advanced image generation tools and techniques, then apply your AI skill
 
 ---
 
-## **🛠️ Tools to Try**
+## 🛠️ Tools to Try
 
-### **Free Options**
+### Free Options
 
 * **Imagen 3**: Google's latest image generator. Available via [Gemini](https://gemini.google.com) or [Labs](https://labs.google/fx).  
 * **Whisk**: A playful new tool from Google. Explore it at [Labs](https://labs.google/fx).  
 * **DALL-E 3**: Available in [ChatGPT](https://chat.openai.com) or [Copilot](https://copilot.microsoft.com).
 
-### **Paid Options**
+### Paid Options
 
 * **Midjourney**: My personal favorite for artistic results. Visit [Midjourney](https://midjourney.com).  
 * **Ideogram**: Great for generating images with text. Check out [Ideogram](https://ideogram.ai).  
 * **Magnific**: Enhances image quality and detail. Explore [Magnific](https://magnific.ai).  
 * **Leonardo.ai**: Versatile tool with a variety of styles. Visit [Leonardo.ai](https://leonardo.ai).
+* **Freepik**:  Create AI assets from several popular generation models and tools in one place. Visit [Freepik](freepik.com).
+
+**Remember**: These projects are meant to be fun learning experiences. Don't aim for perfection - focus on experimenting with different tools and techniques you've learned throughout the previous activities. The goal is to understand how different AI tools can work together to enhance your creative process.
 
 ---
 
-## **📝 Part 1: Mastering Image Generation**
+## 📝 Part 1: Mastering Image Generation
 
-### **Tips for Crafting Better Image Prompts**
+### Tips for Crafting Better Image Prompts
 
 1. **Start Simple**  
-   Begin with a basic prompt to spark inspiration, then refine. You’d be surprised at how far a single word or idea takes you\!  
+   Begin with a basic prompt to spark inspiration, then refine. You’d be surprised at how far a single word or idea takes you!  
 2. **Use the Formula for Specific Results**  
    **Template:**  
    `[Medium] [Subject] [Subject in Scene] [Optional: Additional Details about subject/scene] [Optional: Color Palettes, Moods] [Optional: Style Elements] [End with specific characteristics related to medium]`  
    * **Example 1:** "Oil painting of a cat reading a book by a fireplace, warm tones, cozy atmosphere. Loose brush strokes, rich texture, and soft edges, impressionist style."  
    * **Example 2**: “Cinematic still of a cat reading a book by a crackling fireplace, warm ambient light, soft shadows, and a shallow depth of field, captured on a 35mm film camera, with rich colors and a cozy atmosphere”  
 3. **Leverage AI Chat Tools for Help**  
-   * **Inspiration:** Ask for ideas. Example: “Suggest a creative image prompt featuring \[my amazing idea\].”  
+   * **Inspiration:** Ask for ideas. Example: “Suggest a creative image prompt featuring [my amazing idea].”  
    * **Prompt Improvement:** Have the AI refine your prompt for more detail.  
    * **Image Description Extraction:** Remember about multimodality\! Upload an image to a chat and have it describe the image in artistic detail. Then reuse the elements in a new prompt.  
    * **Prompt structure extraction and classification**: Copy image descriptions you find online or this advent calendar and ask an AI to break them down into reusable templates. Which leads nicely into...  
@@ -70,17 +71,17 @@ If you decide to try Midjourney, I highly recommend taking a moment to familiari
 
 ---
 
-## **📝 Part 2: Putting Everything Together**
+## 📝 Part 2: Putting Everything Together
 
-Now that you've explored image generation, let’s combine your AI skills for a creative project\! Choose one of the following activities:
+Now that you've explored image generation, let’s combine your AI skills for a creative project! Choose one of the following activities:
 
-### **Option 1: Illustrated Story Creation 📚**
+### Option 1: Illustrated Story Creation 📚
 
-#### **Overview**:
+#### Overview:
 
 Create a children's story with custom illustrations, perfect for sharing with family or friends any time of year. This project combines narrative development, character design, and visual storytelling.
 
-#### **Workflow Guide**
+#### Workflow Guide
 
 1. **Story Development**
     * Start with ChatGPT or Claude to brainstorm story concepts.
@@ -102,20 +103,20 @@ Create a children's story with custom illustrations, perfect for sharing with fa
     * Save your story and illustrations in Word or Google Docs.
     * Print or share digitally with family and friends.
 
-## Option 2: Enhanced Presentation Transformation
+## Option 2: Enhanced Presentation Visuals
 
-#### **Overview**
+#### Overview
 
 Take a presentation you've already created and use AI to enhance it with fresh perspectives, engaging visuals, and data visualizations. This is perfect for breathing new life into existing lectures, talks, or presentations with minimal extra effort.
 
- #### **Quick Start Guide**
+#### Quick Start Guide
 
 1. Choose an existing presentation or lecture you'd like to enhance.
 2. Copy your notes, outline, or simply explain your topic to an AI assistant.
 3. Let AI help generate fresh perspectives and visual ideas.
 4. Add engaging visuals and data elements.
 
-#### **Workflow Ideas**
+#### Workflow Ideas
 
 1. **Start With What You Have**
     * Existing presentation notes
@@ -140,7 +141,7 @@ Take a presentation you've already created and use AI to enhance it with fresh p
     * Clear transitions
     * Impactful closing statements
 
-#### **Pro Tips**
+## Pro Tips
 
 * Let AI suggest new angles you might not have considered.
 * Use image generators for abstract concepts or metaphors.
@@ -148,19 +149,15 @@ Take a presentation you've already created and use AI to enhance it with fresh p
 * Upload a screenshot of your slides and ask for tips for improvement to design, content, or both\!
 * Remember: AI is enhancing your existing work, not replacing it\!
 
-**Remember**: These projects are meant to be fun learning experiences. Don't aim for perfection \- focus on experimenting with different tools and techniques you've learned throughout the previous activities. The goal is to understand how different AI tools can work together to enhance your creative process.
+---
 
-## **💡 Connect to Previous Learning:**
+**Bonus: Artistic Relaxation Project 🎨**
+
+Here’s one last fun thing to try. Create a themed collection of either children or adult coloring pages - perfect for weekend relaxation or sharing with others. This project focuses on design consistency and artistic composition.
+
+## 💡 Connect to Previous Learning:
 
 * [Use custom AI assistants (Day 17) for repetitive tasks](https://ai-advent-calendar.netlify.app/day/17)
 * [Apply clear prompting techniques (Day 10)](https://ai-advent-calendar.netlify.app/day/10)    
 * [Utilize multi-modal capabilities (Day 12)](https://ai-advent-calendar.netlify.app/day/12)
 * [Troubleshoot if necessary (Day 18)](https://ai-advent-calendar.netlify.app/day/18)
-
-## **Bonus: Artistic Relaxation Project 🎨**
-
-Here’s one last fun thing to try. Create a themed collection of either children or adult coloring pages \- perfect for weekend relaxation or sharing with others. This project focuses on design consistency and artistic composition.
-
-![A mountain range in minimal digital illustration style with warm pastel colors](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850250/Practical%20AI%20Literacy%20Challenges/minimal_slide_design.jpg)
-## Image Description
-Made with Midjourney: Minimal slide design. stylized shapes on blank background. Maroon and gold color palette, desaturated. minimalistic --chaos 20 --ar 16:9 --style raw --sref 2907974220 --profile zn92tm6 --stylize 250

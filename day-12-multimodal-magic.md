@@ -6,21 +6,20 @@ image-description: "Made with Midjourney: A goose stands in the grand hall of a 
 tags: ["AI Literacy", "Advanced Features", "Multimodal Capabilities", "Visual Processing"]
 ---
 
-# Day 12: Multimodal Magic 📸
-## **Exploring Computer Vision**
+## Exploring Computer Vision
 
-### 🎯 **Objective:**
+### 🎯 Objective:
 
 Discover how combining images with questions can unlock powerful AI assistance for everyday problems and presentations.
 
-### 🛠️ **Tools:**
+### 🛠️ Tools:
 
 - Multimodal AI Assistants:
   - [Claude](https://claude.ai)
   - [ChatGPT](https://chatgpt.com)
   - [Gemini](https://gemini.google.com)
 
-### 💡 **How Others Used This:**
+### 💡 How Others Used This:
 
 - "I uploaded a photo of my coffee carafe and got exact measurements for the perfect coffee-to-water ratio." [Link to result](https://claude.site/artifacts/7dc42222-3af3-441e-befe-1edd4b9cfd8e)
 - "Showed AI my spreadsheet of oddly formatted names and got a formula to extract just the first names."
@@ -29,31 +28,31 @@ Discover how combining images with questions can unlock powerful AI assistance f
 
 ---
 
-### 📝 **Challenge:**
+### 📝 Challenge:
 
 Today is about exploring real-world applications of image + AI assistance. Try any of these ideas or explore multimodal capabilities on your own. 
 
 **Please note:** Even though AI can be helpful, you should always check with a professional or expert before using the information, especially for decisions that could impact someone's health, safety, or finances. Use your best judgement and always verify information.
 
-#### **Everyday Mysteries:**
+#### Everyday Mysteries:
 
 - Snap a photo of a mysterious household item or tool and ask what it's for.
 - Troubleshoot a confusing error message on your device.
 - Take a picture of a warning light in your car and get immediate help.
 
-#### **Document & Data Help:**
+#### Document & Data Help:
 
 - Upload handwritten notes for transcription or translation.
 - Share a screenshot of a spreadsheet for formula help.
 - Photograph a form you need help filling out.
 
-#### **Visual Problem Solving:**
+#### Visual Problem Solving:
 
 - Photograph a parking sign and ask about restrictions.
 - Snap a repair/assembly problem you're stuck on.
 - Share a screenshot of a software issue.
 
-#### **Presentation Assistance:**
+#### Presentation Assistance:
 
 - Upload slides or images for a presentation and ask for feedback on:
   - Design improvements
@@ -62,9 +61,9 @@ Today is about exploring real-world applications of image + AI assistance. Try a
 
 ---
 
-### 📢 **Example Prompts:**
+### 📢 Example Prompts:
 
-#### **For Unknown Items:**
+#### For Unknown Items:
 
 ```plaintext
 I found this in my kitchen drawer [paste image].
@@ -73,7 +72,7 @@ I found this in my kitchen drawer [paste image].
 3. Are there any interesting facts about it?
 ```
 
-#### **For Error Messages:**
+#### For Error Messages:
 
 ```plaintext
 I keep getting this error [paste screenshot] when I try to save my document.
@@ -82,7 +81,7 @@ I keep getting this error [paste screenshot] when I try to save my document.
 3. Can you suggest step-by-step troubleshooting steps?
 ```
 
-#### **For Presentation Slides:**
+#### For Presentation Slides:
 
 ```plaintext
 Here are my presentation slides on [topic] [paste image].
@@ -93,7 +92,7 @@ Here are my presentation slides on [topic] [paste image].
 
 ---
 
-### 💡 **Tips:**
+### 💡 Tips:
 
 - Ensure images are clear and well-lit.
 - If your screenshot software allows you to annotate the image, use it to highlight the specific area you want the AI to focus on.
@@ -103,13 +102,9 @@ Here are my presentation slides on [topic] [paste image].
 
 ---
 
-### 🤔 **Things to Consider:**
+### 🤔 Things to Consider:
 
 - Some AI assistants might decline to continue the conversation when you upload images with people.
 - Personal or sensitive information should be masked in screenshots.
 - Complex technical issues might still need professional assistance.
 - Image quality may impact the AI's ability to help.
-
-![A goose in an art gallery](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850251/Practical%20AI%20Literacy%20Challenges/Goose_in_an_arthall.jpg)
-## Image Description
-Made with Midjourney: A goose stands in the grand hall of a museum, its neck slightly craned as it admires a painting on the wall. The painting is a large, abstract work, vibrant with swirling colors. The goose's head is tilted slightly, as if pondering the meaning of the artwork. The goose is realistically rendered with detailed feather texture, but the scene itself has a slightly painterly, illustrated quality, with softer edges and slightly exaggerated colors. The museum hall is quiet and stately, with a high arched ceiling and classical architectural details. A single shaft of light streams in from a high window, illuminating the goose and the artwork. The overall tone is whimsical and contemplative. --chaos 25 --ar 3:2 --style raw --sref https://s.mj.run/HFt4hL2Mi3w --profile h1khssg

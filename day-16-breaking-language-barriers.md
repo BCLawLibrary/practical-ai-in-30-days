@@ -6,7 +6,6 @@ image-description: "Made with Midjourney: Mood --chaos 10 --ar 2:3 --profile fyi
 tags: ["AI Literacy", "Practical Applications", "Translation", "Language Learning"]
 ---
 
-# Day 16: Breaking Language Barriers 🌎
 ## Language Learning & Cross-Cultural Communication
 
 ### 🎯 Objective:
@@ -110,7 +109,3 @@ Bring a piece of text to life with ElevenLabs! Create an audio version of:
 Generate a translation with an AI assistant, then use ElevenLabs to voice it in another language.
 
 The possibilities are endless! Experience how AI can turn written content into dynamic, expressive audio. When used appropriately AI can deepen understanding and connection across cultures and languages.
-
-![A woman holding an umbrella standing in a glass box in the middle of the street](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850251/Practical%20AI%20Literacy%20Challenges/Mood.jpg)
-## Image Description
-Made with Midjourney: Mood --chaos 10 --ar 2:3 --profile fyitkl7 --stylize 400 --weird 10 --v 6

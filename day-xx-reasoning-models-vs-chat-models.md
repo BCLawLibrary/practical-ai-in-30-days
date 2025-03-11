@@ -8,17 +8,18 @@ tags: ["AI Literacy", "Generative AI"]
 
 ## Mini-lesson Day: Advanced AI Concepts Made Simple
 
-### **🎯 Objective:**
+### 🎯 Objective:
 * Understand the fundamental differences between reasoning models and traditional chat models
 * Learn effective prompting strategies unique to reasoning models
 * Practice creating prompts optimized for both model types
 
-### **🛠️ Tools:**
+### 🛠️ Tools:
 * Reasoning model options (at least one):
   * [OpenAI o1 series](https://chat.openai.com/) (requires subscription)
+  * [OpenAI o3 mini](https://chat.openai.com) (limited free tier access)
   * [DeepSeek R1](https://chat.deepseek.com/)
   * [Google Gemini with Flash Thinking](https://gemini.google.com/)
-  * [Claude 3.7 Sonnet with Extended Thinking](https://claude.ai/) (Pro accounts only)
+  * [Claude 3.7 Sonnet with Extended Thinking](https://claude.ai/) (Requires subscription)
 * Standard chat model options:
   * [Claude 3.7 Sonnet](https://claude.ai/) (free tier)
   * [ChatGPT (GPT-4o)](https://chat.openai.com/) (free tier)
@@ -28,11 +29,9 @@ tags: ["AI Literacy", "Generative AI"]
 ## 📚 Understanding the Technology Behind Reasoning Models
 *(Based on concepts explained by Andrej Karpathy's "Deep Dive Into LLMs" and Latent Space's analysis of reasoning models)*
 
-Before diving into practical exercises, let's understand what makes reasoning models different:
+### How Reasoning Models Work:
 
-### **How Reasoning Models Work:**
-
-Reasoning models represent a significant evolution in AI development. Here's how they differ from traditional models:
+Reasoning models represent a significant evolution in AI development. Before diving into practical exercises, let's understand what makes reasoning models different:
 
 **Training Process:**
 - **Reinforcement Learning (RL)**: Unlike models trained solely on imitation, reasoning models use trial and error to discover effective problem-solving strategies
@@ -41,7 +40,7 @@ Reasoning models represent a significant evolution in AI development. Here's how
 
 **Inference Time Thinking:**
 - **Extended Computation**: Reasoning models spend significantly more time "thinking" before responding
-- **Built-in Chain of Thought**: While you previously learned to prompt models to "think step by step," reasoning models have this behavior built into their design
+- **Built-in Chain of Thought**: While you previously learned to prompt models to "think step by step," reasoning models have this behavior built into their design, in fact [it's best practice *NOT* to ask a reasoning model to "think step by step"](https://platform.openai.com/docs/guides/reasoning-best-practices#how-to-prompt-reasoning-models-effectively)
 - **Visible Thinking Process**: While the model does its reasoning before giving a final answer, most interfaces allow you to view this thinking process by expanding a dropdown menu or clicking on a "Show thinking" option—giving you insight into how it reached its conclusion
 
 **Resource Implications:**

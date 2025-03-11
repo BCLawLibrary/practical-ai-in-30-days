@@ -6,8 +6,7 @@ image-description: "Made with Midjourney: making space --ar 74:63 --sref 3552739
 tags: ["AI Literacy", "Tools & Features", "Information Retrieval", "Search Strategies"]
 ---
 
-# Day 11: AI Search Explorer 🔍
-## **AI-Powered Search in Action!**
+## AI-Powered Search in Action!
 
 ### 🎯 **Objective:**
 
@@ -19,9 +18,11 @@ Learn how AI-powered search tools differ from traditional search engines and und
   - [Perplexity](https://perplexity.ai) (3 Pro searches free daily)
   - [ChatGPT](https://chatgpt.com) (with Browse capability)
 
+---
+
 ### 📝 **Knowledge Cutoffs:**
 
-AI language models are trained up to certain dates, meaning they may not know about events or data beyond these points. Here are some current knowledge cutoffs:
+Because of the nature of the training process AI language models have a natural knowledge cutoff. This means they do not know about events or data beyond these points. Here are some current knowledge cutoffs:
 
 - **GPT-4.5:** [Sep 30, 2023](https://platform.openai.com/docs/models/gpt-4.5-preview)
 - **GPT-4o:** [June 2024](https://help.openai.com/en/articles/9624314-model-release-notes)
@@ -29,9 +30,9 @@ AI language models are trained up to certain dates, meaning they may not know ab
 - **Claude 3.5 Sonnet:** [April 2024](https://docs.anthropic.com/en/docs/about-claude/models)
 - **Gemini:** [August 2024](https://aistudio.google.com/prompts/new_chat)
 
-These cutoffs highlight why AI-powered search tools like Perplexity and ChatGPT with Browse capabilities are powerful — they combine AI’s reasoning skills with access to up-to-date information.
+These cutoffs highlight why AI-powered search tools like Perplexity, ChatGPT and other tools with browse capabilities are powerful — they combine AI’s reasoning skills with access to up-to-date information.
 
-**Getting Around Knowledge Cutoffs**
+**Getting Past Knowledge Cutoffs**
 
 A knowledge cutoff doesn't prevent a model from discussing current topics intelligently. You just have to be aware that for bleeding-edge content, it's best if you supply the specific information, articles, or data related to your query as part of your chat to give the AI context. 
 
@@ -49,11 +50,11 @@ Alternatively, if you know a model has internet search capabilities provided by 
 
 ---
 
-## **🌌 Exploration Paths:**
+## 🌌 Exploration Paths:
 
 Choose one of these exploration paths to dive into AI-powered search!
 
-### **Path 1: Expert Verification**
+### Path 1: Expert Verification
 
 - **Step 1:** Pick a topic you know well professionally or academically.
 - **Step 2:** Run searches about this topic using Perplexity or ChatGPT.
@@ -62,7 +63,7 @@ Choose one of these exploration paths to dive into AI-powered search!
 
 ---
 
-### **Path 2: Learning Journey**
+### Path 2: Learning Journey
 
 - **Step 1:** Select a current topic or trend you want to explore.
 - **Step 2:** Run an initial broad search on Perplexity or ChatGPT.
@@ -71,7 +72,7 @@ Choose one of these exploration paths to dive into AI-powered search!
 
 ---
 
-## 💡 **Tips for Success:**
+## 💡 Tips for Success:
 
 - **Source Quality:** Pay attention to the sources cited. Are they reputable?
 - **Verification:** Always double-check critical information, especially for professional or academic purposes.
@@ -80,19 +81,17 @@ Choose one of these exploration paths to dive into AI-powered search!
 
 ---
 
-## 💬 Share Your Insights!
+## 📚 Reflection Questions
 
 - After exploring with AI search tools, reflect on your experience.
 - Did a particular feature stand out to you?
 - How did using a tool with search capabilities compare to just chatting with an LLM?
-- If you explored **Perplexity**, check out some of its advanced features like **Spaces** for organizing research or **Pages** for turning your findings into shareable articles ([learn more here](https://www.perplexity.ai/hub/getting-started)).
-- Share your thoughts and discoveries with your peers!
 
 ---
 
-### **Remember:**
+### Remember:
 
-AI search tools offer incredible potential for aggregation and synthesis, but they’re not infallible. Think of them as one more tool in your generative AI toolkit to enhance your search and exploration!
+AI search tools offer incredible potential for aggregation and synthesis, but they’re not infallible. Think of them as one more tool in your generative AI toolkit to enhance your search and exploration! 
 
 **Happy exploring! 🌐🔍**
 

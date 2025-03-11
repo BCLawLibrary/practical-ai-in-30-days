@@ -5,13 +5,13 @@ image-alt: "Simple line drawing illustration, A side-view lightbulb silhouette w
 image-description: "Made with Midjourney; Simple line drawing illustration, A side-view lightbulb silhouette where the filament forms a simple three-node neural network, 2D, flat illustration, simple lines --chaos 25 --ar 6:5 --style raw --profile l91zudi --stylize 250"
 tags: ["AI Literacy", "Practical Applications", "Code Generation", "AI-Assisted Development"]
 ---
-## **Creative Tech Exploration**
+## Creative Tech Exploration
 
-### **🎯 Objective:**
+### 🎯 Objective:
 
 Learn how AI can help you build functional applications, tools, and interactive experiences - even if you've never written a line of code before!
 
-### **🛠️ Tools (Pick One or Try Multiple):**
+### 🛠️ Tools (Pick One or Try Multiple):
 
 **Note:** Each of these tools offer a free tier or a free trial
 
@@ -30,7 +30,9 @@ Learn how AI can help you build functional applications, tools, and interactive 
 * [Replit](https://replit.com/) 
 * [Windsurf](https://windsurf.io/) 
 
-### **📝 Challenge:**
+---
+
+## 📝 Challenge:
 
 Today, you'll be collaborating with AI to create custom applications, from scratch, without having to write a line of code. Don't let today's topic scare you, AI tools are incredibly capable at taking rough ideas and generating working websites in a matter of minutes.
 
@@ -67,7 +69,7 @@ Then, try creating a more complex version of your idea (or a new idea) using one
    * Mood board generator
    * Personal portfolio page
 
-### **💡 Tips for Using Chat Assistants:**
+### 💡 Tips for Using Chat Assistants:
 
 **For Claude:**
 * Specifically ask Claude to "create an artifact" for your application 
@@ -87,7 +89,7 @@ Then, try creating a more complex version of your idea (or a new idea) using one
 * If you see an error, describe it and copy and paste it back to the assistant and ask for a fix
 * Keep iterating - if something doesn't work or look right, ask for specific changes
 
-### **💡 Useful Phrases for Better Results (No Coding Knowledge Required!):**
+### 💡 Useful Phrases for Better Results (No Coding Knowledge Required!):
 
 You don't need to know what these mean technically - just try adding these phrases to your prompts to get better results:
 
@@ -95,12 +97,11 @@ You don't need to know what these mean technically - just try adding these phras
 * Ask specifically for an interactive web application
 * Try asking directly for a "React app". All of these tools understand what this means and gives them an extra hint that you want interactivity
 
-**For Visual Elements:**
+**For Specific Interactive Elements:**
 * "Add a slider that goes from [minimum] to [maximum]"
 * "Create a button that [describes what happens when clicked]"
 * "Include a text input field where users can type [what kind of information]"
 * "Show results in a chart/graph that updates in real-time"
-* "Make it responsive so it works on both mobile and desktop"
 
 **For Functionality:**
 * "Store the user's inputs so they persist between sessions"
@@ -115,6 +116,8 @@ You don't need to know what these mean technically - just try adding these phras
 * "Include icons for [describe what icons you want]"
 * "Organize the layout with [describe arrangement]"
 * "Add animations when [element] changes"
+* "Make it responsive so it works on both mobile and desktop"
+* Copy and paste a screenshot of a website design you like and ask it to use it for inspiration!
 
 **For Getting Unstuck:**
 * "The [feature] isn't working because [describe the issue]. Can you fix it?"
@@ -122,8 +125,9 @@ You don't need to know what these mean technically - just try adding these phras
 * "Show me a step-by-step explanation of how this works"
 * "Can you create a simpler version first, then we'll add more features?"
 * "How would you improve this design/functionality?"
+* Copy and paste error messages and simply ask the AI to "first think through possible causes and then implement a fix for the most likely culprit."
 
-### **💡 Tips for Specialized Builders:**
+### 💡 Tips for Specialized Builders:
 
 **Why Try These Tools:**
 These specialized platforms can create full-featured applications with:
@@ -140,7 +144,9 @@ These specialized platforms can create full-featured applications with:
 * Want a new feature? Just prompt it into existence!
 * Take a few minutes to explore the specialized builders' templates or examples before creating your own
 
-### **📝 Sample Prompts for Chat Assistants:**
+---
+
+## 📝 Sample Prompts for Chat Assistants:
 
 **For Claude:**
 ```
@@ -153,7 +159,7 @@ Create an interactive web demo of the classic snake game. Except here's the twis
 Create an interactive quizzing app in react that let's me test my knowledge about prompt engineering with AI tools. The questions should help gauge my level of knowledge from an end user standpoint of consumer facing AI chat tools. More of an AI first principles and practical viewpoint. Multiple choice and true false questions only with scoring. It should have a clean ui, interactive elements, subtle but nice animations, elements of whimsy and surprise to keep me engaged. If you need further information before you get started let me know.
 ```
 
-### **📝 Sample Prompts for Specialized Builders:**
+## 📝 Sample Prompts for Specialized Builders:
 
 **For Bolt.new, Lovable.dev or similar:**
 ```
@@ -161,7 +167,9 @@ Create a text based adventure game similar to the Oregon trail, but make it a ch
 ```
 [Working demo of "Property Path Adventure"](https://property-path-adventure.lovable.app/)
 
-### **🎓 Bonus Challenge:**
+---
+
+## ✨ Bonus Challenge:
 
 Try one of these advanced challenges if you're feeling adventurous:
 
@@ -170,7 +178,9 @@ Try one of these advanced challenges if you're feeling adventurous:
 * **API integration**: Ask the AI to create a tool that fetches external data (like weather, news, or quotes)
 * **Share and get feedback**: Share your creation with a friend or colleague and get their input on how to improve it
 
-### **🌟 Reflection Questions:**
+---
+
+## 🌟 Reflection Questions:
 
 After completing your project, consider these questions:
 * How did the experience differ between general chat assistants and specialized builders?

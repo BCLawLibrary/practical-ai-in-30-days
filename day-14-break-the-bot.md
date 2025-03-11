@@ -6,16 +6,15 @@ image-description: "Made with Midjourney: Two young sloth cousins, dressed in ov
 tags: ["AI Literacy", "Critical Evaluation", "Edge Cases", "AI Limitations"]
 ---
 
-# Day 14: Break the Bot! 🤖
-## **Fun with AI Limitations**
+## Fun with AI Limitations
 
-### **🎯 Objective:**
+### 🎯 Objective:
 
 Explore and understand AI's quirks and limitations through fun experiments while learning what these tell us about how AI language models actually work.
 
 ---
 
-### **🛠️ Tools:**
+### 🛠️ Tools:
 
 - [ChatGPT](https://chat.openai.com)
 - [Claude](https://claude.ai)
@@ -24,7 +23,7 @@ Explore and understand AI's quirks and limitations through fun experiments while
 
 ---
 
-### **📚 Finding the Right Examples**
+### 📚 Finding the Right Examples**
 
 Creating challenges for this activity has become increasingly difficult as AI models rapidly improve. Many quirks and limitations that were once easy to exploit have been ironed out by the latest advancements in AI. Tasks that required exact word counts or straightforward logic puzzles have become simpler for models to handle.
 
@@ -34,7 +33,7 @@ Understanding these limitations helps us appreciate the strengths and weaknesses
 
 ---
 
-### **📝 Challenge:**
+### 📝 Challenge:
 
 Try these entertaining experiments to explore AI quirks:
 
@@ -77,7 +76,7 @@ Try these entertaining experiments to explore AI quirks:
 
 ---
 
-### **💡 Tips:**
+### Other Considerations:
 
 - Keep track of where the AI succeeds and fails.
 - Try similar challenges across different AI tools to compare their capabilities.
@@ -86,7 +85,7 @@ Try these entertaining experiments to explore AI quirks:
 
 ---
 
-### **✨ Bonus Challenges:**
+### ✨ Bonus Challenges:
 
 1. **Ask about fictional events or ideas**
 
@@ -115,8 +114,3 @@ These experiments help us understand:
 - How different AI models handle the same challenges differently.
 
 **Remember:** The goal isn't to "break" the AI maliciously, but to understand its capabilities and limitations through fun experimentation!
-
-
-![Two sloths wearing tie-die shirts](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850252/Practical%20AI%20Literacy%20Challenges/Sloth_Friends.jpg)
-## Image Description
-Made with Midjourney: Two young sloth cousins, dressed in oversized, brightly colored t-shirts, are posed against a backdrop of iridescent glitter glued haphazardly to a piece of black construction paper. The glitter is also liberally applied to their fur, creating a thick, sticky mess. The lighting is dim and uneven, highlighting the texture of the glitter and the glue. One sloth is attempting a half-hearted thumbs-up, while the other stares blankly ahead, a trail of glitter glue dripping from its chin. Their expressions are apathetic and dazed, reflecting the slow, deliberate nature of sloths. The overall image evokes a sense of forced craftiness and juvenile messiness, amplified by the inherently slow-moving nature of the sloths.

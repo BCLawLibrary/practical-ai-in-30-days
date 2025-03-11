@@ -1,8 +1,8 @@
 ---
 title: "AI Deep Research Tools Mini-Lesson 🕵️‍♂️📚"
-image-url: ""
-image-alt: ""
-image-description: ""
+image-url: "https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850248/Practical%20AI%20Literacy%20Challenges/Imagen3_-_Turtle_made_of_potato_chips.jpg"
+image-alt: "A turtle made of potato chips"
+image-description: "Made with Imagen 3: A turtle made of potato chips"
 tags: ["AI Literacy", "AI Literacy", "Generative AI"]
 ---
 
@@ -21,11 +21,11 @@ Understand and experiment with AI-powered deep research tools that autonomously 
 
 ---
 
-## **📝 Challenge Description**
+## 📝 Challenge Description
 
 AI deep research tools allow you to offload complex research tasks, synthesizing data from multiple sources into structured reports. These tools are evolving rapidly, with major players like OpenAI, Google, and Perplexity refining their own approaches.
 
-### **Your task:**
+### Your Task
 
 1. **Pick a tool** from the list above that you have access to.
 2. **Pose a research question**—something broad but specific enough to require multiple sources. Examples:
@@ -41,22 +41,23 @@ AI deep research tools allow you to offload complex research tasks, synthesizing
 
 ---
 
-## **💡 Ensuring AI Enhances, Not Replaces Human Expertise**
+## 💡 Ensuring AI Enhances, Not Replaces Human Expertise
 
 While these tools can save you hours of work, they don’t replace critical thinking. Always verify claims, check sources, and apply your own judgment before relying on AI-generated research in academic or professional contexts.
 
-### **Research Refinement Loop:**
+### Research Refinement Loop:
 
 - **If the research is too shallow** → Request more specific sources or adjust query scope.
 - **If citations are weak** → Ask for primary sources, not summaries.
 - **If the response is biased or incomplete** → Test a different tool for comparison.
 
-**Example Refinement Prompt:**\
-*“If the report feels surface-level, try refining your question. Instead of ‘What are the latest developments in AI policy?’ try ‘What legislation regarding AI transparency has passed in the U.S. since 2023? Provide citations from government or legal sources.’”*
+**Example Refinement Idea:**
+
+If the report feels surface-level, try refining your question. Instead of ‘What are the latest developments in AI policy?’ try ‘What legislation regarding AI transparency has passed in the U.S. since 2023? Provide citations from government or legal sources.’
 
 ---
 
-## **🔄 Cross-Platform Testing for Bias and Gaps**
+## 🔄 Cross-Platform Testing for Bias and Gaps
 
 AI research tools may prioritize different sources due to training data and retrieval methods.
 
@@ -68,7 +69,7 @@ AI research tools may prioritize different sources due to training data and retr
 
 ---
 
-## **🔍 How to Read & Evaluate AI Research Reports**
+## 🔍 How to Read & Evaluate AI Research Reports
 
 AI-generated research reports can be **dense**—here’s how to critically analyze them while integrating broader research best practices:
 
@@ -80,7 +81,7 @@ For a deeper understanding of research methodologies, consider referring to univ
 
 ---
 
-## **🧠 Meta-Collaboration for Research Guidance**
+## 🧠 Meta-Collaboration for Research Guidance
 
 Before beginning research, refine your search query using an LLM like ChatGPT or Claude. Take your initial question, input it into the LLM, and specifically ask for help optimizing it for research purposes before starting with a deep research tool. This ensures the query is well-structured and avoids premature answers that might lack depth. Try asking:
 
@@ -91,13 +92,13 @@ Before beginning research, refine your search query using an LLM like ChatGPT or
 
 ---
 
-## **🔥 Bonus Challenge (Optional)**
+## 🔥 Bonus Challenge (Optional)
 
 ✅ **Refine the Output:** Take the final output of the research tool and bring it to your favorite chat assistant. Ask it for follow-up questions or ask your own and iterate on the output together.
 
 ---
 
-## **📈 Reflection Questions**
+## 📈 Reflection Questions
 
 1. Did the AI research tool save you time or require additional refinement?
 2. What gaps or biases did you notice in the AI-generated reports?

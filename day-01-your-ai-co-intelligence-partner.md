@@ -24,7 +24,7 @@ One of the first hurdles when starting with AI chat assistants is the "Blank Inp
 You'll have the option to use a custom chat assistant we've prepared, which includes detailed guidance to help you through the process. Alternatively, you can simply copy and paste one of the provided prompts below into your preferred AI tool. The goal is to get comfortable interacting with AI early and often, building confidence and discovering practical ways AI can support your studies, work, or hobbies.
 
 ### 📝 Challenge:
-Have a conversation with an AI chat assistant. 
+[Have a conversation with an AI chat assistant.](https://chatgpt.com/g/g-67cc7060f82c8191a4f05c6e72b1d993-foundations-prompt-idea-generator)
 
 **Sample prompts:**
 1. "I'm a [your role] at [_Boston College Law School_ OR _your organization_]. What are 3 ways AI could help me with my daily tasks?"

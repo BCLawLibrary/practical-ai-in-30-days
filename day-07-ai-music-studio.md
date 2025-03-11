@@ -6,8 +6,7 @@ image-description: "Made with Midjourney: large birds at a disco, soft pastels, 
 tags: ["AI Literacy", "Multimodal Tools", "Audio Generation", "Creative Expression"]
 ---
 
-# Day 7: AI Music Studio 🎵
-## **More creative expression through AI!**
+## More creative expression through AI!
 
 ### 🎯 Objective: 
 Learn to create music using AI tools while exploring the intersection of human creativity and AI assistance
@@ -21,6 +20,8 @@ Learn to create music using AI tools while exploring the intersection of human c
   - [ChatGPT](https://chatgpt.com)
   - [Claude](https://claude.ai)
   - [Gemini](https://gemini.google.com)
+
+---
 
 ### 📝 Challenge:
 
@@ -56,8 +57,3 @@ Need help crafting a prompt? Copy and paste the starter prompt below into an AI 
 Some inspiration:
 - [What can Moo Deng Do?](https://suno.com/song/bcc7137c-4b55-404d-a2dc-baacebab0d4d)
 - [Northern Lights](https://suno.com/song/44686cb5-509f-4e59-a7e7-38a44598bc70)
-
-
-![A woman and flamingos attending a disco party](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850249/Practical%20AI%20Literacy%20Challenges/Flamingos_at_a_disco.jpg)
-## Image Description
-Made with Midjourney: large birds at a disco, soft pastels, dreamcore aesthetic, 90s decore --chaos 25 --ar 25:21 --style raw --sref 1172654203 --profile 7bn4kwq --stylize 750

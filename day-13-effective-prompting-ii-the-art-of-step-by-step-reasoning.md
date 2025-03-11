@@ -6,20 +6,11 @@ image-description: "Made with Midjourney: Surrealist art, otherworldly jellyfish
 tags: ["AI Literacy", "Advanced Prompt Engineering", "Chain-of-Thought", "Reasoning Techniques"]
 ---
 
-# Day 13: Effective Prompting II - The Art of Step-by-Step Reasoning 🧠
 ## Mini-lesson Day: Show Your Work!
 
 ### 🎯 Objective
 
 Learn how to improve AI responses by encouraging step-by-step thinking and metacognition, leading to more accurate, thorough, and transparent results.
-
-### ⏱️ Duration
-
-30-40 minutes total:
-
-- 10 minutes: Core concepts
-- 20 minutes: Hands-on practice
-- 10 minutes: Reflection and discussion
 
 ### 🛠️ Resources Needed
 
@@ -28,6 +19,8 @@ Learn how to improve AI responses by encouraging step-by-step thinking and metac
   - [Claude](https://claude.ai)
   - [Gemini](https://gemini.google.com)
   - [Copilot](https://copilot.microsoft.com)
+
+---
 
 ### 🖍️ Core Concept
 
@@ -43,9 +36,18 @@ Just as humans often benefit from "showing their work," AI assistants generate b
 
 ---
 
+### 🎯 Challenge
+
+Take a complex task from your studies or work and:
+
+1. First ask the AI for help normally
+2. Then rephrase your request using step-by-step thinking prompts
+3. Compare the responses
+4. Refine your approach based on what worked best
+
 ### 🔬 Hands-on Experiments
 
-#### 1. Basic vs. Step-by-Step Comparison (10 minutes)
+#### 1. Basic vs. Step-by-Step Comparison
 
 Try these variations of the same question with any AI assistant. You can always update these examples to meet your specific needs.
 
@@ -58,13 +60,13 @@ Try these variations of the same question with any AI assistant. You can always 
 3. Consider potential challenges
 4. Then provide your recommendations based on this analysis"
 
-**Notice how:**
+**🔍 Notice how:**
 
 - The step-by-step approach provides more structured insights
 - You can see the reasoning behind recommendations
 - It's easier to identify any missing considerations
 
-#### 2. Metacognition Prompts (5 minutes)
+#### 2. Metacognition Prompts
 
 Try these metacognition-encouraging phrases:
 
@@ -83,7 +85,7 @@ Try these metacognition-encouraging phrases:
   3. Break down the legal implications
   4. Then provide my interpretation"
 
-#### 3. Interactive Refinement (5 minutes)
+#### 3. Interactive Refinement
 
 Practice having a dialogue where you:
 
@@ -112,24 +114,6 @@ Practice having a dialogue where you:
 - "Break this down into manageable steps..."
 - "First outline your approach..."
 
----
-
-### 🎯 Challenge
-
-Take a complex task from your studies or work and:
-
-1. First ask the AI for help normally
-2. Then rephrase your request using step-by-step thinking prompts
-3. Compare the responses
-4. Refine your approach based on what worked best
-
-### 📚 Reflection Questions
-
-1. How did the quality of responses differ when you requested step-by-step thinking?
-2. Which metacognition prompts were most effective for your purposes?
-3. How might you apply this approach to different types of tasks?
-4. What patterns did you notice in the AI's reasoning process?
-
 ### 💡 Pro Tips
 
 - Start with broad thinking, then narrow down
@@ -138,6 +122,8 @@ Take a complex task from your studies or work and:
 - Request alternative approaches for important decisions
 - Have the AI evaluate its own reasoning
 - Break complex tasks into smaller, manageable chunks
+
+---
 
 ### 🎭 Bonus: The Art of AI Dialogue
 
@@ -150,6 +136,9 @@ Remember that AI assistants can be collaborative thinking partners. Try:
 
 This approach helps create a more robust analysis and often leads to unexpected insights!
 
-![A giant jellyfish floating above a salt flat desert](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850254/Practical%20AI%20Literacy%20Challenges/Surreal_Desert_Jellyfish.jpg)
-## Image Description
-Made with Midjourney: Surrealist art, otherworldly jellyfish suspended mid-air over a cracked desert floor, muted cyan with translucent details, desert sunset with sci-fi undertones. --chaos 25 --ar 6:5 --style raw --profile 7bn4kwq --stylize 250
+### 📚 Reflection Questions
+
+1. How did the quality of responses differ when you requested step-by-step thinking?
+2. Which metacognition prompts were most effective for your purposes?
+3. How might you apply this approach to different types of tasks?
+4. What patterns did you notice in the AI's reasoning process?

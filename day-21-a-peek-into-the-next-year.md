@@ -1,47 +1,26 @@
 ---
-title: "A Peek into the Next Year 🔮"
+title: "A Peek Into The Future 🔮"
 image-url: "https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850248/Practical%20AI%20Literacy%20Challenges/Door_to_nowhere.jpg"
 image-alt: "An art nouveau style door on the beach with the ocean in the background"
 image-description: "Made with Midjourney: an art nouveau doorway to nowhere. set on the beach --chaos 25 --ar 6:5 --style raw --profile v3l7vfp --stylize 250"
 tags: ["AI Literacy", "Future Perspectives", "Emerging Trends", "Future Skills"]
 ---
 
-# Day 21: A Peek into the Next Year 🔮
-### 🎯 **Objective:**
+## 🎯 Objective:
 
 Explore AI agents, multimodal interactions, and new features coming in the near future by experimenting with real-time live-streaming AI.
 
 ### 🛠️ **Tools:**
 
-- **Google AI Studio** (Free) \- [Google AI Studio](https://aistudio.google.com/)  
-- **ChatGPT Plus** with Advanced Voice Mode ($20/month) \- [OpenAI ChatGPT](https://chat.openai.com/)  
+- **Google AI Studio** (Free) - [Google AI Studio](https://aistudio.google.com/)  
+- **ChatGPT Plus** with Advanced Voice Mode ($20/month) - [OpenAI ChatGPT](https://chat.openai.com/)  
 - [**Google Project Astra**](https://deepmind.google/technologies/project-astra/) (Experimental, waitlist for now)
 
-### 📝 **Challenge:**
+---
 
-Today's challenge is to explore the real-time multimodal capabilities of AI models. These AI tools can now “see” using your webcam/phone camera, hear you using your device’s microphone, and respond in real time. They are also capable of responding in various modalities including text, audio, and images. Here's what you'll do:
+## Understanding AI Agents 🤖
 
-**Important Note:** You'll need to use a personal Gmail account as BC Google Workspace accounts cannot access AI Studio at this time. While you can't use your BC email, you can still explore the tools using a personal Google account.
-
-1. **Explore Google AI Studio**
-
-   - Visit [Google AI Studio](https://aistudio.google.com/live) and explore their free “Stream Realtime” offerings.   
-   - Engage in a short interaction using their multimodal tools. Ideas to try:  
-     - Ask the AI to describe an object you show via your camera.  
-     - Use your webcam to have the AI recognize handwritten notes or sketches.  
-     - Get help with something on your computer such as learning a new software interface.  
-     - Share your screen and have it check why your students can't see content on Canvas  
-2. **Try OpenAI's Real-Time AI Streaming**
-
-   - If you have **ChatGPT Plus**, try the advanced voice mode on mobile or desktop.  
-   - Talk to ChatGPT and ask it to help you complete a live task or talk through situations, such as:  
-     - Talk through an idea, get help with planning an event, or just ask about something you’re interested in using voice rather than text input  
-     - Helping you troubleshoot a simple issue by showing it to the camera or simply using your voice and get step by step instructions as you go  
-     - Get winter plant care tips by sharing your camera on mobile and showing your indoor plants to ChatGPT
-
-### Understanding AI Agents 🤖
-
-If I could look into the crystal ball and predict one thing about 2025, it would be that you're going to hear A LOT about AI agents. Think of AI agents as your personal digital assistants that can take action on your behalf. Unlike regular chatbots that just respond to questions, agents can:
+If I could look into the crystal ball and predict one thing about the rest of 2025 and beyond, it would be that you're going to hear A LOT about AI agents. Think of AI agents as your personal digital assistants that can take action on your behalf. Unlike regular chatbots that just respond to questions, agents can:
 
 1. **Watch and Learn**: They observe how you work and understand your preferences  
 2. **Take Initiative**: They can perform actions or complete tasks without constant direction  
@@ -61,8 +40,8 @@ If I could look into the crystal ball and predict one thing about 2025, it would
   - [Cursor Composer](https://docs.cursor.com/composer/overview)  
 - **Computer Use:** Operate your computer and other devices
   - [Anthropic's Computer Use](https://www.anthropic.com/news/3-5-models-and-computer-use) 
-  - [Anthropic's Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
   - [OpenAI's Operator](https://openai.com/index/introducing-operator/)
+  - [Manus AI](https://manus.im/)
 
 **What's Already Possible Now and/or Coming Soon:**
 
@@ -71,14 +50,42 @@ If I could look into the crystal ball and predict one thing about 2025, it would
 - Visual agents for shopping, cooking, or home repairs  
 - Computer-access agents that perform tasks on your behalf  
 - Scheduling Agents that can manage calendars and set up meetings
+- Research automation agents that can search, compile, and generate very high-level research papers or topic overviews
+- Coding agents that can quickly prototype fully functioning websites with nice designs, database storage, and user interactivity from a simple prompt
 
-### 💡 **Tips for Success:**
+---
+
+## 📝 Challenge:
+
+Today's challenge is to explore the real-time multimodal capabilities of AI models. These AI tools can now “see” using your webcam/phone camera, hear you using your device’s microphone, and respond in real time. They are also capable of responding in various modalities including text, audio, and images. Here's what you'll do:
+
+>**Important Note:** You'll need to use a personal Gmail account as BC Google Workspace accounts cannot access AI Studio at this time. While you can't use your BC email, you can still explore the tools using a personal Google account.
+
+1. **Explore Google AI Studio**
+
+   - Visit [Google AI Studio](https://aistudio.google.com/live) and explore their free “Stream Realtime” offerings.   
+   - Engage in a short interaction using their multimodal tools. Ideas to try:  
+     - Ask the AI to describe an object you show via your camera.  
+     - Use your webcam to have the AI recognize handwritten notes or sketches.  
+     - Get help with something on your computer such as learning a new software interface.  
+     - Get a personalized real-time tutorial for completing a task or getting troubleshooting support on your computer.   
+2. **Try OpenAI's Real-Time AI Streaming**
+
+   - If you have **ChatGPT Plus**, try the advanced voice mode on mobile or desktop.  
+   - Talk to ChatGPT and ask it to help you complete a live task or talk through situations, such as:  
+     - Talk through an idea, get help with planning an event, or just ask about something you’re interested in using voice rather than text input  
+     - Helping you troubleshoot a simple issue by showing it to the camera or simply using your voice and get step by step instructions as you go  
+     - Get winter plant care tips by sharing your camera on mobile and showing your indoor plants to ChatGPT
+ 
+ ---
+
+## 💡 Tips for Success:
 
 - **Start Small:** If you're unsure about live interactions, begin with a simple demo video or short provided below.  
 - **Reflect:** How did the AI's ability to see, hear, and respond in real time change the experience?  
-- **Privacy First:** If you're uncomfortable sharing your screen or camera, watch demo videos to understand the capabilities.
+- **Privacy First:** If you're uncomfortable sharing your screen or camera, watch the demo videos below to understand the capabilities.
 
-### 🔒 **Privacy & Security Considerations**
+### 🔒 Privacy & Security Considerations
 
 Before engaging with multimodal AI tools, consider these important points:
 
@@ -122,7 +129,11 @@ Before engaging with multimodal AI tools, consider these important points:
 
 - Keep control over what and when you share
 
-### **📽️ Demo & Discussion Videos** 
+---
+
+## Additional Resources
+
+### 📽️ Demo & Discussion Videos
 
 - [Project Astra: Exploring a Universal AI Assistant with Greg Wayne](https://www.youtube.com/watch?v=ctWfv4WUp2I)  
 - [Project Mariner | Google’s AI Agent](https://www.youtube.com/watch?v=2XJqLPqHtyo) 
@@ -130,12 +141,3 @@ Before engaging with multimodal AI tools, consider these important points:
 - [OpenAI advanced voice mode with video](https://www.youtube.com/watch?v=NIQDnWlwYyQ&t=1s)  
 - [Claude computer use demo](https://www.youtube.com/watch?v=ODaHJzOyVCQ)  
 - [Claude computer use demo 2](https://www.youtube.com/watch?v=jqx18KgIzAE)
-
-### ✨ **Share Your Insights:**
-
-- Share what you learned or a fun insight with colleagues 
-- Log your activity for today so others can see!
-
-![An art nouveau style door on the beach with the ocean in the background](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850248/Practical%20AI%20Literacy%20Challenges/Door_to_nowhere.jpg)
-## Image Description
-Made with Midjourney: an art nouveau doorway to nowhere. set on the beach --chaos 25 --ar 6:5 --style raw --profile v3l7vfp --stylize 250

@@ -6,8 +6,7 @@ image-description: "Made with Midjourney: digital illustration, a rabbit sits ne
 tags: ["AI Literacy", "Advanced Interaction Techniques", "Question Formulation", "Effective Interaction"]
 ---
 
-# Day 19: Seeking Input over Output
-**Finding Meaning with AI**
+## Finding Meaning with AI
 
 Today we're taking a moment to explore two thought-provoking perspectives that challenge how we think about AI integration. Ethan Mollick, a leading voice on the practical use of AI, has written an insightful piece that captures a balanced, nuanced view of how AI can best support our expertise. His article, linked below, outlines scenarios where AI shines and where it falls short. This isn’t just a "how-to"; it’s a guide for *thinking differently* about AI. 
 
@@ -17,14 +16,14 @@ Meanwhile, Rhea Purohit encourages us to move beyond mere efficiency to find dee
 🎯 **Objective:**  
 Explore expert perspectives on effective AI collaboration and consider how to use AI not just as a tool for efficiency, but as a partner in creating more meaningful and thoughtful work.
 
-#### 🔍 Part 1: Resource Review
+---
+
+## 🔍 Part 1: Resource Review
 
 Read both articles, noting how they compliment each other:
 
 * [“When to Use AI - And When Not To” by Ethan Mollick](https://www.oneusefulthing.org/p/15-times-to-use-ai-and-5-not-to)  
 * ["You're Probably Using AI Wrong" by Rhea Purohit](https://every.to/learning-curve/you-re-probably-using-ai-wrong)
-
----
 
 💡**A Helpful** **Mindset Shift:**  
  When using AI, try focusing on *seeking input over output*. Instead of just asking AI to *produce* something for you, use it to:
@@ -38,7 +37,7 @@ This shift can help you *enhance the quality* of your work without compromising 
 
 ---
 
-#### Part 2: Meaningful Input Exercise
+## Part 2: Meaningful Input Exercise
 
 Choose one piece of work you've created recently (an essay, presentation, code, analysis, etc.) and use AI to gather input in these ways:
 
@@ -49,7 +48,7 @@ Choose one piece of work you've created recently (an essay, presentation, code, 
    * What elements of your expertise are most crucial to preserve?  
    * How could AI enhance rather than replace your creative process?
 2. **Thoughtful Partnership and Perspective**:
-   * "Let's explore this from multiple angles \- what perspectives am I missing?"  
+   * "Let's explore this from multiple angles - what perspectives am I missing?"  
    * "Can you play devil's advocate and challenge my main assumptions?"  
    * "What would experts from different fields say about this approach?"  
    * "Help me brainstorm 10 different ways to tackle this challenge"  
@@ -61,7 +60,9 @@ Choose one piece of work you've created recently (an essay, presentation, code, 
    * "Are there any counterarguments I should consider?"  
    * "What connections or patterns might I be overlooking?"
 
-### **✨ Bonus Challenge:**
+---
+
+### ✨ Bonus Challenge:
 
 Have a conversation with an AI about your workflow, similar to Purohit's example in her article. Start a dialogue asking it to help you identify:
 
@@ -77,7 +78,3 @@ The key is to treat this as a real conversation - respond naturally to the AI's 
 - How might shifting from "output-first" to "input-first" change your relationship with AI?  
 - What parts of your work do you want to protect and enhance rather than automate?  
 - How could AI help you spend more time on what matters most to you?
-
-![A surreal artistic illustration of a rabbit sitting next to a tree stump, with clocks and hourglasses floating in the background.](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850252/Practical%20AI%20Literacy%20Challenges/Rabbit_Time_Warp.jpg)
-## Image Description
-Made with Midjourney: digital illustration, a rabbit sits next to a tree stump, the tree stump has a portal to another time, clocks and hourglasses float in the background --chaos 25 --ar 4:3 --style raw --sref 3500888721 --profile 8rqt991 qfbz31g

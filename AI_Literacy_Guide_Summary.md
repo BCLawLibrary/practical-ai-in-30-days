@@ -23,7 +23,7 @@ This AI Literacy Guide provides a structured learning path for users to develop 
 - **Focus**: Tailoring AI to specific needs and overcoming limitations
 
 ### Week 5: Future-Focused and Reflective Practice
-- **Days 21-24**: Looking ahead, organizing knowledge, testing, and reflection
+- **Days 21-27**: Looking ahead, organizing knowledge, testing, and reflection
 - **Focus**: Building sustainable AI literacy practices and ethical considerations
 
 ## Activity Categories
@@ -136,67 +136,88 @@ This AI Literacy Guide provides a structured learning path for users to develop 
 - Implementing chain-of-thought reasoning
 - Improving accuracy through metacognition
 
-### Day 14: Break the Bot
+### Day 14: Reasoning Models vs. Chat Models
+**Category**: Technical Understanding
+- Understanding differences between reasoning and chat models
+- Learning specialized prompting techniques for each model type
+- Identifying appropriate use cases for different AI capabilities
+- Optimizing prompts for complex analytical tasks
+
+### Day 15: Break the Bot
 **Category**: Critical Evaluation
 - Identifying AI limitations and failure modes
 - Understanding edge cases and constraints
 - Developing strategies to work around limitations
 
-### Day 15: Mid-Month AI Reflection
+### Day 16: Mid-Month AI Reflection
 **Category**: Critical Thinking
 - Assessing progress in AI literacy
 - Reflecting on learning experiences
 - Identifying areas for further development
 
-### Day 16: Breaking Language Barriers
+### Day 17: Breaking Language Barriers
 **Category**: Practical Applications
 - Using AI for translation and language learning
 - Understanding cross-lingual capabilities
 - Overcoming communication barriers
 
-### Day 17: Custom Instructions & System Prompts
+### Day 18: AI Deep Research Tools
+**Category**: Research & Information Synthesis
+- Understanding AI-powered autonomous research capabilities
+- Learning to craft effective research queries
+- Evaluating and verifying AI-generated research
+- Developing critical assessment of sources and synthesis
+
+### Day 19: Custom Instructions & System Prompts
 **Category**: Advanced Customization
 - Creating specialized AI assistants
 - Understanding system messages and custom instructions
 - Tailoring AI behavior for specific tasks
 
-### Day 18: AI Troubleshooting Masterclass
+### Day 20: AI Troubleshooting Masterclass
 **Category**: Technical Problem-Solving
 - Diagnosing and fixing common AI issues
 - Understanding error patterns and solutions
 - Developing resilient AI workflows
 
-### Day 19: Seeking Input Over Output
+### Day 21: Coding with AI
+**Category**: Practical Applications
+- Creating applications without coding experience
+- Understanding AI-assisted development workflows
+- Exploring specialized AI code generation tools
+- Building functional prototypes through natural language
+
+### Day 22: Seeking Input Over Output
 **Category**: Advanced Interaction Techniques
 - Focusing on effective question formulation
 - Understanding the importance of input quality
 - Developing collaborative AI interaction patterns
 
-### Day 20: More Image Fun and Putting Everything Together
+### Day 23: More Image Fun and Putting Everything Together
 **Category**: Integration & Synthesis
 - Combining multiple AI capabilities
 - Creating integrated workflows
 - Applying learned skills to complex tasks
 
-### Day 21: A Peek Into the Next Year
+### Day 24: A Peek Into the Next Year
 **Category**: Future Perspectives
 - Understanding emerging AI trends
 - Preparing for future developments
 - Developing adaptable AI literacy skills
 
-### Day 22: Organizing Your Knowledge Base
+### Day 25: Organizing Your Knowledge Base
 **Category**: Knowledge Management
 - Creating sustainable AI-assisted knowledge systems
 - Organizing and retrieving information effectively
 - Building personal knowledge repositories
 
-### Day 23: Testing Your Prompts and Assistants
+### Day 26: Testing Your Prompts and Assistants
 **Category**: Quality Assurance
 - Implementing testing practices for AI interactions
 - Ensuring reliability and effectiveness
 - Iterative improvement of prompts and assistants
 
-### Day 24: Final Day - A Journey Through AI: Reflections and Next Steps
+### Day 27: Final Day - A Journey Through AI: Reflections and Next Steps
 **Category**: Reflection & Future Planning
 - Consolidating learning experiences
 - Reflecting on AI literacy journey
@@ -224,3 +245,9 @@ By completing this AI literacy guide, users will:
 6. Create personalized workflows that leverage AI for productivity and creativity
 
 This guide emphasizes learning by doing, with each activity designed to provide immediate practical value while building toward comprehensive AI literacy. 
+
+## Course Assistants
+
+- [GAIL](https://chatgpt.com/g/g-W3CyCFiIa-gail-genai-literacy-assistant)
+- [Foundations Reflection Assistant](https://chatgpt.com/g/g-67cc3eff7990819180b7e95a1730420b-foundations-reflection-assistant)
+- [Course Prompt Idea Generator](https://chatgpt.com/g/g-67cc7060f82c8191a4f05c6e72b1d993-foundations-prompt-idea-generator)

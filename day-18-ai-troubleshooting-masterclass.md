@@ -6,8 +6,7 @@ image-description: "Made with Imagen 3: First person point of view, a person sta
 tags: ["AI Literacy", "Technical Problem-Solving", "Error Patterns", "Problem Solving"]
 ---
 
-# Day 18: AI Troubleshooting Masterclass 🛠️
-## **A Guide to Getting Better Results**
+## A Guide to Getting Better Results
 
 *Inspired by and adapted from Allie K. Miller's "[Complete ChatGPT Troubleshooting Guide](https://x.com/alliekmiller/status/1868726115969515568?s=12&t=6Q7ZpHLPwTuRWMRW61xSxw)" (December 2024\)*
 
@@ -20,11 +19,11 @@ Learn how to troubleshoot and refine AI outputs for better results, enhancing yo
 - [ChatGPT](https://chat.openai.com)  
 - [Claude](https://claude.ai)  
 - [Gemini](https://gemini.google.com)  
-- [Copilot](https://copilot.microsoft.com)
+- [Copilot](m365.cloud.microsoft/chat)
 
 ---
 
-## **Why Troubleshooting Matters**
+## Why Troubleshooting Matters
 
 Imagine you have a brilliant new colleague who graduated at the top of their class. They're incredibly knowledgeable, eager to help, and can process information at lightning speed. But there's a catch – they think probabilistically, sometimes make creative leaps, and effectively have the memory of a goldfish. That's essentially what working with AI is like.
 
@@ -38,20 +37,20 @@ While we've spent time mastering the art of clear prompts and effective AI commu
 
 These aren't bugs; they're features of how AI works. Just as you might coach a talented but inexperienced colleague, you can learn to guide AI back on track when it strays. This is where troubleshooting comes in.
 
-## **The Art of AI Troubleshooting**
+### The Art of AI Troubleshooting
 
-Effective AI troubleshooting isn't about "fixing errors" – it's about understanding how to:
+Effective AI troubleshooting isn't necessarily about "fixing errors" – it's about understanding how to:
 
 - Recognize when responses aren't meeting your needs  
 - Apply specific techniques to improve outputs  
 - Know when to try a different approach entirely  
 - Build a toolkit of reliable fallback strategies
 
-Recently, AI expert Allie K. Miller shared a comprehensive guide that brilliantly captures these troubleshooting principles. Today, we'll explore and practice these techniques, adding them to your AI collaboration skill set. Whether you're writing legal briefs, coding, or crafting creative content, these troubleshooting skills will help you get more reliable, higher-quality results from your AI interactions.
+Recently, AI expert Allie K. Miller [shared a comprehensive guide](https://x.com/alliekmiller/status/1868726115969515568) that brilliantly captures these troubleshooting principles. Today, we'll explore and practice some of her techniques, as well as some of my personal favorites, adding them to your AI collaboration skill set. Whether you're writing legal briefs, coding, or crafting creative content, these troubleshooting skills will help you get more reliable, higher-quality results from your AI interactions.
 
 ---
 
-### 📝 Challenge
+## 📝 Challenge
 
 Today, you'll practice troubleshooting AI responses using proven methods to refine, debug, and improve AI outputs.
 
@@ -82,11 +81,13 @@ Choose one of these approaches:
    - Evidence and documentation  
    - Discussion questions for class"
 
-💡 **Tip:** The third scenario is intentionally complex. You might find it overwhelming if approached as a single prompt \- this makes it perfect for practicing how to break down and troubleshoot larger tasks!
+>💡 **Tip:** The third scenario is intentionally complex. You might find it overwhelming if approached as a single prompt - this makes it perfect for practicing how to break down and troubleshoot larger tasks!
 
 ---
 
-#### Troubleshooting Step 1: Breaking Down Complex Tasks
+## Common Troubleshooting Techniques
+
+### Troubleshooting Option 1: Breaking Down Complex Tasks
 
 If you chose the case study scenario or have a similarly complex task, here's how you might break it down:
 
@@ -111,9 +112,9 @@ If you chose the case study scenario or have a similarly complex task, here's ho
    - Identify teaching points  
    - Design class activities
 
-💡 **Managing Complex Projects:**
+### Troubleshooting Option 2: Managing Complex Projects
 
-Remember how we learned about [context windows](https://ai-advent-calendar.netlify.app/day/9) \- that limited "viewing space" AI has for conversation history? These strategies help you work effectively within those limits:
+Remember how we learned about [context windows](https://ai-advent-calendar.netlify.app/day/9) - that limited "viewing space" AI has for conversation history? These strategies help you work effectively within those limits:
 
 1. **Fresh Start Approach:**
 
@@ -123,7 +124,7 @@ Remember how we learned about [context windows](https://ai-advent-calendar.netli
    - Perfect for rapid prototyping of ideas  
 2. **Curated Context Method:**
 
-   - Copy and paste relevant material from previous successful conversations  
+   - Copy and paste relevant material from previous successful conversations
    - Strategically choose what context to include  
    - Build on what worked while leaving behind what didn't  
    - Useful for iterative improvement  
@@ -138,9 +139,37 @@ Remember how we learned about [context windows](https://ai-advent-calendar.netli
 
 🌟 **Pro Tip:** Think of these approaches like different tools in your workflow toolkit. The Fresh Start gives you a clean slate, Curated Context lets you choose what to bring forward, and Custom Assistants help maintain consistent knowledge without repeatedly using up your context window.
 
+### Troubleshooting Option 3: The Meta-Collaboration Technique
+
+Here's another powerful troubleshooting approach that might surprise you: when stuck, try asking the AI itself for help with your prompting. Yes, really! While it might feel strange to ask an AI how to better interact with itself, this meta-level collaboration can be remarkably effective.
+
+Just as you might ask a colleague, "How would you prefer I phrase this request?" or "What information would help you help me better?", you can engage in this type of reflective dialogue with AI.
+
+Here's how to apply this surprisingly effective technique:
+
+1. **Pause and Meta-Analyze:**
+
+   - Directly ask: "I'm not getting quite what I need. How could I rephrase my request to get better results?"  
+   - Try: "What additional context would help you understand what I'm looking for?"  
+   - Consider: "Can you help me break down this task into more manageable prompts?"  
+2. **Reflect and Redirect:**
+
+   - Have the AI analyze its own previous responses: "What aspects of your previous answer could be improved?"  
+   - Request prompting suggestions: "How would you recommend structuring this request?"  
+   - Ask for clarity about misunderstandings: "Where do you think we're misaligning in this conversation?"  
+3. **Reset and Retry:**
+
+   - Start a fresh conversation with your improved prompt  
+   - Avoid carrying over potentially confusing context  
+   - Apply the insights gained from your meta-discussion
+
+💡 **Pro Tip:** While it might feel odd at first to ask an AI how to better interact with AI, they can often provide surprisingly insightful suggestions for more effective interaction.
+
+⚠️ **Important:** If you're ever working on a sensitive or confidential task, be careful not to include specific details when asking for prompting help. Instead, use general descriptions or analogous examples.
+
 ---
 
-#### Additional Troubleshooting Ideas:
+### Additional Troubleshooting Ideas:
 
 *Using Allie K. Miller's troubleshooting framework*
 
@@ -205,45 +234,6 @@ When you get an initial response, identify an issue and apply one of these troub
 
 ---
 
-### 🔍 The Meta-Collaboration Technique
-
-Here's another powerful troubleshooting approach that might surprise you: when stuck, try asking the AI itself for help with your prompting. Yes, really\! While it might feel strange to ask an AI how to better interact with itself, this meta-level collaboration can be remarkably effective.
-
-Just as you might ask a colleague, "How would you prefer I phrase this request?" or "What information would help you help me better?", you can engage in this type of reflective dialogue with AI.
-
-Here's how to apply this surprisingly effective technique:
-
-1. **Pause and Meta-Analyze:**
-
-   - Directly ask: "I'm not getting quite what I need. How could I rephrase my request to get better results?"  
-   - Try: "What additional context would help you understand what I'm looking for?"  
-   - Consider: "Can you help me break down this task into more manageable prompts?"  
-2. **Reflect and Redirect:**
-
-   - Have the AI analyze its own previous responses: "What aspects of your previous answer could be improved?"  
-   - Request prompting suggestions: "How would you recommend structuring this request?"  
-   - Ask for clarity about misunderstandings: "Where do you think we're misaligning in this conversation?"  
-3. **Reset and Retry:**
-
-   - Start a fresh conversation with your improved prompt  
-   - Avoid carrying over potentially confusing context  
-   - Apply the insights gained from your meta-discussion
-
-💡 **Pro Tip:** While it might feel odd at first to ask an AI how to better interact with AI, remember that while these systems are not trained to understand their own capabilities and limitations, they can often provide surprisingly insightful suggestions for more effective interaction.
-
-⚠️ **Important:** If you're ever working on a sensitive or confidential task, be careful not to include specific details when asking for prompting help. Instead, use general descriptions or analogous examples.
-
----
-
-### ✨ Bonus Challenge
-
-Document your troubleshooting process:
-
-1. Take screenshots or notes of your original prompt  
-2. Record the steps you took to improve it  
-3. Share your before/after results  
-4. Reflect on what you learned about AI's capabilities
-
 ### 📝 Reflection Questions
 
 1. Which troubleshooting method proved most effective for your needs?  
@@ -252,7 +242,3 @@ Document your troubleshooting process:
 4. How might these skills improve your use of AI in work or study?
 
 Remember: Working with AI is more like conducting an experiment than running a program. Sometimes you'll get exactly what you want on the first try. Other times, you'll need to guide, refine, and redirect. That's not just normal – it's part of the process!
-
-![First person point of view, a person looking down at the deep end of the pool.](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850249/Practical%20AI%20Literacy%20Challenges/Imagen3_-_Deep_End.jpg)
-## Image Description
-Made with Imagen 3: First person point of view, a person standing at the "deep end" of the pool. 

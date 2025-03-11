@@ -6,12 +6,11 @@ image-description: "Made with Midjourney: a stack of books --chaos 25 --ar 6:5 -
 tags: ["AI Literacy", "Prompt Engineering", "Clear Communication", "Prompt Structure"]
 ---
 
-# Day 10: Foundations of Clear Prompting 🔮
 ## Mini-lesson day!
 
 ### 🎯 Objective
 
-Master the fundamental principles of writing clear, effective prompts for AI assistants \- essential skills for academic, professional, and personal success.
+Master the fundamental principles of writing clear, effective prompts for AI assistants - essential skills for academic, professional, and personal success.
 
 ### 🛠️ Resources Needed
 
@@ -114,7 +113,8 @@ Please draft a memo that:
 1. Explains the 3-day in-office requirement  
 2. Outlines flexibility options, referencing our [department guidelines](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
 3. Addresses common concerns identified in our recent survey  
-4. Includes next steps, directing staff to our [HR procedures portal](https://www.youtube.com/watch?v=dQw4w9WgXcQ) Use a professional but warm tone, max 500 words, with clear section headings."
+4. Includes next steps, directing staff to our [HR procedures portal](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
+5. Use a professional but warm tone, max 500 words, with clear section headings."
 
 #### Exercise 2: Cross-Platform Testing (15 minutes)
 
@@ -132,7 +132,7 @@ Take one of your improved prompts and test it across different AI platforms. Not
 
 - Assuming shared context  
 - Providing vague or subjective criteria  
-- Omitting format preferences (especially when you have them in mind\!)  
+- Omitting format preferences (especially when you have them in mind!)  
 - Forgetting to specify audience
 
 **Elements of Strong Prompts:**
@@ -143,12 +143,20 @@ Take one of your improved prompts and test it across different AI platforms. Not
 - Relevant context  
 - Format guidelines
 
+### General Tips
+
+- Keep a prompt journal of effective examples  
+- Test complex prompts with smaller tasks first  
+- Use numbered lists for multiple requirements  
+- Be explicit about any constraints or preferences  
+- Consider creating templates for common tasks
+
 ### 🎯 Bonus Challenge
 
 1. Choose a real task from your work, studies, or personal life  
 2. Write an initial prompt  
-3. Have an AI assistant help you refine it based on the content from this lesson (just copy and paste this material as part of your prompt)  
-4. Ask for the process to be iterative  
+3. Have an AI assistant help you refine it based on the content from this lesson (use the copy button at the top of the lesson)  
+4. Ask for the process to be iterative 
 5. Iterate on the prompt until you’re satisfied and try it out in a new chat
 
 ### 📚 Reflection Questions
@@ -158,28 +166,7 @@ Take one of your improved prompts and test it across different AI platforms. Not
 3. Which elements of the framework were most helpful?  
 4. What differences did you notice between AI platforms?
 
-### 💡 Pro Tips
-
-#### Using References in Prompts
-
-LLMs can accurately use and reference links in your prompts\! When including links:
-
-- Simply reference the link by copying and pasting, or, use markdown formatting: `[link text](https://url.com)`  
-- Provide context about why each link is relevant  
-- If the model uses your link in its output, always verify that the AI has accurately linked to source material
-
-#### General Tips
-
-- Keep a prompt journal of effective examples  
-- Test complex prompts with smaller tasks first  
-- Use numbered lists for multiple requirements  
-- Be explicit about any constraints or preferences  
-- Consider creating templates for common tasks
 
 ### 🔄 Looking Ahead
 
-Start collecting examples of AI responses you particularly like \- they'll be valuable later when we explore how to create custom AI personalities and behaviors\! Later in the week, you'll get access to a special AI assistant designed to help you build your own custom AI assistants. Think about interactions or responses you've received that you'd love to replicate or build upon.
-
-![A stack of books](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850253/Practical%20AI%20Literacy%20Challenges/stack_of_books.jpg)
-## Image Description
-Made with Midjourney: a stack of books --chaos 25 --ar 6:5 --style raw --sref 3539165485 --profile l91zudi --stylize 250
+Start collecting examples of AI responses you particularly like - they'll be valuable later when we explore how to create custom AI personalities and behaviors! Later in the week, you'll get access to a special AI assistant designed to help you build your own custom AI assistants. Think about interactions or responses you've received that you'd love to replicate or build upon.
