@@ -5,6 +5,7 @@ image-alt: "Digital illustration of a sprout growing into a circuit board tree"
 image-description: "Made with Imagen3: \"a small green sprout emerging from the ground, with a simple, gently curved stem and two small, minimalist leaves. The sprout then seamlessly transitions upwards into a stylized tree trunk that becomes increasingly geometric and digital, culminating in an upper portion where the branches are formed by clean, geometric lines resembling a circuit board pattern, with simplified, abstract representations of leaves made from small, angular shapes connected to the circuit-branches. The entire design will utilize a limited color palette, primarily soft green for the sprout, transitioning into a darker, more vibrant green for the circuit-tree portion, against a neutral background.\""
 tags: ["AI Literacy", "Introduction & Fundamentals", "Chat Assistants", "Getting Started"]
 ---
+
 ## A Friendly Introduction
 
 ### 🎯 Objective: 

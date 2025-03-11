@@ -1,5 +1,5 @@
 ---
-title: "How do AI Assistants "Think"? 🧠"
+title: "How do AI Assistants \"Think\"? 🧠"
 image-url: "https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850249/Practical%20AI%20Literacy%20Challenges/bulldog_therapist.jpg"
 image-alt: "Over the shoulder painting of a bulldog providing therapy to a woman"
 image-description: "Made with Midjourney: An oil painting capturing a female French Bulldog therapist talking to a client, over the shoulder perspective, client from behind --chaos 20 --ar 1:1 --style raw --sref 1777125610 --profile rpyy4to"
