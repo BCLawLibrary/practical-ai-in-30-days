@@ -6,14 +6,13 @@ image-description: "Made with Midjourney: lighthouse logo --chaos 25 --ar 6:5 --
 tags: ["AI Literacy", "Reflection & Future Planning", "Learning Journey", "Skill Application"]
 ---
 
-# Day 24: Final Day! A Journey Through AI, Reflections, and Next Steps
 ## **🎯 Objective:**
 
 Celebrate your progress, reflect on your learning journey, and prepare for continued growth with AI tools.
 
 ---
 
-## **🏆 Congratulations\!**
+## **🏆 Congratulations!**
 
 If you've completed all of the activities in this guide, give yourself a huge pat on the back. You've developed a foundation in AI literacy that puts you ahead of 99% of people. Think of today as the closing ceremonies of our AI exploration journey—a time to reflect, celebrate, and look forward.
 
@@ -21,7 +20,7 @@ If you've completed all of the activities in this guide, give yourself a huge pa
 
 ## **📝 Challenge: Set Your AI Journey Goals**
 
-Use this calendar of AI activitiesas a launchpad for growth. Here's how to structure your planning:
+Use this calendar of AI activities as a launchpad for growth. Here's how to structure your planning:
 
 ### Personal Development Goals
 
@@ -62,9 +61,9 @@ The development of AI is moving at a blistering pace—[what was science fiction
 
 I like the analogy my colleague, Tim Lindgren, uses—AI as a *"bicycle for the mind."* It's a tool that can take you further than you might go on your own, but you're still the one pedaling, in control of the direction and effort. This speaks to several things that are important to keep in mind. It's hard to fall asleep at the wheel so to speak when you're riding a bike. The element of human oversight, guidance, and critical evaluation is still very important when using these new tools. When used with intention and grounding conversations and tasks in both high quality context and your own personal context, you truly can go much farther much faster than you otherwise might be able to on your own. 
 
-At the same time, AI is advancing so rapidly that the bicycle analogy may undersell today's capabilities. These systems are increasingly solving complex problems that challenge even human experts. Recent benchmarks like GPQA [citation] show LLMs now outperforming specialized human experts on particularly difficult questions across mathematics, physics, chemistry, and biology. Even leading AI researchers are surprised by the pace of these developments. In many ways, AI isn't just a bicycle; it's more like a plane. When you're on course, it can get you to your destination far faster than you otherwise would. But unlike a plane with autopilot, AI doesn't always recognize when it's off track—it just keeps going. A small trajectory shift early on can compound over time, especially in complex workflows or automated systems where AI is making incremental decisions. By the time it comes back to you, significant course correction may be needed to ensure it actually landed where you intended.  
+At the same time, AI is advancing so rapidly that the bicycle analogy may undersell today's capabilities. These systems are increasingly solving complex problems that challenge even human experts. Recent benchmarks like GPQA (Epoch AI, 2025) show LLMs now outperforming specialized human experts on particularly difficult questions across mathematics, physics, chemistry, and biology. Even leading AI researchers are surprised by the pace of these developments. In many ways, AI isn't just a bicycle; it's more like a plane. When you're on course, it can get you to your destination far faster than you otherwise would. But unlike a plane with autopilot, AI doesn't always recognize when it's off track—it just keeps going. A small trajectory shift early on can compound over time, especially in complex workflows or automated systems where AI is making incremental decisions. By the time it comes back to you, significant course correction may be needed to ensure it actually landed where you intended.  
 
-Rather than fearing AI or avoiding its use, the goal is to stay engaged and intentional in how we use it. The more actively you pilot the tool, the more you amplify its benefits—turning it into something that works *for* you and *with* you, not the other way around.  
+All of this is to say, rather than fearing AI or avoiding its use, the goal is to stay engaged and intentional in how we use it. The more actively you pilot the tool, the more you amplify its benefits—turning it into something that works *for* you and *with* you, not the other way around.  
 
 
 ### Key Questions to Consider:
@@ -76,32 +75,33 @@ Rather than fearing AI or avoiding its use, the goal is to stay engaged and inte
    Like any skill, using AI effectively requires practice, experimentation, and iteration.
 
 3. **What role should AI play in my life?**  
-   Everyone's relationship with AI is different. Whether it's an occasional assistant or a daily collaborator, over time you'llfind what works for you.
+   Everyone's relationship with AI is different. Whether it's an occasional assistant or a daily collaborator, over time you'll find what works for you.
 
 ---
 
-## **💡 My Biggest Tips & Takeaways**
+## 💡 My Biggest Tips & Takeaways
 
 If you're still unsure about AI or struggling to see where it fits into your work, here's a powerful suggestion: start by using AI to get feedback on your work. This is the lowest-hanging fruit that most people overlook. Even if you don't end up using AI's suggestions directly, asking for feedback with proper context will almost always spark ideas to move you in a helpful direction.
 
 Here are some other takeaways from my AI journey:
 
-- Finding the value of AI is deeply personal \- shaped by your unique context, expertise, and goals. You will most likely find that AI is transformative for one task or purpose, simply useful or mediocre in others, and even downright useless, anti-productive, or harmful for others.  
+- Finding the value of AI is deeply personal - shaped by your unique context, expertise, and goals. You will most likely find that AI is transformative for one task or purpose, simply useful or mediocre in others, and even downright useless, anti-productive, or harmful for others.  
 - Your creativity and ingenuity in surfacing relevant knowledge, resources, and context for AI tools will set you apart. Think of yourself as an orchestrator, bringing together the right pieces of content and information at the right time for AI to work with.  
 - The ability to curate and structure information for LLMs is, for now, a crucial skill. The difference between basic and exceptional AI use often lies in how well you can feed it the right context.  
 - The real magic happens when you shift from seeking output to seeking input. Use AI to refine and challenge your ideas, not just generate content.  
 - Build your AI intuition gradually. Start with small experiments, learn from the surprises (both good and bad), and keep iterating.  
 - Scale your thinking. Instead of tweaking one email, generate dozens of variations. Rather than brainstorming a few ideas, explore hundreds of possibilities. LLMs thrive on scale—tap into their capacity to explore an entire universe of options quickly and effortlessly.  
-- AI isn't a mindreader \- the art of effective prompting is about clearly communicating your needs and requirements. The more specific you are about what you want, the better your results will be.  
-- Don't forget, AI can be fun\! Embrace the playful side of AI. Try out different personas, write silly stories, or frame questions through the lens of your favorite characters. Sometimes, the best explanations and insights come from these more creative, unconventional approaches.
+- AI isn't a mindreader - the art of effective prompting is about clearly communicating your needs and requirements. The more specific you are about what you want, the better your results will be.  
+- Don't forget, AI can be fun! Embrace the playful side of AI. Try out different personas, write silly stories, or frame questions through the lens of your favorite characters. Sometimes, the best explanations and insights come from these more creative, unconventional approaches.
 
 ---
 
-## **🛠️ Building Your AI Toolkit**
+## 🛠️ Building Your AI Toolkit
 
-### **Getting Started with AI Tools**
+### Getting Started with AI Tools
 
 **Freely Available Tools:**
+
 All of these tools have a free tier to allow you to explore their capabilities. Different rate limits and features available vary greatly so check with the provider for up to date information about what's available.
 
 * [Claude:](https://claude.ai) General Purpose Chat Assistant
@@ -118,11 +118,17 @@ These tools have higher security standards and privacy agreements and are approv
 * [Gemini](https://gemini.google.com) (Free access available with BC credentials)
 * [NotebookLM](http://notebooklm.google.com) (Free access available with BC credentials)
 
+Visit [BC's GenAI website](https://bc.edu/genai) to stay up to date and learn more about the available tools to BC community members.
+
 **Boston College Law School Access:**
 
 * Additional legal AI tools available via [Westlaw](https://www.thomsonreuters.com/en/artificial-intelligence.html) and [Lexis](https://www.lexisnexis.com/en-us/products/lexis-plus-ai.page)
 
-**Premium Options to Consider:** When you're ready to take your AI usage to the next level, consider investing in a premium tier of your preferred platform. For approximately $20/month, you can access:
+### Next Steps
+
+**Premium Options to Consider:** 
+
+When you're ready to take your AI usage to the next level, consider investing in a paid tier of your preferred platform. For approximately $20/month, you can access:
 
 * Higher rate limits and access to the most advanced models  
 * Longer conversations  
@@ -134,7 +140,7 @@ My recommendation? Start with the free tiers to discover which interface and cap
 
 ---
 
-## **🌟 Looking Forward**
+## 🌟 Looking Forward
 
 This isn't the end—it's a beginning. The tools, tips, and lessons you've explored over the course of this guide are just a fraction of what's possible. Remember:
 
@@ -143,83 +149,10 @@ This isn't the end—it's a beginning. The tools, tips, and lessons you've explo
 - Stay curious and keep learning  
 - Focus on using AI to augment, not replace, your skills
 
-Let's continue to adopt a mindset of growth, curiosity, and creativity. May your journey with AI continue to inspire and empower you\! 🎉
+Let's continue to adopt a mindset of growth, curiosity, and creativity. May your journey with AI continue to inspire and empower you! 🎉
 
 ---
 
-## **🎁 Special Parting Gift: AI Learning Resources**
+## References
 
-Here's a curated collection from watching literally hundreds 😬 of hours of AI content. Heavy on AI literacy and productivity, with sprinkles of technical, educational, and legal insights. While not comprehensive, each resource here has earned its place by offering unique value in understanding AI capabilities, applications, and implications.
-
-## **🧠 AI Working Knowledge & Insights**
-
-Deeper conversations about effective AI usage and capabilities:
-
-- [2 Years of LLM Advice in 35 Minutes](https://youtu.be/nMORNaE_qe4) \- Concise overview of key lessons learned in the AI space  
-- [Beyond the Hype: A Realistic Look at Large Language Models](https://youtu.be/Pv0cfsastFs) \- Clear, grounded explanation of LLM capabilities  
-- [LLMs are like your weird, over-confident intern](https://youtu.be/6U_Zk_PZ6Kg) \- Particularly useful for building intuition about how LLMs work (especially minutes 30-40)
-
-## **💼 Professional Applications**
-
-Real-world implementations and business cases:
-
-- [Storytelling with AI](https://youtu.be/g_s7O_hlJ2E) \- Practical applications from the Every team  
-- [She Built an AI Product Manager Bringing in Six Figures—As A Side Hustle](https://www.youtube.com/watch?v=necYAKkWqjg) \- Inspiring case study of AI entrepreneurship  
-- [Automating Work and the Economics of an Intelligence Explosion](https://youtu.be/IToUmAv5tcg) \- Deep dive into AI's impact on work and economics  
-- [Write with AI](https://youtu.be/xh54WgXEI8o) \- Practical guide for both creative and professional writing
-
-## **🎓 Industry Perspectives**
-
-Expert discussions and insights:
-
-- [The A.I. Revolution | DealBook Summit 2024](https://youtu.be/AhiYRseTAVw) \- Expert roundtable on near-term AI developments (6-18 months)  
-- [Can AI Replace Human Judgment? Medicine, Law, and Future](https://youtu.be/HVz0OxgtTqA) \- Legal industry focus  
-- [What should an AI's personality be?](https://youtu.be/iyJj9RxSsBY) \- Behind-the-scenes look at AI development from Anthropic  
-- [This is your Classroom on AI](https://open.spotify.com/episode/6Uof9gSBvSV1BbTmTiriGn) \- Essential discussion on AI's role in education
-
-## **🔬 Technical Deep Dives**
-
-For those interested in the technical foundations:
-
-- [Transformers explained visually](https://www.youtube.com/@3blue1brown) \- Essential technical concept explained clearly  
-- [OpenAI's latest reasoning model](https://youtu.be/YAgIh4aFawU) \- Analysis of recent OpenAI developments  
-- [Alignment faking in AI models](https://youtu.be/9eXV64O2Xp8) \- Fascinating research discussion from Anthropic  
-- [AI Prompt Engineering](https://youtu.be/T9aRN5JkmL8) \- Practical insights from Anthropic engineers on effective prompting techniques
-
-## **📺 Recommended YouTube Channels**
-
-Regularly updated content sources:
-
-- [AI For Humans](https://www.youtube.com/@AIForHumansShow) \- Excellent balance of education and entertainment  
-- [AI Explained](https://www.youtube.com/@aiexplained-official) \- Research deep dives without hype  
-- [Every](https://www.youtube.com/@EveryInc) \- Practical AI implementation stories  
-- [Hard Fork](https://www.youtube.com/@hardfork) \- Tech news with strong AI focus  
-- [2030 Vision: AI and the Future of Law](https://www.youtube.com/@2030VisionPodcast) \- Legal industry focused AI information
-- [Anthropic](https://www.youtube.com/@anthropic-ai) \- Direct insights from Claude's creators  
-- [Google DeepMind](https://www.youtube.com/@Google_DeepMind) \- Leading AI research and development
-- [Top Hat](https://www.youtube.com/@TopHatHQ/videos) \- Higher Education Professional Development Workshops and Podcasts
-
-## **🐦 Key Voices to Follow**
-
-Expert perspectives on AI developments:
-
-- [Ethan Mollick](https://www.oneusefulthing.org/) \- AI expert and educator with an Insightful blog and [X/Twitter presence](https://x.com/emollick)  
-- [Dan Shipper](https://x.com/danshipper) \- Every CEO's practical AI implementation insights  
-- [Allie K. Miller](https://x.com/alliekmiller) \- AI Business expert  
-- [@TheRundownAI](https://x.com/TheRundownAI) \- Daily AI news updates  
-- [DeepLearning.AI](https://x.com/DeepLearningAI) \- Technical updates and educational content
-
-## **🤔 Critical Perspectives**
-
-Important cautionary and analytical views:
-
-- [The A.I. Mirror](https://youtu.be/PhSUfZ4XMt8) \- Thoughtful alternative viewpoints  
-- [Tristan Harris: Understanding the Coming AI](https://youtu.be/ZFF7WdWGric) \- Important cautionary perspective
-
-## **📚 Additional Resources**
-
-- [Top Hat](https://tophat.com/teaching-resources/webinars-and-videos/) \- Educational resources and implementation guides
-
-![A lighthouse in a vector logo style](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850249/Practical%20AI%20Literacy%20Challenges/Lighthouse_Logo.jpg)
-## Image Description
-Made with Midjourney: lighthouse logo --chaos 25 --ar 6:5 --style raw --profile 7bn4kwq --stylize 250
+Epoch AI. (2025). AI Benchmarking Hub. Retrieved March 12, 2025, from https://epoch.ai/data/ai-benchmarking-dashboard
