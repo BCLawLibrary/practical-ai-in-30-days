@@ -42,11 +42,13 @@ Let's say you have a personal assistant who has read millions of books, but inst
 
 This metaphor captures the essence of working with today's AI assistants.
 
+### The Big Picture
+
 At a very high level, AI chat assistants work by predicting the next word in a sequence, one at a time, based on all of the words that came before. Each time a prediction is made, the set of all possible next word predictions get updated then the model decides which word should come next based on the underlying algorithms. It then repeats the process over and over until it's done responding to you. The fancy way to say this is autoregressive next token prediction.
 
 For example, if the model sees "It was a sunny," it assigns high probability to "day" as the next token, because in its training data, that sequence commonly continues with "day."
 
-A small technical detail, LLMs don't actually see or think in words. They think in tokens. Tokens are simply numerical representations of text and since we as humans don't think in tokens I'll be equating them to words to keep things simple.
+>A small technical detail, LLMs don't actually see or think in words. They think in tokens. Tokens are simply numerical representations of text and since we as humans don't think in tokens I'll be equating them to words to keep things simple.
 
 Additionally, the model's predictions are informed by the training process they undergo. This is a multi-stage process involving pre-training which creates something called a base model. Then they undergo additional types of training to turn them into the helpful chat assistants we now know and interact with in your typical chat interface.
 

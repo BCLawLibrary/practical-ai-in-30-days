@@ -8,11 +8,11 @@ tags: ["AI Literacy", "Tools & Features", "Information Retrieval", "Search Strat
 
 ## AI-Powered Search in Action!
 
-### 🎯 **Objective:**
+### 🎯 Objective:
 
 Learn how AI-powered search tools differ from traditional search engines and understand their strengths and limitations.
 
-### 🛠️ **Tools:**
+### 🛠️ Tools:
 
 - **AI Search Engines:**
   - [Perplexity](https://perplexity.ai) (3 Pro searches free daily)
@@ -20,7 +20,7 @@ Learn how AI-powered search tools differ from traditional search engines and und
 
 ---
 
-### 📝 **Knowledge Cutoffs:**
+### 📝 Knowledge Cutoffs:
 
 Because of the nature of the training process AI language models have a natural knowledge cutoff. This means they do not know about events or data beyond these points. Here are some current knowledge cutoffs:
 
@@ -94,8 +94,3 @@ Choose one of these exploration paths to dive into AI-powered search!
 AI search tools offer incredible potential for aggregation and synthesis, but they’re not infallible. Think of them as one more tool in your generative AI toolkit to enhance your search and exploration! 
 
 **Happy exploring! 🌐🔍**
-
-
-![Abstract art of a man standing in ruins looking at the night sky](https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850251/Practical%20AI%20Literacy%20Challenges/Making_space.jpg)
-## Image Description
-Made with Midjourney: making space --ar 74:63 --sref 3552739730 --stylize 1000 --v 6
