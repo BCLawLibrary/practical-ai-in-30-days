@@ -17,7 +17,7 @@ Understand and experiment with AI-powered deep research tools that autonomously 
 - **[Storm](https://storm.genie.stanford.edu/)** (Free - Generates Wikipedia-style research summaries)
 - **[Google Deep Research](https://gemini.google.com/)** (Availability varies, typically \$20/month, often discounts for first-time users)
 
-**Note:** *OpenAI Deep Research's current price point make's it inaccessible for most  users. However, it is included because it is regarded as one of the most advanced research tools available today. OpenAI has stated that later this year, it will be available to Plus subscribers (\$20/month) and possibly with limited free-tier access. Until then, the other offerings are solid alternatives worth exploring.*
+**Note:** *OpenAI Deep Research's current price point make's it inaccessible for most  users. However, it is included because it is regarded as one of the most advanced research tools available today. OpenAI has recently allowed Plus subscribers (\$20/month) limited access (10 queries per month) and may offer limited free-tier access later this year. Until then, the other offerings are solid alternatives worth exploring.*
 
 ---
 
