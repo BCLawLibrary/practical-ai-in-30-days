@@ -26,63 +26,58 @@ tags: ["AI Literacy", "Generative AI"]
   * [Gemini](https://gemini.google.com/) (standard mode)
   * [Microsoft Copilot](https://copilot.microsoft.com/)
 
-## 📚 Understanding the Technology Behind Reasoning Models
-*(Based on concepts explained by Andrej Karpathy's "Deep Dive Into LLMs" and Latent Space's analysis of reasoning models)*
+## 📚 The Two Faces of Modern AI: Chat vs. Reasoning Models
 
-### How Reasoning Models Work:
+### Why This Matters to You
 
-Reasoning models represent a significant evolution in AI development. Before diving into practical exercises, let's understand what makes reasoning models different:
+In today's AI landscape, there's a growing division between two types of AI models: traditional **chat models** and newer **reasoning models**. Understanding this distinction is crucial because:
 
-**Training Process:**
-- **Reinforcement Learning (RL)**: Unlike models trained solely on imitation, reasoning models use trial and error to discover effective problem-solving strategies
-- **Emergent Behavior**: The model's thinking patterns aren't explicitly programmed—they emerge through reinforcement
-- **Self-Discovered Techniques**: The model learns to re-evaluate assumptions, backtrack, and try different approaches on its own
+1. **It affects how you should communicate with the AI** - each type requires different prompting techniques
+2. **It determines which AI to choose for different tasks** - some jobs are better suited for one type over the other
+3. **It impacts your results and productivity** - using the wrong approach can lead to poor outputs or wasted time
 
-**Inference Time Thinking:**
-- **Extended Computation**: Reasoning models spend significantly more time "thinking" before responding
-- **Built-in Chain of Thought**: While you previously learned to prompt models to "think step by step," reasoning models have this behavior built into their design, in fact [it's best practice *NOT* to ask a reasoning model to "think step by step"](https://platform.openai.com/docs/guides/reasoning-best-practices#how-to-prompt-reasoning-models-effectively)
-- **Visible Thinking Process**: While the model does its reasoning before giving a final answer, most interfaces allow you to view this thinking process by expanding a dropdown menu or clicking on a "Show thinking" option—giving you insight into how it reached its conclusion
+Think of it like knowing whether you're talking to a quick-responding colleague (chat model) or a thoughtful researcher who needs time to consider problems deeply (reasoning model) - your communication style would naturally differ between these two people.
 
-**Resource Implications:**
-- **Higher Computational Cost**: Reasoning models require more processing power and energy
-- **Longer Response Times**: Responses may take minutes instead of seconds
-- **Premium Pricing**: These capabilities typically come with higher subscription costs
+### A Simple Comparison
 
-**Why This Matters:**
-- Reasoning models excel at problems requiring deep analysis or complex problem-solving
-- They can tackle questions that would confuse traditional chat models
-- They're particularly valuable for coding, legal reasoning, mathematical proofs, and complex analysis
+**Chat Models** (like standard ChatGPT, Claude, Gemini):
+- Quick, conversational responses (seconds)
+- Back-and-forth dialogue style
+- Good for creative tasks, simple questions, brainstorming
+- Prefer step-by-step guidance in your prompts
 
-Think of the difference this way:
-- Chat models are like having a conversation with a helpful assistant who thinks as you chat
-- Reasoning models are like submitting a detailed brief to an expert who will think deeply before delivering a thorough report
+**Reasoning Models** (like OpenAI's o1 series, DeepSeek R1, Claude with Extended Thinking):
+- Slower, more thorough responses (minutes)
+- "Submit once, get comprehensive answer" style
+- Excel at complex problems, analysis, and planning
+- Prefer receiving all context upfront with clear goals
 
-### **What's Happening Behind the Scenes:**
+## 🔍 How Reasoning Models Work
 
-When you submit a prompt to a reasoning model, it's engaging in an internal process that might look like:
-1. Planning an approach to the problem
-2. Working through potential solutions
-3. Identifying and correcting mistakes
-4. Re-evaluating assumptions
-5. Checking its work before finalizing its answer
+Unlike chat models which are optimized for dialogue, reasoning models have been specially trained to spend more time "thinking" before responding. Here's what makes them different:
 
-This process mimics how experts tackle complex problems, but happens through computational means rather than human consciousness.
+- **Internal Deliberation**: They run through multiple rounds of analysis before providing an answer
+- **Self-Correction**: They can identify and fix their own reasoning errors
+- **Depth Over Speed**: They prioritize thoroughness over quick responses
+- **Built-in Chain of Thought**: They naturally work through problems step-by-step without needing to be prompted
 
-## 📝 Challenge:
+This makes reasoning models particularly valuable for tasks requiring deep analysis, complex problem-solving, and situations where accuracy is more important than quick responses.
+
+When you interact with a reasoning model, you might notice:
+- Responses take 2-5 minutes rather than seconds
+- The model might show its "thinking" process in an expandable section
+- Answers tend to be more structured and comprehensive
+- The model naturally breaks down complex problems into manageable parts
+
+## 📝 Challenge: Compare Model Types
 
 ### **Part 1: Understanding the Difference (10 minutes)**
 
-Reasoning models and chat models approach problems differently:
+Try interacting with both a chat model and a reasoning model to feel the difference firsthand. Pick a complex topic from your field and notice how:
 
-**Chat Models** are conversational, quick to respond, and work in back-and-forth exchanges:
-- Think of them as helpful assistants ready to chat
-- Good for: quick answers, creative writing, summarizing, brainstorming
-- Prompting style: iterative conversations with follow-up questions
-
-**Reasoning Models** take time to "think" before responding:
-- Think of them as careful researchers preparing a detailed report
-- Good for: complex problems, mathematical challenges, detailed analysis
-- Prompting style: comprehensive briefs with extensive context and clear goals
+- **Chat models** respond quickly but might oversimplify
+- **Reasoning models** take longer but provide more thorough analysis
+- The interaction pattern feels fundamentally different
 
 ### **Part 2: Hands-on Comparison (15 minutes)**
 
@@ -114,7 +109,6 @@ Choose one of these academic or professional tasks and try it with both a reason
 - Compare how each model structures the document and anticipates requirements
 
 ### **Part 3: Optimizing Your Prompts (20 minutes)**
-*(Prompting strategies adapted from "o1 isn't a chat model (and that's the point)" by Ben Hylak, Swyx, and Alessia at Latent Space)*
 
 The key to success with advanced AI models is understanding their different interaction patterns and optimizing your prompts accordingly.
 
@@ -166,44 +160,9 @@ The key to success with advanced AI models is understanding their different inte
    * Ask for step-by-step thinking or particular formats
    * Specify tone, style, and level of detail in your requests
 
-### **💡 Tips for Success:**
+## 💡 Real-World Applications
 
-**Working with Reasoning Models:**
-- **Patience is key** - responses can take minutes, not seconds (sometimes 2-5 minutes for complex queries)
-- **Treat them like report generators**, not conversationalists
-- **Provide all context upfront** rather than through back-and-forth
-- **Use voice memos** to quickly capture and paste comprehensive context
-- **Focus on a single, specific output request** per prompt
-- **View the thinking process** when available to understand how the model approached your question
-- **Save and reuse effective prompts** as templates for similar future tasks
-
-**Real-World Applications in Higher Education:**
-
-1. **Complex Research Activities:**
-   - Literature review planning and gap analysis
-   - Research methodology design
-   - Grant proposal development
-   - Interdisciplinary research planning
-
-2. **Administrative and Planning Tasks:**
-   - Strategic plan development
-   - Program assessment design
-   - Accreditation preparation
-   - Curriculum mapping and analysis
-
-3. **Legal Analysis and Education:**
-   - Case brief development and analysis
-   - Legal memorandum creation
-   - Policy impact assessment
-   - Legislative history research
-
-4. **Technical Development:**
-   - Software architecture planning
-   - Implementation roadmaps
-   - Technical specification creation
-   - Risk assessment frameworks
-
-**When to Use Which Type:**
+Understanding which model to use and how to prompt it effectively can dramatically improve your results in various academic and professional contexts:
 
 | **Task Type** | **Preferred Model** | **Examples** |
 |---------------|---------------------|--------------|
@@ -216,9 +175,25 @@ The key to success with advanced AI models is understanding their different inte
 | Style-specific writing | Chat | Different writing styles, tone adaptation |
 | Iterative development | Chat | Collaborative document creation, feedback cycles |
 
-### **🎯 Bonus Challenge: Prompt Engineering for Advanced Tasks**
+### Tips for Success:
 
-#### **Example Task: Creating a Course Curriculum Analysis**
+**Working with Reasoning Models:**
+- **Patience is key** - responses can take minutes, not seconds
+- **Treat them like report generators**, not conversationalists
+- **Provide all context upfront** rather than through back-and-forth
+- **Use voice memos** to quickly capture and paste comprehensive context
+- **Focus on a single, specific output request** per prompt
+- **View the thinking process** when available to understand the model's approach
+- **Save and reuse effective prompts** as templates for similar future tasks
+
+**When to Use Each Type:**
+- Use reasoning models when accuracy, thorough analysis, and comprehensive output matter most
+- Use chat models when quick responses, creative brainstorming, or interactive collaboration is needed
+- Consider your own workflow - do you prefer to craft one detailed prompt or engage in back-and-forth?
+
+## 🎯 Bonus Challenge: Crafting Optimal Prompts
+
+### **Example Task: Creating a Course Curriculum Analysis**
 
 Here's how you might approach the same task with different model types:
 
@@ -271,9 +246,7 @@ A good analysis should:
 - Suggest concrete, implementable changes
 ```
 
-Try creating your own detailed prompt templates for tasks relevant to your field of study or professional interests. Test them on both types of models and compare the results. **Remember:** These models may or may not have access to search the internet for up-to-date information. Providing relevant materials is key if you want it to consider specific information in its response.
-
-#### **Prompt Template Builder for Reasoning Models**
+### **Prompt Template for Reasoning Models**
 
 Create prompts for reasoning models using this structure:
 
@@ -282,7 +255,6 @@ Create prompts for reasoning models using this structure:
 Here is all relevant background information:
 - My goal is: ...
 - The situation is: ...
-
 
 [OUTPUT SECTION]
 Please provide:
@@ -303,9 +275,27 @@ Context dump including other information relevant to supporting the task.
 - Any technical details: ...
 - Supporting documents... 
 ```
-The supporting information might include uploading research, documentation, or other materials the model should consider during it's thinking process.
 
-Test your template on both model types and reflect on the differences in responses. Feel free to adjust as needed to get the best results for your use case.
+Test your template on both model types and reflect on the differences in responses.
+
+## Additional Technical Background
+
+If you're curious about the technology behind reasoning models, here's a brief overview:
+
+**Training Process:**
+- **Reinforcement Learning (RL)**: Unlike models trained solely on imitation, reasoning models use trial and error to discover effective problem-solving strategies
+- **Emergent Behavior**: The model's thinking patterns aren't explicitly programmed—they emerge through reinforcement
+- **Self-Discovered Techniques**: The model learns to re-evaluate assumptions, backtrack, and try different approaches on its own
+
+**Inference Time Thinking:**
+- **Extended Computation**: Reasoning models spend significantly more time "thinking" before responding
+- **Built-in Chain of Thought**: While you previously learned to prompt models to "think step by step," reasoning models have this behavior built into their design
+- **Visible Thinking Process**: Most interfaces allow you to view the model's reasoning process, giving you insight into how it reached its conclusion
+
+**Resource Implications:**
+- **Higher Computational Cost**: Reasoning models require more processing power and energy
+- **Longer Response Times**: Responses may take minutes instead of seconds
+- **Premium Pricing**: These capabilities typically come with higher subscription costs
 
 ## **References and Further Reading**
 

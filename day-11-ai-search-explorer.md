@@ -32,11 +32,13 @@ Because of the nature of the training process AI language models have a natural 
 
 These cutoffs highlight why AI-powered search tools like Perplexity, ChatGPT and other tools with browse capabilities are powerful — they combine AI’s reasoning skills with access to up-to-date information.
 
-**Getting Past Knowledge Cutoffs**
+#### Getting Past Knowledge Cutoffs
 
 A knowledge cutoff doesn't prevent a model from discussing current topics intelligently. You just have to be aware that for bleeding-edge content, it's best if you supply the specific information, articles, or data related to your query as part of your chat to give the AI context. 
 
-Alternatively, if you know a model has internet search capabilities provided by the features offered in the platform, it may intelligently use the internet to answer your question. You can also directly ask an AI chat assistant with these capabilities to use it's search tool if it's available. This is often achieved by enabling the search feature in the UI of the application or by simply asking it to use search as part of your prompt. Here are some of the platforms that offer internet search:
+Alternatively, if you know a model has internet search capabilities provided by the features offered in the platform, it may intelligently use the internet to answer your question. You can also directly ask an AI chat assistant with these capabilities to use it's search tool if it's available. This is often achieved by enabling the search feature in the UI of the application or by simply asking it to use search as part of your prompt. 
+
+Here are some of the platforms that offer internet search:
 
 - **ChatGPT:** Great for conversational AI and browsing capabilities.
 - **Google Search with AI Overview:** Integrates AI summaries into traditional Google search.
