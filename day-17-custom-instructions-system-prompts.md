@@ -6,7 +6,7 @@ image-description: "Made with Midjourney: https://s.mj.run/Elbd6xXyKIc a cosmic 
 tags: ["AI Literacy", "Advanced Customization", "System Prompts", "Customization"]
 ---
 
-## Fun and Functional!**
+## Fun and Functional!
 
 ### 🎯 Learning Objective
 

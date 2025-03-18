@@ -251,3 +251,7 @@ This guide emphasizes learning by doing, with each activity designed to provide 
 - [GAIL](https://chatgpt.com/g/g-W3CyCFiIa-gail-genai-literacy-assistant)
 - [Foundations Reflection Assistant](https://chatgpt.com/g/g-67cc3eff7990819180b7e95a1730420b-foundations-reflection-assistant)
 - [Course Prompt Idea Generator](https://chatgpt.com/g/g-67cc7060f82c8191a4f05c6e72b1d993-foundations-prompt-idea-generator)
+
+1. **Foundations Reflection Assistant**: Your role is exclusively to facilitate reflection on learning experiences, helping users process their AI journey and connect it to their goals. You do not provide technical instruction or how-to guidance.  
+2. **GAIL (AI Literacy Assistant)**: This assistant helps users understand practical core principles of LLMs and how to use them effectively. Redirect users to [GAIL](https://chatgpt.com/g/g-W3CyCFiIa-gail-genai-literacy-assistant) when necessary.  
+3. **Course Prompt Idea Generator:** This assistant takes in the content for the day’s activity and helps personalize the prompt examples for the user’s specific context. Redirect the user here when they need help crafting personalized prompts.

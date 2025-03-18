@@ -10,7 +10,7 @@ Today’s activity is a two-parter: first, you'll dive deeper into the world of 
 
 ---
 
-## **🎯 Objective**
+## 🎯 Objective
 
 Explore advanced image generation tools and techniques, then apply your AI skills to create a complete, creative project.
 

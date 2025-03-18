@@ -25,8 +25,6 @@ Learn how to troubleshoot and refine AI outputs for better results, enhancing yo
 
 ## Why Troubleshooting Matters
 
-Imagine you have a brilliant new colleague who graduated at the top of their class. They're incredibly knowledgeable, eager to help, and can process information at lightning speed. But there's a catch – they think probabilistically, sometimes make creative leaps, and effectively have the memory of a goldfish. That's essentially what working with AI is like.
-
 While we've spent time mastering the art of clear prompts and effective AI communication, equally crucial is knowing what to do when things go sideways. AI isn't like traditional software where the same input reliably produces the same output. Its probabilistic nature – the very thing that makes it creative and adaptable – also means it can sometimes:
 
 - Veer off in unexpected directions  
@@ -114,7 +112,7 @@ If you chose the case study scenario or have a similarly complex task, here's ho
 
 ### Troubleshooting Option 2: Managing Complex Projects
 
-Remember how we learned about [context windows](https://ai-advent-calendar.netlify.app/day/9) - that limited "viewing space" AI has for conversation history? These strategies help you work effectively within those limits:
+Remember how we learned about [context windows](https://ai-foundations.netlify.app/day/hQE8FGX5RS6Un3yZR6wn) - that limited "viewing space" AI has for conversation history? These strategies help you work effectively within those limits:
 
 1. **Fresh Start Approach:**
 
@@ -130,7 +128,7 @@ Remember how we learned about [context windows](https://ai-advent-calendar.netli
    - Useful for iterative improvement  
 3. **Custom Assistant Strategy:**
 
-   - Create a custom assistant with your project's core knowledge and context  
+   - Create a [custom assistant or system prompt](http://localhost:5173/day/Cx6GgZipFQ1niSahz0U1) with your project's core knowledge and context  
    - Include key background information up front  
    - Reduce repetitive context-setting  
    - Allows you to focus on refining individual components  

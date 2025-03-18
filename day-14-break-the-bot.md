@@ -104,7 +104,7 @@ Try these entertaining experiments to explore AI quirks:
 
 ---
 
-### **🎓 Learning Value:**
+### 🎓 Learning Value:
 
 These experiments help us understand:
 

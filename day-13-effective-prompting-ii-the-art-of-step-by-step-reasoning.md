@@ -24,7 +24,7 @@ Learn how to improve AI responses by encouraging step-by-step thinking and metac
 
 ### 🖍️ Core Concept
 
-Just as humans often benefit from "showing their work," AI assistants generate better responses when prompted to think through problems step-by-step. This approach leverages the [autoregressive nature](https://ai-advent-calendar.netlify.app/day/9) of language models — each part of their response builds upon what came before, leading to more coherent and well-reasoned outputs.
+Just as humans often benefit from "showing their work," AI assistants generate better responses when prompted to think through problems step-by-step. This approach leverages the [autoregressive nature](https://ai-foundations.netlify.app/day/hQE8FGX5RS6Un3yZR6wn) of language models — each part of their response builds upon what came before, leading to more coherent and well-reasoned outputs.
 
 **Key Benefits of Step-by-Step Thinking:**
 
