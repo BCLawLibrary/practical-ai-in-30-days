@@ -20,12 +20,12 @@ Paid Options:
 
 - **ChatGPT [Custom GPTs](https://openai.com/index/introducing-gpts/) OR [Projects](https://help.openai.com/en/articles/10169521-using-projects-in-chatgpt)** (requires ChatGPT Plus)  
 - **Claude [Projects](https://www.anthropic.com/news/projects)** (Anthropic subscription required)  
-- **Gemini [Gems](https://blog.google/products/gemini/google-gems-tips/)** (Google’s paid subscription service)
+- **Gemini [Gems](https://blog.google/products/gemini/google-gems-tips/)** (Free with your BC account or via Google’s paid subscription service)
 
 Free Options:
 
 - [**Google AI Studio**](https://ai.google.dev/gemini-api/docs/ai-studio-quickstart?continue=https%3A%2F%2Fdevelopers.google.com%2Flearn%2Fpathways%2Fsolution-ai-gemini-101%23article-https%3A%2F%2Fai.google.dev%2Fgemini-api%2Fdocs%2Fai-studio-quickstart)
-- [Playlab](https://www.playlab.ai/)
+- [**Playlab**](https://www.playlab.ai/)
 
 **Reminder:** You will need to use a private Google account to access Google AI Studio. BC Google accounts cannot access AI Studio at this time.	
 

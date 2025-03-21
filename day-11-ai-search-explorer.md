@@ -48,7 +48,7 @@ Here are some of the platforms that offer internet search:
 - **Mistral:** A French model that has internet search capabilities.
 - **DeepSeek:** A Chinese model that has internet search capabilities.
 - **Grok:** Has internet access and can intelligently search the web to fill missing context.
-- **Claude:** Notably, at this time, Claude **does not** have access to the internet in the chat interface.
+- **Claude:** Recently announced internet search capabilities for improved responses for up to date information. 
 
 ---
 
