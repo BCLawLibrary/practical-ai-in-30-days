@@ -22,7 +22,8 @@ Explore advanced image generation tools and techniques, then apply your AI skill
 
 * **Imagen 3**: Google's latest image generator. Available via [Gemini](https://gemini.google.com) or [Labs](https://labs.google/fx).  
 * **Whisk**: A playful new tool from Google. Explore it at [Labs](https://labs.google/fx).  
-* **DALL-E 3**: Available in [ChatGPT](https://chat.openai.com) or [Copilot](https://copilot.microsoft.com).
+* **GPT-4o Image Generation**: Available in [ChatGPT](https://chat.openai.com) 
+* [**Copilot**](https://copilot.microsoft.com).
 
 ### Paid Options
 

@@ -19,6 +19,7 @@ Choose one or more platforms to organize your knowledge:
 - [Claude.ai Projects](https://claude.ai) (Requires subscription)  
 - [ChatGPT Projects/Custom GPTs](https://chat.openai.com) (Requires subscription)  
 - [NotebookLM](https://notebooklm.google.com) (Free)
+- [Gemini Gems](https://gemini.google.com) (Free)
 
 ---
 
@@ -30,6 +31,7 @@ A knowledge base is a structured collection of information that you can share wi
 
 * [What are Claude Projects](https://support.anthropic.com/en/articles/9517075-what-are-projects)
 * [Knowledge in GPTs](https://help.openai.com/en/articles/8843948-knowledge-in-gpts)
+* [Knowledge in Gems](https://support.google.com/gemini/answer/15235603?sjid=4517412395701425159-NA#upload_gem)
 
 ### Why use a knowledge base with AI? 
 

@@ -28,7 +28,8 @@ Because of the nature of the training process AI language models have a natural 
 - **GPT-4o:** [June 2024](https://help.openai.com/en/articles/9624314-model-release-notes)
 - **Claude 3.7 Sonnet:** [October 2024](https://docs.anthropic.com/en/docs/about-claude/models/all-models#model-comparison-table)
 - **Claude 3.5 Sonnet:** [April 2024](https://docs.anthropic.com/en/docs/about-claude/models)
-- **Gemini:** [August 2024](https://aistudio.google.com/prompts/new_chat)
+- **Gemini 2.5 Pro:** [January 2025](https://aistudio.google.com/prompts/new_chat)
+- **Gemini 2.0 Flash:** [August 2024](https://aistudio.google.com/prompts/new_chat)
 
 These cutoffs highlight why AI-powered search tools like Perplexity, ChatGPT and other tools with browse capabilities are powerful — they combine AI’s reasoning skills with access to up-to-date information.
 

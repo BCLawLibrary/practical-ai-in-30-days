@@ -18,6 +18,7 @@ tags: ["AI Literacy", "Generative AI"]
   * [OpenAI o1 series](https://chat.openai.com/) (requires subscription)
   * [OpenAI o3 mini](https://chat.openai.com) (limited free tier access)
   * [DeepSeek R1](https://chat.deepseek.com/)
+  * [Google Gemini 2.5 Pro](https://gemini.google.com)
   * [Google Gemini with Flash Thinking](https://gemini.google.com/)
   * [Claude 3.7 Sonnet with Extended Thinking](https://claude.ai/) (Requires subscription)
 * Standard chat model options:
