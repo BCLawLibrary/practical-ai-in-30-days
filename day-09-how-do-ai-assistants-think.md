@@ -44,19 +44,19 @@ This metaphor captures the essence of working with today's AI assistants.
 
 ### The Big Picture
 
-At a very high level, AI chat assistants work by predicting the next word in a sequence, one at a time, based on all of the words that came before. Each time a prediction is made, the set of all possible next word predictions get updated then the model decides which word should come next based on the underlying algorithms. It then repeats the process over and over until it's done responding to you. The fancy way to say this is autoregressive next token prediction.
+Generative AI chat assistants like Gemini, Claude, and ChatGPT are fundamentally predictive in nature. At a very high level, these chat assistants work by predicting the next word in a sequence, one at a time. This prediction process relies heavily on the statistical patterns the model learned during its training. Each time an LLM predicts a new word, its choice is also influenced by the sequence of words generated so far. It then repeats the process over and over until it's done responding to you. The fancy machine learning way to say this is that LLMs are autoregressive next token predictors.
 
 For example, if the model sees "It was a sunny," it assigns high probability to "day" as the next token, because in its training data, that sequence commonly continues with "day."
 
 >A small technical detail, LLMs don't actually see or think in words. They think in tokens. Tokens are simply numerical representations of text and since we as humans don't think in tokens I'll be equating them to words to keep things simple.
-
-Additionally, the model's predictions are informed by the training process they undergo. This is a multi-stage process involving pre-training which creates something called a base model. Then they undergo additional types of training to turn them into the helpful chat assistants we now know and interact with in your typical chat interface.
 
 It's also worth noting here that one of the biggest technological breakthroughs that led to the current boom of generative AI tools is something called the transformer architecture. [Introduced in 2017](https://arxiv.org/abs/1706.03762), this innovation revolutionized how AI processes language by allowing models to consider the context of all words in a sequence simultaneously, rather than sequentially like earlier designs. The transformer's "attention mechanism" helps AI understand relationships between words regardless of their position in text—much like how you can instantly grasp the connection between "John" and "his" in "John forgot his keys." 
 
 You don't need to understand transformers to use AI tools effectively, just as you don't need to understand combustion engines to drive a car, but knowing this term helps establish the foundation of the generative AI revolution we're experiencing today.
 
 ### The Training Process: From Raw Data to Helpful Assistant
+
+This is a multi-stage process involving pre-training which creates something called a base model. Then they undergo additional types of training to turn them into the helpful chat assistants we now know and interact with in your typical chat interface.
 
 **Step 1: Pre-training**
 The first step, known as pre-training, involves taking in vast amounts of text known as training data. This is largely considered to be all of the content publicly available on the internet but may also include data from proprietary sources or licensing agreements. For our purposes we can just assume that it's available data from the internet. Llama 3.1 405B which is an open source model was trained on a dataset containing around 15 trillion tokens (Schmid et al., 2024)!
