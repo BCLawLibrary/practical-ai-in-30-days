@@ -23,7 +23,7 @@ Explore advanced image generation tools and techniques, then apply your AI skill
 * **Imagen 3**: Google's latest image generator. Available via [Gemini](https://gemini.google.com) or [Labs](https://labs.google/fx).  
 * **Whisk**: A playful new tool from Google. Explore it at [Labs](https://labs.google/fx).  
 * **GPT-4o Image Generation**: Available in [ChatGPT](https://chat.openai.com) 
-* [**Copilot**](https://copilot.microsoft.com).
+* **Dalle 3**: Available in [Copilot](https://copilot.microsoft.com) 
 
 ### Paid Options
 
@@ -158,7 +158,7 @@ Here’s one last fun thing to try. Create a themed collection of either childre
 
 ## 💡 Connect to Previous Learning:
 
-* [Use custom AI assistants (Day 17) for repetitive tasks](https://ai-advent-calendar.netlify.app/day/17)
-* [Apply clear prompting techniques (Day 10)](https://ai-advent-calendar.netlify.app/day/10)    
-* [Utilize multi-modal capabilities (Day 12)](https://ai-advent-calendar.netlify.app/day/12)
-* [Troubleshoot if necessary (Day 18)](https://ai-advent-calendar.netlify.app/day/18)
+* [Use custom AI assistants for repetitive tasks](https://ai-foundations.netlify.app/day/Cx6GgZipFQ1niSahz0U1)
+* [Apply clear prompting techniques](https://ai-foundations.netlify.app/day/lGAwq8h1mR2hxdoES4LP)    
+* [Utilize multi-modal capabilities](https://ai-foundations.netlify.app/day/pzmLKDvNAeev3ADrY9W4)
+* [Troubleshoot if necessary](https://ai-foundations.netlify.app/day/m9BTVBgABSRk5hHESkYq)
