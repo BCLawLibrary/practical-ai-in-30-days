@@ -19,7 +19,7 @@ tags: ["AI Literacy", "Generative AI"]
   * [OpenAI o3 mini](https://chat.openai.com) (limited free tier access)
   * [DeepSeek R1](https://chat.deepseek.com/)
   * [Google Gemini 2.5 Pro](https://gemini.google.com)
-  * [Google Gemini with Flash Thinking](https://gemini.google.com/)
+  * [Google Gemini Flash 2.0 Thinking](https://gemini.google.com/)
   * [Claude 3.7 Sonnet with Extended Thinking](https://claude.ai/) (Requires subscription)
 * Standard chat model options:
   * [Claude 3.7 Sonnet](https://claude.ai/) (free tier)
@@ -44,14 +44,14 @@ Think of it like knowing whether you're talking to a quick-responding colleague 
 **Chat Models** (like standard ChatGPT, Claude, Gemini):
 - Quick, conversational responses (seconds)
 - Back-and-forth dialogue style
-- Good for creative tasks, simple questions, brainstorming
-- Prefer step-by-step guidance in your prompts
+- Better for creative tasks, simple questions, brainstorming
+- Prefers step-by-step guidance in your prompts
 
 **Reasoning Models** (like OpenAI's o1 series, DeepSeek R1, Claude with Extended Thinking):
 - Slower, more thorough responses (minutes)
 - "Submit once, get comprehensive answer" style
 - Excel at complex problems, analysis, and planning
-- Prefer receiving all context upfront with clear goals
+- Prefers receiving more context upfront with clear goals
 
 ## 🔍 How Reasoning Models Work
 
@@ -65,7 +65,7 @@ Unlike chat models which are optimized for dialogue, reasoning models have been 
 This makes reasoning models particularly valuable for tasks requiring deep analysis, complex problem-solving, and situations where accuracy is more important than quick responses.
 
 When you interact with a reasoning model, you might notice:
-- Responses take 2-5 minutes rather than seconds
+- Responses take several minutes rather than seconds
 - The model might show its "thinking" process in an expandable section
 - Answers tend to be more structured and comprehensive
 - The model naturally breaks down complex problems into manageable parts
@@ -74,7 +74,7 @@ When you interact with a reasoning model, you might notice:
 
 ### **Part 1: Understanding the Difference (10 minutes)**
 
-Try interacting with both a chat model and a reasoning model to feel the difference firsthand. Pick a complex topic from your field and notice how:
+Try interacting with both a chat model and a reasoning model to feel the difference firsthand. Pick a complex topic from your field or area of interest and notice how:
 
 - **Chat models** respond quickly but might oversimplify
 - **Reasoning models** take longer but provide more thorough analysis
