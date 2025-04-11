@@ -1,7 +1,7 @@
 ---
 title: "More Image Fun and Putting everything together!"
-image-url: "https://res.cloudinary.com/dt5ug8amw/image/upload/v1734638039/AI%20Advent%202024/Impressionist_Oil_Painting_of_a_cat.jpg"
-image-alt: "Impressionist painting of a cat near a fireplace"
+image-url: "https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850250/Practical%20AI%20Literacy%20Challenges/minimal_slide_design.jpg"
+image-alt: "A mountain range in minimal digital illustration style with warm pastel colors"
 image-description: "Made with Midjourney: Minimal slide design. stylized shapes on blank background. Maroon and gold color palette, desaturated. minimalistic --chaos 20 --ar 16:9 --style raw --sref 2907974220 --profile zn92tm6 --stylize 250"
 tags: ["AI Literacy", "Integration & Synthesis", "Workflow Integration", "Practical Application"]
 ---
