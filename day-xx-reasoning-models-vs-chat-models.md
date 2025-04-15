@@ -27,6 +27,10 @@ tags: ["AI Literacy", "Generative AI"]
   * [Gemini](https://gemini.google.com/) (standard mode)
   * [Microsoft Copilot](https://copilot.microsoft.com/)
 
+(**Note**: Model names and access tiers can change rapidly. Always check the providers latest offerings)
+
+---
+
 ## 📚 The Two Faces of Modern AI: Chat vs. Reasoning Models
 
 ### Why This Matters to You
@@ -39,127 +43,232 @@ In today's AI landscape, there's a growing division between two types of AI mode
 
 Think of it like knowing whether you're talking to a quick-responding colleague (chat model) or a thoughtful researcher who needs time to consider problems deeply (reasoning model) - your communication style would naturally differ between these two people.
 
+It's helpful to think of these types as existing on a spectrum. While we categorize them for clarity, some models possess strong capabilities in both areas. The key difference lies in their primary optimization – what they are fundamentally designed to excel at: rapid interaction versus deep deliberation.
+
 ### A Simple Comparison
 
 **Chat Models** (like standard ChatGPT, Claude, Gemini):
-- Quick, conversational responses (seconds)
-- Back-and-forth dialogue style
-- Better for creative tasks, simple questions, brainstorming
-- Prefers step-by-step guidance in your prompts
+- Optimized for interactive, conversational experiences
+- Quick responses (seconds)
+- Excel at creative tasks, basic information retrieval, and iterative refinement
+- Often benefit from explicit, detailed instructions
 
-**Reasoning Models** (like OpenAI's o1 series, DeepSeek R1, Claude with Extended Thinking):
-- Slower, more thorough responses (minutes)
-- "Submit once, get comprehensive answer" style
-- Excel at complex problems, analysis, and planning
-- Prefers receiving more context upfront with clear goals
+**Reasoning Models** (like OpenAI's o-series, Claude with Extended Thinking):
+- Optimized for deep analysis and complex problem-solving
+- Longer response times (often minutes) due to internal deliberation
+- Excel at multi-step reasoning, handling ambiguity, and analyzing complex information
+- Often perform best with clear goals but fewer constraints on their reasoning process
 
 ## 🔍 How Reasoning Models Work
 
-Unlike chat models which are optimized for dialogue, reasoning models have been specially trained to spend more time "thinking" before responding. Here's what makes them different:
+Reasoning models aren't just chat models that take longer to respond - they're architecturally optimized for thorough analysis. Here's what makes them different:
 
-- **Internal Deliberation**: They run through multiple rounds of analysis before providing an answer
-- **Self-Correction**: They can identify and fix their own reasoning errors
-- **Depth Over Speed**: They prioritize thoroughness over quick responses
-- **Built-in Chain of Thought**: They naturally work through problems step-by-step without needing to be prompted
+- **Internal Deliberation**: These models use reinforcement learning techniques that encourage exploring multiple approaches and self-correcting errors before providing a final answer
 
-This makes reasoning models particularly valuable for tasks requiring deep analysis, complex problem-solving, and situations where accuracy is more important than quick responses.
+- **Emergent Problem-Solving**: Rather than following prescribed reasoning patterns, they develop their own effective strategies through extensive training
 
-When you interact with a reasoning model, you might notice:
-- Responses take several minutes rather than seconds
-- The model might show its "thinking" process in an expandable section
-- Answers tend to be more structured and comprehensive
-- The model naturally breaks down complex problems into manageable parts
+- **Integrated Chain-of-Thought**: While you might prompt chat models to "think step by step," reasoning models have this behavior built into their design
 
-## 📝 Challenge: Compare Model Types
+- **Extended Computation**: They allocate significantly more computational resources to each response, allowing deeper analysis
 
-### **Part 1: Understanding the Difference (10 minutes)**
+When you interact with a reasoning model, you'll notice:
+- The visible "thinking" process might reveal how the model explores multiple paths before settling on an answer
+- Responses naturally break complex problems into manageable components
+- The model self-corrects when it encounters logical contradictions
 
-Try interacting with both a chat model and a reasoning model to feel the difference firsthand. Pick a complex topic from your field or area of interest and notice how:
+---
 
-- **Chat models** respond quickly but might oversimplify
-- **Reasoning models** take longer but provide more thorough analysis
-- The interaction pattern feels fundamentally different
+## Prompting Tips and Strategies
 
-### **Part 2: Hands-on Comparison (15 minutes)**
+### The Collaborative AI Mindset
 
-Choose one of these academic or professional tasks and try it with both a reasoning model and a chat model. Notice the difference in depth, coherence, and thoroughness of the responses:
+When working with AI models, especially reasoning models:
 
-**Option A: Legal Case Analysis**
-- Find a short legal case summary (or use one from your coursework)
-- Ask both models to analyze the legal principles, potential arguments, and broader implications
-- Compare how each model identifies nuances and connects to relevant precedents
+1. **Provide rich context**: The quality of output often correlates directly with the quality and relevance of the context you provide
+2. **Iterate and refine**: Treat the initial response as a starting point for a deeper collaboration
+3. **Augment rather than replace**: Use AI to enhance your thinking process, not to outsource it entirely
+4. **Guide with expertise**: Your domain knowledge is invaluable in steering the model toward useful outputs
 
-**Option B: Research Project Planning**
-- Select a complex research question from your field
-- Ask both models to create a comprehensive research plan including:
-  - Methodology selection with justification
-  - Resource requirements and timeline
-  - Potential challenges and mitigation strategies
-  - Analysis approach for gathered data
+For each of the tasks in the challenges section, consider what relevant context you might add from your own knowledge or preliminary research to improve the quality of the AI's response. Some tasks will benefit from this additional context more than others.
 
-**Option C: Implementation Planning**
-- Describe a complex project (like creating a new clinical program, tech implementation, or academic initiative)
-- Ask both models to develop a phased implementation plan with:
-  - Stakeholder analysis
-  - Resource allocation
-  - Risk assessment
-  - Success metrics
+### Collaborative Workflow Considerations
 
-**Option D: Document Creation**
-- Request a complex document creation (grant proposal, policy document, technical specification)
-- Compare how each model structures the document and anticipates requirements
+When working with these tasks, consider experimenting with different collaborative workflows:
 
-### **Part 3: Optimizing Your Prompts (20 minutes)**
+1. **Initial Research → AI Exploration**
+   * For some tasks, doing preliminary research before engaging with AI can dramatically improve results
+   * Try gathering key facts, figures, or scholarly perspectives first, then incorporating this information in your prompt
+
+2. **AI Draft → Human Refinement → AI Polish**
+   * Use AI to generate initial ideas or structure
+   * Apply your expertise to refine, correct, or redirect
+   * Return to AI with specific guidance for final polish
+
+3. **Multi-Model Approach**
+   * Try using a chat model for initial brainstorming
+   * Then use a reasoning model for deeper analysis of the most promising ideas
+   * Compare how different models complement each other
+
+### Effective Prompting
 
 The key to success with advanced AI models is understanding their different interaction patterns and optimizing your prompts accordingly.
 
 **For Reasoning Models:**
 
 1. **Write comprehensive "briefs" not short prompts**
-   * Think of it as preparing a detailed memo for a senior partner or researcher
-   * Include all relevant background, context, and constraints in one submission
+   * Think of it as preparing a detailed memo outlining the project goal and context
+   * Include all relevant background, data, and constraints in one submission
 
-2. **Front-load with extensive context (10x what you think is needed)**
-   * Include detailed background information about your project, organization, or research
+2. **Front-load with extensive context (be generous with relevant background)**
+   * Provide the necessary background for the model to understand the full picture
    * Specify any relevant terminology, methodologies, or frameworks
    * Provide historical context and previous work in the area
 
-3. **Clearly state your desired output format and goals upfront**
-   * Explicitly define what success looks like
-   * Specify document format, section headings, or structure requirements
+3. **Clearly state your desired output format and high-level goals upfront**
+   * Explicitly define what success looks like (the final deliverable)
+   * Specify document format, section headings, or structure if critical
    * State whether you need analysis, recommendations, or implementation plans
 
-4. **Focus on WHAT you want, not HOW the model should think**
-   * Let the model determine its own reasoning approach
-   * Specify desired outcomes rather than reasoning methods
-   * Define clear deliverables rather than prescribing a thinking process
+4. **Focus on WHAT you want, trusting the model with the HOW**
+   * Delegate the task by defining the objective and letting the model determine the best reasoning path
+   * Define clear deliverables rather than prescribing a step-by-step process
 
 5. **Provide clear criteria for evaluation**
    * List specific requirements the output must satisfy
    * Include any constraints or considerations that must be respected
-   * Specify the level of detail and comprehensiveness required
 
 **For Chat Models:**
 
-1. **Start with concise, clear questions**
-   * Begin with a focused question to establish the conversation
-   * Provide just enough context for the model to understand the basic task
-   * Save detailed explanation for follow-up messages
+1. **Start with clear, focused requests**
+   * Begin with a specific task or question to establish context
+   * Provide enough initial detail for the model to get started
 
 2. **Use follow-up questions to refine and direct the conversation**
    * Provide feedback on initial responses to guide the model
    * Ask for clarification or expansion on specific points
-   * Break complex tasks into smaller, sequential requests
+   * Break complex tasks into smaller, manageable steps through conversation
 
 3. **Provide feedback and correction in an iterative process**
    * Treat the interaction as a collaborative dialogue
    * Redirect the model when it misunderstands or goes off-track
-   * Build on partial responses to reach your desired outcome
 
 4. **Be more specific about HOW you want the model to approach the question**
-   * Request specific methods or frameworks
-   * Ask for step-by-step thinking or particular formats
+   * Request specific methods, steps, or frameworks if needed
    * Specify tone, style, and level of detail in your requests
+
+---
+
+## 📝 Challenge: Compare Model Types
+
+This hands-on challenge will help you directly experience the differences between chat and reasoning models through experimentation. Rather than prescribing rigid approaches, we encourage you to observe how different model types handle the same tasks and discover which works best for your specific needs.
+
+### Part 1: Hands-On Comparison (20-25 minutes)
+
+Choose one of the tasks below or come up with your own idea and try it with both a reasoning model and a chat model. Pay attention to differences in:
+- Depth and thoroughness of analysis
+- Approach to breaking down the problem
+- Time to generate responses
+- Overall quality and usefulness of output
+
+These prompts are designed to help you experience the differences between chat models and reasoning models across various domains and use cases. Rather than viewing AI as a tool that simply delivers answers, consider these exercises as opportunities for collaborative thinking and augmentation of your own expertise.
+
+**Sample Tasks:**
+
+**Option A: Legal Ethics Framework for AI Use in Practice**
+
+```
+I'm developing an ethics training program for attorneys working with AI tools in their practice. Help me create a decision-making framework based on ABA Formal Opinion 512 that addresses:
+
+1. Competence requirements when using AI tools for legal work
+2. Protecting client confidentiality when utilizing AI systems
+3. Communication obligations regarding AI use with clients
+4. Maintaining candor toward tribunals when using AI-generated content
+5. Supervisory responsibilities for AI use by subordinate attorneys and staff
+6. Ethical billing practices for AI-assisted work
+
+The framework should include practical scenarios and guiding questions that attorneys can apply in their daily practice.
+
+Additional Context:
+- This training is for a mid-sized law firm (50+ attorneys) that practices in litigation, corporate, and intellectual property law
+- The firm is considering implementing several AI tools for document review, legal research, and drafting
+- Several senior partners are concerned about maintaining ethical compliance while adopting these technologies
+- We want to create clear guidelines that align with ABA Formal Opinion 512 while enabling innovation
+- Some attorneys are tech-savvy while others have limited experience with advanced technology
+```
+
+**Option B: Comprehensive Vacation Planning**
+
+```
+I'm planning a 10-day trip to Japan in October with my family (two adults, one teenager). We're interested in experiencing both traditional and modern aspects of Japanese culture, enjoy outdoor activities, and enjoy traditional culinary experiences. We have a budget of $2800 not including round-trip airfare.
+
+Please create a detailed itinerary that:
+- Prefer cultural experiences and less touristy attractions
+- limit travel to less than 2 hours per day
+- Must include Kyoto and budget and time permitting exploring the island of Hokkaido
+- Includes accommodation recommendations for each location
+- Addresses transportation between cities
+- Suggests restaurants that can accommodate our dietary needs
+- Includes estimated costs for the major components
+- Identifies potential challenges and how to prepare for them
+```
+
+**Option C: Standardizing Processes**
+
+```
+I need to create standardized procedures for important processes in my area of responsibility. Help me design an approach for developing effective SOPs.
+
+My context:
+- I manage a team of 15 people in healthcare billing operations
+- We've had significant compliance issues due to inconsistent processes
+- Many team members have been with the organization for 10+ years and resist documentation
+- We need to balance regulatory requirements with practical usability
+
+Please provide:
+- A flexible template or framework for documenting our billing procedures
+- Principles for creating SOPs that balance compliance with usability
+- Methods for ensuring adoption among experienced staff who "already know what to do"
+- Approaches for maintaining and updating SOPs as regulations change
+
+I want to avoid overly rigid documentation while still ensuring consistency in our operations.
+```
+
+**Bonus Challenge: Creative Comparison (Optional)**
+For a fun comparison focused on creativity, try the following prompt with both a chat model and a reasoning model:
+
+```
+Write the opening paragraph (around 100 words) of a whimsical fantasy story about a meticulous librarian who discovers a dusty, forgotten book that begins talking to them, complaining about being ignored for centuries.
+```
+
+Compare the results:
+
+- Which model produced a more imaginative or original opening?
+
+- How did the writing style and tone differ?
+
+- Did one model capture the 'whimsical' nature better than the other?
+
+- Was one more coherent or engaging?
+
+This exercise can highlight how different models approach less analytical, more open-ended creative tasks.
+
+### Part 2: Experiment with Different Prompting Styles
+
+Now, try variations of your chosen prompt with each model type to see how prompting style affects results.
+
+**For Chat Models:**
+Add more specific instructions like:
+```
+Think step by step. First, identify the key issues. Then analyze each issue individually. Finally, provide a comprehensive conclusion synthesizing your findings.
+```
+
+**For Reasoning Models:**
+Try a more open-ended approach:
+```
+Please think about this thoroughly and provide your most comprehensive analysis.
+```
+
+**Reverse the approach:**
+See what happens when you give chat models more open-ended prompts and reasoning models more structured prompts.
 
 ## 💡 Real-World Applications
 
@@ -176,132 +285,38 @@ Understanding which model to use and how to prompt it effectively can dramatical
 | Style-specific writing | Chat | Different writing styles, tone adaptation |
 | Iterative development | Chat | Collaborative document creation, feedback cycles |
 
-### Tips for Success:
 
-**Working with Reasoning Models:**
-- **Patience is key** - responses can take minutes, not seconds
-- **Treat them like report generators**, not conversationalists
-- **Provide all context upfront** rather than through back-and-forth
-- **Use voice memos** to quickly capture and paste comprehensive context
-- **Focus on a single, specific output request** per prompt
-- **View the thinking process** when available to understand the model's approach
-- **Save and reuse effective prompts** as templates for similar future tasks
+## How to Compare Model Responses
 
-**When to Use Each Type:**
-- Use reasoning models when accuracy, thorough analysis, and comprehensive output matter most
-- Use chat models when quick responses, creative brainstorming, or interactive collaboration is needed
-- Consider your own workflow - do you prefer to craft one detailed prompt or engage in back-and-forth?
+When comparing responses between chat models and reasoning models, consider:
 
-## 🎯 Bonus Challenge: Crafting Optimal Prompts
+1. **Depth of analysis**: Which model provided more thorough consideration of complex factors?
 
-### **Example Task: Creating a Course Curriculum Analysis**
+2. **Context utilization**: How effectively did each model incorporate the context you provided?
 
-Here's how you might approach the same task with different model types:
+3. **Structure and organization**: How did each model organize its response? Which was more logical and easier to follow?
 
-**For a Chat Model:**
-```
-I need help analyzing the curriculum for our law school's Environmental Law program. 
-Could you help me identify any gaps compared to current environmental legal trends?
-```
-*Note: With a chat model, you would then engage in back-and-forth discussion, providing additional details about the curriculum as requested.*
+4. **Creativity and insight**: Did one model offer more novel or unexpected perspectives?
 
-**For a Reasoning Model:**
-```
-[CONTEXT]
-I'm the curriculum coordinator for Boston College Law School's Environmental Law program. I need a comprehensive analysis of our current curriculum to identify gaps and opportunities for improvement.
+5. **Collaborative potential**: Which response provided better scaffolding for your continued thinking and input?
 
-Our current curriculum includes:
-- Environmental Law Fundamentals (1L elective)
-- Environmental Regulation (2L required)
-- Climate Change Law & Policy (3L elective)
-- Environmental Litigation Workshop (3L elective)
-- Natural Resources Law (2L/3L elective)
-- Environmental Justice Clinic (3L elective)
+6. **Practical usefulness**: Which response would be more actionable or helpful for your actual needs?
 
-Key environmental law trends I'm aware of include growing focus on climate litigation, ESG regulations, environmental justice concerns, and international environmental agreements. The legal landscape is rapidly evolving with new EPA regulations and state-level initiatives.
+7. **Limitations acknowledgment**: Did the model recognize the boundaries of its knowledge or the complexity of the task?
 
-Our program goals include:
-1. Preparing students for practice in environmental law settings including government, nonprofit, and private sector
-2. Building both theoretical knowledge and practical skills
-3. Addressing contemporary environmental challenges
-4. Incorporating interdisciplinary perspectives
+8. **Response time**: How long did each model take to generate its response, and was the quality worth the wait?
 
-Our constraints include:
-- Limited faculty (4 full-time, 3 adjunct)
-- Budget for only one new course per academic year
-- Need to maintain bar passage rates
-- Desire to increase law firm placement rates
+Remember that different tasks may favor different model types, and your specific needs should guide which approach works best for you. The ideal workflow often involves leveraging multiple AI capabilities while maintaining your role as the director of the collaborative process.
 
-[OUTPUT REQUEST]
-Please provide:
-1. A comprehensive gap analysis comparing our curriculum to current trends in environmental law
-2. Three specific curriculum improvement recommendations with implementation strategies
-3. A suggested priority order for these improvements with rationale
-
-[EVALUATION CRITERIA]
-A good analysis should:
-- Consider both theoretical and practical skills development
-- Address emerging areas of environmental law practice not covered in our current offerings
-- Consider our faculty and resource constraints
-- Incorporate perspectives from government, nonprofit, and private sector practice
-- Suggest concrete, implementable changes
-```
-
-### **Prompt Template for Reasoning Models**
-
-Create prompts for reasoning models using this structure:
-
-```
-[GOAL SECTION]
-Here is all relevant background information:
-- My goal is: ...
-- The situation is: ...
-
-[OUTPUT SECTION]
-Please provide:
-- Specific deliverable requested
-- Exact format needed
-- Any evaluation criteria
-
-[QUALITY CHECK]
-For a good response:
-- It should include...
-- It should avoid...
-- It should consider...
-
-[ADDITIONAL CONTEXT]
-Context dump including other information relevant to supporting the task. 
-- Previous approaches tried: ...
-- Relevant constraints: ...
-- Any technical details: ...
-- Supporting documents... 
-```
-
-Test your template on both model types and reflect on the differences in responses.
-
-## Additional Technical Background
-
-If you're curious about the technology behind reasoning models, here's a brief overview:
-
-**Training Process:**
-- **Reinforcement Learning (RL)**: Unlike models trained solely on imitation, reasoning models use trial and error to discover effective problem-solving strategies
-- **Emergent Behavior**: The model's thinking patterns aren't explicitly programmed—they emerge through reinforcement
-- **Self-Discovered Techniques**: The model learns to re-evaluate assumptions, backtrack, and try different approaches on its own
-
-**Inference Time Thinking:**
-- **Extended Computation**: Reasoning models spend significantly more time "thinking" before responding
-- **Built-in Chain of Thought**: While you previously learned to prompt models to "think step by step," reasoning models have this behavior built into their design
-- **Visible Thinking Process**: Most interfaces allow you to view the model's reasoning process, giving you insight into how it reached its conclusion
-
-**Resource Implications:**
-- **Higher Computational Cost**: Reasoning models require more processing power and energy
-- **Longer Response Times**: Responses may take minutes instead of seconds
-- **Premium Pricing**: These capabilities typically come with higher subscription costs
-
-## **References and Further Reading**
+## References and Further Reading
 
 This lesson draws from several expert sources on AI models and interaction patterns:
 
 - Karpathy, A. (2024). [Deep Dive Into LLMs like ChatGPT](https://youtu.be/7xTGNNLPyMI?si=ohzZ5D3uvGnnkUgy)
 - Hylak, B., Swyx, & Alessia. (2024). [o1 isn't a chat model (and that's the point)](https://www.latent.space/p/o1-skill-issue)
 - Mollick, E. (2024). [Which AI to Use Now: An Updated Opinionated Guide](https://www.oneusefulthing.org/p/which-ai-to-use-now-an-updated-opinionated)
+- Anthropic (2025). [Prompt Engineering Extended Thinking Tips](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/extended-thinking-tips)
+- OpenAI (2025). [Reasoning Models](https://platform.openai.com/docs/guides/reasoning?api-mode=responses&example=research)
+
+
+
