@@ -18,11 +18,13 @@ Learn how AI can help you build functional applications, tools, and interactive 
 **Chat-Based Creation:**
 * [Claude](https://claude.ai/) (Artifacts feature)
 * [ChatGPT](https://chat.openai.com/) (Canvas feature) 
+* [Gemini](https://gemini.google.com) (Canvas feature)
 * [Mistral](https://mistral.ai/) (Canvas feature)
 
 **Specialized AI Builders:**
 * [Bolt.new](https://bolt.new/) 
 * [Lovable.dev](https://lovable.dev/) 
+* [Firebase Studio](studio.firebase.google.com)
 * [V0.dev](https://v0.dev/) 
 
 **Advanced Tools (Optional/Bonus):**
