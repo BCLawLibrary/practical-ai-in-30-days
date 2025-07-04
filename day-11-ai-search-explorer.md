@@ -3,7 +3,13 @@ title: "AI Search Explorer 🔍"
 image-url: "https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850251/Practical%20AI%20Literacy%20Challenges/Making_space.jpg"
 image-alt: "Abstract art of a man standing in ruins looking at the night sky"
 image-description: "Made with Midjourney: making space --ar 74:63 --sref 3552739730 --stylize 1000 --v 6"
-tags: ["AI Literacy", "Tools & Features", "Information Retrieval", "Search Strategies"]
+tags:
+  [
+    "AI Literacy",
+    "Tools & Features",
+    "Information Retrieval",
+    "Search Strategies",
+  ]
 ---
 
 ## AI-Powered Search in Action!
@@ -25,19 +31,19 @@ Learn how AI-powered search tools differ from traditional search engines and und
 Because of the nature of the training process AI language models have a natural knowledge cutoff. This means they do not know about events or data beyond these points. Here are some current knowledge cutoffs:
 
 - **GPT-4.5:** [Sep 30, 2023](https://platform.openai.com/docs/models/gpt-4.5-preview)
-- **GPT-4o:** [June 2024](https://help.openai.com/en/articles/9624314-model-release-notes)
-- **Claude 3.7 Sonnet:** [October 2024](https://docs.anthropic.com/en/docs/about-claude/models/all-models#model-comparison-table)
-- **Claude 3.5 Sonnet:** [April 2024](https://docs.anthropic.com/en/docs/about-claude/models)
-- **Gemini 2.5 Pro:** [January 2025](https://aistudio.google.com/prompts/new_chat)
-- **Gemini 2.0 Flash:** [August 2024](https://aistudio.google.com/prompts/new_chat)
+- **GPT-4o:** [June 2024](https://help.openai.com/en/articles/9624314-model-release-notes#h_826f21517f)
+- **Claude Opus 4:** [March 2025](https://docs.anthropic.com/en/docs/about-claude/models/overview#model-comparison-table)
+- **Claude Sonnet 4:** [March 2025](https://docs.anthropic.com/en/docs/about-claude/models/overview#model-comparison-table)
+- **Gemini 2.5 Pro:** [January 2025](https://ai.google.dev/gemini-api/docs/models#gemini-2.5-pro)
+- **Gemini 2.5 Flash:** [January 2025](https://ai.google.dev/gemini-api/docs/models#gemini-2.5-flash)
 
 These cutoffs highlight why AI-powered search tools like Perplexity, ChatGPT and other tools with browse capabilities are powerful — they combine AI’s reasoning skills with access to up-to-date information.
 
 #### Getting Past Knowledge Cutoffs
 
-A knowledge cutoff doesn't prevent a model from discussing current topics intelligently. You just have to be aware that for bleeding-edge content, it's best if you supply the specific information, articles, or data related to your query as part of your chat to give the AI context. 
+A knowledge cutoff doesn't prevent a model from discussing current topics intelligently. You just have to be aware that for bleeding-edge content, it's best if you supply the specific information, articles, or data related to your query as part of your chat to give the AI context.
 
-Alternatively, if you know a model has internet search capabilities provided by the features offered in the platform, it may intelligently use the internet to answer your question. You can also directly ask an AI chat assistant with these capabilities to use it's search tool if it's available. This is often achieved by enabling the search feature in the UI of the application or by simply asking it to use search as part of your prompt. 
+Alternatively, if you know a model has internet search capabilities provided by the features offered in the platform, it may intelligently use the internet to answer your question. You can also directly ask an AI chat assistant with these capabilities to use it's search tool if it's available. This is often achieved by enabling the search feature in the UI of the application or by simply asking it to use search as part of your prompt.
 
 Here are some of the platforms that offer internet search:
 
@@ -49,7 +55,7 @@ Here are some of the platforms that offer internet search:
 - **Mistral:** A French model that has internet search capabilities.
 - **DeepSeek:** A Chinese model that has internet search capabilities.
 - **Grok:** Has internet access and can intelligently search the web to fill missing context.
-- **Claude:** Recently announced internet search capabilities for improved responses for up to date information. 
+- **Claude:** Recently announced internet search capabilities for improved responses for up to date information.
 
 ---
 
@@ -94,6 +100,6 @@ Choose one of these exploration paths to dive into AI-powered search!
 
 ### Remember:
 
-AI search tools offer incredible potential for aggregation and synthesis, but they’re not infallible. Think of them as one more tool in your generative AI toolkit to enhance your search and exploration! 
+AI search tools offer incredible potential for aggregation and synthesis, but they’re not infallible. Think of them as one more tool in your generative AI toolkit to enhance your search and exploration!
 
 **Happy exploring! 🌐🔍**

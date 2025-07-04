@@ -3,7 +3,8 @@ title: "Testing your Prompts and Assistants 🧪"
 image-url: "https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850249/Practical%20AI%20Literacy%20Challenges/Chalkboard_Drawing.jpg"
 image-alt: "Cartoon sketch of a chalkboard"
 image-description: "Made with Midjourney: a cartoonish drawing of a chalkboard --chaos 25 --ar 6:5 --style raw --profile l91zudi --stylize 250"
-tags: ["AI Literacy", "Quality Assurance", "Testing Practices", "Quality Control"]
+tags:
+  ["AI Literacy", "Quality Assurance", "Testing Practices", "Quality Control"]
 ---
 
 ## Mini-lesson day!
@@ -14,21 +15,21 @@ Learn essential testing practices to improve your prompts and custom AI assistan
 
 ### 🛠️ Tools
 
-- Primary Testing Platforms (pick one):  
-  - [ChatGPT](https://chat.openai.com)  
-  - [Claude](https://claude.ai)  
-  - [Gemini](https://gemini.google.com)  
-  - [Copilot](https://copilot.microsoft.com)  
-- Optional Advanced Testing Environments:  
-  - [Google AI Studio](https://aistudio.google.com)  
-  - [Claude Console](https://console.anthropic.com)  
+- Primary Testing Platforms (pick one):
+  - [ChatGPT](https://chat.openai.com)
+  - [Claude](https://claude.ai)
+  - [Gemini](https://gemini.google.com)
+  - [Copilot](https://copilot.microsoft.com)
+- Optional Advanced Testing Environments:
+  - [Google AI Studio](https://aistudio.google.com)
+  - [Claude Console](https://console.anthropic.com)
   - [OpenAI Platform](https://platform.openai.com)
 
 ---
 
 ## 🖍️ Core Concept
 
-**Today's lesson was adapted from a collaboration with CDIL and BC Law for an Educause workshop on creating AI assistants (Feb 2025)** 
+**Today's lesson was adapted from a collaboration with CDIL and BC Law for an Educause workshop on creating AI assistants (Feb 2025)**
 
 Testing AI prompts and assistants is fundamentally different from traditional software testing. Since AI tools are probabilistic by nature—the same input won't always produce identical outputs—we need specialized approaches.
 
@@ -47,16 +48,16 @@ It's good practice to revisit these testing methods whenever AI models are updat
 
 ### Use a Heuristic
 
-A heuristic is simply a practical approach to problem-solving that uses shortcuts to produce good-enough solutions quickly. For AI testing, this means using your judgment to evaluate responses without needing technical expertise.
+A heuristic is just a mental shortcut or a simple set of guidelines that help you evaluate something quickly without having to dive into super technical details. For AI testing, this means using your judgment to evaluate responses without needing advanced testing software or other technically complicated processes.
 
 For example, if you're testing an email-writing assistant:
 
-* **Run a variety of tests**: Ask it to write formal, casual, short, and detailed emails
-* **Apply quick judgment criteria**: Does it sound natural? Did it capture the main point? Does it match your requested tone?
+- **Run a variety of tests**: Ask it to write formal, casual, short, and detailed emails
+- **Apply quick judgment criteria**: Does it sound natural? Did it capture the main point? Does it match your requested tone?
 
 The beauty of heuristic testing is its simplicity—you're using your common sense and human judgment to determine if the AI works well for your needs, without getting caught up in the technical details of how it works.
 
---- 
+---
 
 ### Develop Scenarios
 
@@ -69,6 +70,7 @@ Create a simple collection of test questions that your assistant should handle e
 #### User Personas
 
 Consider how different types of users might interact with your assistant:
+
 - **Expert users**: May use technical terminology and expect advanced responses
 - **Novice users**: Might need more guidance and simpler explanations
 - **Challenging users**: Could test boundaries with incorrect assumptions or misleading prompts
@@ -176,25 +178,25 @@ Avoid:
 
 Design 3-5 simple scenarios to test your prompt/assistant:
 
-- Happy path (ideal interaction)  
-- Edge cases (unusual but valid requests)  
+- Happy path (ideal interaction)
+- Edge cases (unusual but valid requests)
 - Boundary testing (what it shouldn't do)
 - Uncertainty handling (information it doesn't have)
 
 **Example Test Cases:**
 
-1. Basic topic request: "I need a topic for my Constitutional Law paper"  
-2. Vague request: "Help me write something about law"  
-3. Boundary test: "Write my paper for me"  
+1. Basic topic request: "I need a topic for my Constitutional Law paper"
+2. Vague request: "Help me write something about law"
+3. Boundary test: "Write my paper for me"
 4. Uncertainty test: "What was the exact attendance at last week's guest lecture?"
 
 ### Step 3: Run Your Tests
 
 For each test case:
 
-1. Try your prompt/assistant  
-2. Record the response  
-3. Note any issues or surprises  
+1. Try your prompt/assistant
+2. Record the response
+3. Note any issues or surprises
 4. Document what worked well
 
 **Tracking Template:**
@@ -209,9 +211,9 @@ Ideas for Improvement: [Possible fixes]
 
 ### Step 4: Iterate and Improve
 
-- Make one change at a time  
-- Test again after each change 
-- Document improvements  
+- Make one change at a time
+- Test again after each change
+- Document improvements
 - Use AI to help diagnose persistent issues
 
 ### Step 5: Test with Real People
@@ -228,12 +230,14 @@ Remember, the goal is improvement through iteration, not immediate perfection. E
 ### 💡 Pro Tips & Key Takeaways
 
 #### Testing Approach
+
 - Start simple and add complexity gradually
 - Make one change at a time when iterating
 - Document everything, even small changes
 - Less is often more - simpler prompts are usually better
 
 #### Testing Techniques
+
 - Test with different phrasings of the same request
 - Try requests from different user perspectives (novice, expert, etc.)
 - Watch for inconsistent responses across similar inputs
@@ -241,6 +245,7 @@ Remember, the goal is improvement through iteration, not immediate perfection. E
 - Encourage "I don't know" responses to reduce hallucinations
 
 #### Building Reliability
+
 - Pay special attention to how your assistant handles uncertainty
 - Create a library of successful patterns and prompts
 - Test with real-world scenarios that match intended use
@@ -253,9 +258,9 @@ Remember: When AI acknowledges uncertainty rather than making things up, it buil
 
 ## 🤔 Reflection Questions
 
-1. What surprised you during testing?  
-2. How did your prompt/assistant handle unexpected inputs?  
-3. What improvements made the biggest difference?  
+1. What surprised you during testing?
+2. How did your prompt/assistant handle unexpected inputs?
+3. What improvements made the biggest difference?
 4. How might different users interact with your prompt/assistant?
 
 ---
@@ -265,6 +270,7 @@ Remember: When AI acknowledges uncertainty rather than making things up, it buil
 For those interested in more sophisticated testing approaches:
 
 - **Testing Environments**: Major AI providers offer specialized testing tools:
+
   - [Google AI Studio](https://aistudio.google.com)
   - [Claude Console](https://console.anthropic.com)
   - [OpenAI Platform](https://platform.openai.com)
@@ -280,8 +286,8 @@ These advanced approaches are typically used in professional development environ
 
 ## 📚 Further Learning and Resources
 
-- [Four Methods for Testing Your Custom Chatbot](https://docs.google.com/document/d/1XcZJlefFZEZvxU2kH2KjX9zMBYnbsWvIVW_w06-hJII/edit?usp=sharing) 
-- [Anthropic's Documentation on Testing](https://docs.anthropic.com/en/docs/test-and-evaluate/eval-tool)  
-- [Google's AI Safety Practices](https://ai.google.dev/gemini-api/docs/safety-guidance)  
-- [OpenAI Evals](https://platform.openai.com/docs/guides/evals)  
+- [Four Methods for Testing Your Custom Chatbot](https://docs.google.com/document/d/1XcZJlefFZEZvxU2kH2KjX9zMBYnbsWvIVW_w06-hJII/edit?usp=sharing)
+- [Anthropic's Documentation on Testing](https://docs.anthropic.com/en/docs/test-and-evaluate/eval-tool)
+- [Google's AI Safety Practices](https://ai.google.dev/gemini-api/docs/safety-guidance)
+- [OpenAI Evals](https://platform.openai.com/docs/guides/evals)
 - [Microsoft's Trustworthy AI Guidelines](https://azure.microsoft.com/en-us/blog/announcing-new-tools-in-azure-ai-to-help-you-build-more-secure-and-trustworthy-generative-ai-applications/)

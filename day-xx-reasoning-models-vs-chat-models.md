@@ -9,23 +9,25 @@ tags: ["AI Literacy", "Generative AI"]
 ## Mini-lesson Day: Advanced AI Concepts Made Simple
 
 ### 🎯 Objective:
-* Understand the fundamental differences between reasoning models and traditional chat models
-* Learn effective prompting strategies unique to reasoning models
-* Practice creating prompts optimized for both model types
+
+- Understand the fundamental differences between reasoning models and traditional chat models
+- Learn effective prompting strategies unique to reasoning models
+- Practice creating prompts optimized for both model types
 
 ### 🛠️ Tools:
-* Reasoning model options (at least one):
-  * [OpenAI o1 series](https://chat.openai.com/) (requires subscription)
-  * [OpenAI o3 mini](https://chat.openai.com) (limited free tier access)
-  * [DeepSeek R1](https://chat.deepseek.com/)
-  * [Google Gemini 2.5 Pro](https://gemini.google.com)
-  * [Google Gemini Flash 2.0 Thinking](https://gemini.google.com/)
-  * [Claude 3.7 Sonnet with Extended Thinking](https://claude.ai/) (Requires subscription)
-* Standard chat model options:
-  * [Claude 3.7 Sonnet](https://claude.ai/) (free tier)
-  * [ChatGPT (GPT-4o)](https://chat.openai.com/) (free tier)
-  * [Gemini](https://gemini.google.com/) (standard mode)
-  * [Microsoft Copilot](https://copilot.microsoft.com/)
+
+- Reasoning model options (at least one):
+  - [OpenAI o1 series](https://chat.openai.com/) (requires subscription)
+  - [OpenAI o3 mini](https://chat.openai.com) (limited free tier access)
+  - [DeepSeek R1](https://chat.deepseek.com/)
+  - [Google Gemini 2.5 Pro](https://gemini.google.com)
+  - [Google Gemini Flash 2.0 Thinking](https://gemini.google.com/)
+  - [Claude Sonnet 4 with Extended Thinking](https://claude.ai/) (Requires subscription)
+- Standard chat model options:
+  - [Claude Sonnet 4](https://claude.ai/) (free tier)
+  - [ChatGPT (GPT-4o)](https://chat.openai.com/) (free tier)
+  - [Gemini](https://gemini.google.com/) (standard mode)
+  - [Microsoft Copilot](https://copilot.microsoft.com/)
 
 (**Note**: Model names and access tiers can change rapidly. Always check the providers latest offerings)
 
@@ -48,12 +50,14 @@ It's helpful to think of these types as existing on a spectrum. While we categor
 ### A Simple Comparison
 
 **Chat Models** (like standard ChatGPT, Claude, Gemini):
+
 - Optimized for interactive, conversational experiences
 - Quick responses (seconds)
 - Excel at creative tasks, basic information retrieval, and iterative refinement
 - Often benefit from explicit, detailed instructions
 
 **Reasoning Models** (like OpenAI's o-series, Claude with Extended Thinking):
+
 - Optimized for deep analysis and complex problem-solving
 - Longer response times (often minutes) due to internal deliberation
 - Excel at multi-step reasoning, handling ambiguity, and analyzing complex information
@@ -72,6 +76,7 @@ Reasoning models aren't just chat models that take longer to respond - they're a
 - **Extended Computation**: They allocate significantly more computational resources to each response, allowing deeper analysis
 
 When you interact with a reasoning model, you'll notice:
+
 - The visible "thinking" process might reveal how the model explores multiple paths before settling on an answer
 - Responses naturally break complex problems into manageable components
 - The model self-corrects when it encounters logical contradictions
@@ -96,18 +101,20 @@ For each of the tasks in the challenges section, consider what relevant context 
 When working with these tasks, consider experimenting with different collaborative workflows:
 
 1. **Initial Research → AI Exploration**
-   * For some tasks, doing preliminary research before engaging with AI can dramatically improve results
-   * Try gathering key facts, figures, or scholarly perspectives first, then incorporating this information in your prompt
+
+   - For some tasks, doing preliminary research before engaging with AI can dramatically improve results
+   - Try gathering key facts, figures, or scholarly perspectives first, then incorporating this information in your prompt
 
 2. **AI Draft → Human Refinement → AI Polish**
-   * Use AI to generate initial ideas or structure
-   * Apply your expertise to refine, correct, or redirect
-   * Return to AI with specific guidance for final polish
+
+   - Use AI to generate initial ideas or structure
+   - Apply your expertise to refine, correct, or redirect
+   - Return to AI with specific guidance for final polish
 
 3. **Multi-Model Approach**
-   * Try using a chat model for initial brainstorming
-   * Then use a reasoning model for deeper analysis of the most promising ideas
-   * Compare how different models complement each other
+   - Try using a chat model for initial brainstorming
+   - Then use a reasoning model for deeper analysis of the most promising ideas
+   - Compare how different models complement each other
 
 ### Effective Prompting
 
@@ -116,45 +123,52 @@ The key to success with advanced AI models is understanding their different inte
 **For Reasoning Models:**
 
 1. **Write comprehensive "briefs" not short prompts**
-   * Think of it as preparing a detailed memo outlining the project goal and context
-   * Include all relevant background, data, and constraints in one submission
+
+   - Think of it as preparing a detailed memo outlining the project goal and context
+   - Include all relevant background, data, and constraints in one submission
 
 2. **Front-load with extensive context (be generous with relevant background)**
-   * Provide the necessary background for the model to understand the full picture
-   * Specify any relevant terminology, methodologies, or frameworks
-   * Provide historical context and previous work in the area
+
+   - Provide the necessary background for the model to understand the full picture
+   - Specify any relevant terminology, methodologies, or frameworks
+   - Provide historical context and previous work in the area
 
 3. **Clearly state your desired output format and high-level goals upfront**
-   * Explicitly define what success looks like (the final deliverable)
-   * Specify document format, section headings, or structure if critical
-   * State whether you need analysis, recommendations, or implementation plans
+
+   - Explicitly define what success looks like (the final deliverable)
+   - Specify document format, section headings, or structure if critical
+   - State whether you need analysis, recommendations, or implementation plans
 
 4. **Focus on WHAT you want, trusting the model with the HOW**
-   * Delegate the task by defining the objective and letting the model determine the best reasoning path
-   * Define clear deliverables rather than prescribing a step-by-step process
+
+   - Delegate the task by defining the objective and letting the model determine the best reasoning path
+   - Define clear deliverables rather than prescribing a step-by-step process
 
 5. **Provide clear criteria for evaluation**
-   * List specific requirements the output must satisfy
-   * Include any constraints or considerations that must be respected
+   - List specific requirements the output must satisfy
+   - Include any constraints or considerations that must be respected
 
 **For Chat Models:**
 
 1. **Start with clear, focused requests**
-   * Begin with a specific task or question to establish context
-   * Provide enough initial detail for the model to get started
+
+   - Begin with a specific task or question to establish context
+   - Provide enough initial detail for the model to get started
 
 2. **Use follow-up questions to refine and direct the conversation**
-   * Provide feedback on initial responses to guide the model
-   * Ask for clarification or expansion on specific points
-   * Break complex tasks into smaller, manageable steps through conversation
+
+   - Provide feedback on initial responses to guide the model
+   - Ask for clarification or expansion on specific points
+   - Break complex tasks into smaller, manageable steps through conversation
 
 3. **Provide feedback and correction in an iterative process**
-   * Treat the interaction as a collaborative dialogue
-   * Redirect the model when it misunderstands or goes off-track
+
+   - Treat the interaction as a collaborative dialogue
+   - Redirect the model when it misunderstands or goes off-track
 
 4. **Be more specific about HOW you want the model to approach the question**
-   * Request specific methods, steps, or frameworks if needed
-   * Specify tone, style, and level of detail in your requests
+   - Request specific methods, steps, or frameworks if needed
+   - Specify tone, style, and level of detail in your requests
 
 ---
 
@@ -165,6 +179,7 @@ This hands-on challenge will help you directly experience the differences betwee
 ### Part 1: Hands-On Comparison (20-25 minutes)
 
 Choose one of the tasks below or come up with your own idea and try it with both a reasoning model and a chat model. Pay attention to differences in:
+
 - Depth and thoroughness of analysis
 - Approach to breaking down the problem
 - Time to generate responses
@@ -257,12 +272,14 @@ Now, try variations of your chosen prompt with each model type to see how prompt
 
 **For Chat Models:**
 Add more specific instructions like:
+
 ```
 Think step by step. First, identify the key issues. Then analyze each issue individually. Finally, provide a comprehensive conclusion synthesizing your findings.
 ```
 
 **For Reasoning Models:**
 Try a more open-ended approach:
+
 ```
 Please think about this thoroughly and provide your most comprehensive analysis.
 ```
@@ -274,17 +291,16 @@ See what happens when you give chat models more open-ended prompts and reasoning
 
 Understanding which model to use and how to prompt it effectively can dramatically improve your results in various academic and professional contexts:
 
-| **Task Type** | **Preferred Model** | **Examples** |
-|---------------|---------------------|--------------|
-| Complex analysis | Reasoning | Case analysis, research planning, policy development |
-| Mathematical reasoning | Reasoning | Statistical approaches, quantitative methods |
-| Multi-step planning | Reasoning | Project implementation, curriculum development |
-| Creative work | Chat | Writing assistance, brainstorming ideas |
-| Quick reference | Chat | Factual questions, brief explanations |
-| Interactive learning | Chat | Tutorial-style assistance, concept explanations |
-| Style-specific writing | Chat | Different writing styles, tone adaptation |
-| Iterative development | Chat | Collaborative document creation, feedback cycles |
-
+| **Task Type**          | **Preferred Model** | **Examples**                                         |
+| ---------------------- | ------------------- | ---------------------------------------------------- |
+| Complex analysis       | Reasoning           | Case analysis, research planning, policy development |
+| Mathematical reasoning | Reasoning           | Statistical approaches, quantitative methods         |
+| Multi-step planning    | Reasoning           | Project implementation, curriculum development       |
+| Creative work          | Chat                | Writing assistance, brainstorming ideas              |
+| Quick reference        | Chat                | Factual questions, brief explanations                |
+| Interactive learning   | Chat                | Tutorial-style assistance, concept explanations      |
+| Style-specific writing | Chat                | Different writing styles, tone adaptation            |
+| Iterative development  | Chat                | Collaborative document creation, feedback cycles     |
 
 ## How to Compare Model Responses
 
@@ -317,6 +333,3 @@ This lesson draws from several expert sources on AI models and interaction patte
 - Mollick, E. (2024). [Which AI to Use Now: An Updated Opinionated Guide](https://www.oneusefulthing.org/p/which-ai-to-use-now-an-updated-opinionated)
 - Anthropic (2025). [Prompt Engineering Extended Thinking Tips](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/extended-thinking-tips)
 - OpenAI (2025). [Reasoning Models](https://platform.openai.com/docs/guides/reasoning?api-mode=responses&example=research)
-
-
-
