@@ -1,143 +1,161 @@
 ---
-title: "A Peek Into The Future 🔮"
+title: "Agents You Can Use Today 🔮"
 image-url: "https://res.cloudinary.com/dt5ug8amw/image/upload/v1738850248/Practical%20AI%20Literacy%20Challenges/Door_to_nowhere.jpg"
 image-alt: "An art nouveau style door on the beach with the ocean in the background"
 image-description: "Made with Midjourney: an art nouveau doorway to nowhere. set on the beach --chaos 25 --ar 6:5 --style raw --profile v3l7vfp --stylize 250"
 tags: ["AI Literacy", "Future Perspectives", "Emerging Trends", "Future Skills"]
 ---
 
-## 🎯 Objective:
+## 🎯 Objective
 
-Explore AI agents, multimodal interactions, and new features coming in the near future by experimenting with real-time live-streaming AI.
+**Experience and evaluate agentic AI tools** through hands-on task delegation across research, computer use, and coding domains, while developing frameworks for **ethical and responsible AI collaboration**.
 
-### 🛠️ **Tools:**
+By the end of this session, you will:
 
-- **Google AI Studio** (Free) - [Google AI Studio](https://aistudio.google.com/)  
-- **ChatGPT Plus** with Advanced Voice Mode ($20/month) - [OpenAI ChatGPT](https://chat.openai.com/)  
-- [**Google Project Astra**](https://deepmind.google/technologies/project-astra/) (Experimental, waitlist for now)
-
----
-
-## Understanding AI Agents 🤖
-
-If I could look into the crystal ball and predict one thing about the rest of 2025 and beyond, it would be that you're going to hear A LOT about AI agents. Think of AI agents as your personal digital assistants that can take action on your behalf. Unlike regular chatbots that just respond to questions, agents can:
-
-1. **Watch and Learn**: They observe how you work and understand your preferences  
-2. **Take Initiative**: They can perform actions or complete tasks without constant direction  
-3. **Work Autonomously**: They can coordinate with other tools and services
-
-[Learn more about AI Agents](https://learn.microsoft.com/en-us/azure/cosmos-db/ai-agents)
-
-**A Few Real-World Examples:**
-
-- **Research Agents**: Find, summarize, and organize information
-  - [Google's Deep Research](https://blog.google/products/gemini/google-gemini-deep-research/)  
-  - [OpenAI's Deep Research](https://openai.com/index/introducing-deep-research/)
-  - [Storm](https://storm.genie.stanford.edu/)
-- **Coding Agents**: Help write and deploy code  
-  - [Devin AI](https://devin.ai/)  
-  - [Replit AI](https://docs.replit.com/replitai/agent)  
-  - [Cursor Composer](https://docs.cursor.com/composer/overview)  
-- **Computer Use:** Operate your computer and other devices
-  - [Anthropic's Computer Use](https://www.anthropic.com/news/3-5-models-and-computer-use) 
-  - [OpenAI's Operator](https://openai.com/index/introducing-operator/)
-  - [Manus AI](https://manus.im/)
-
-**What's Already Possible Now and/or Coming Soon:**
-
-- Multi-app agents that complete complex tasks  
-- AI travel agents for booking flights and planning trips  
-- Visual agents for shopping, cooking, or home repairs  
-- Computer-access agents that perform tasks on your behalf  
-- Scheduling Agents that can manage calendars and set up meetings
-- Research automation agents that can search, compile, and generate very high-level research papers or topic overviews
-- Coding agents that can quickly prototype fully functioning websites with nice designs, database storage, and user interactivity from a simple prompt
+- **Delegate multi-step tasks** to different agentic AI systems and compare their planning, execution, and output quality
+- **Assess the boundaries** between augmentation and abdication in AI-assisted work
+- **Apply privacy and security considerations** when working with AI agents in professional contexts
 
 ---
 
-## 📝 Challenge:
+## 🛠️ Tools
 
-Today's challenge is to explore the real-time multimodal capabilities of AI models. These AI tools can now “see” using your webcam/phone camera, hear you using your device’s microphone, and respond in real time. They are also capable of responding in various modalities including text, audio, and images. Here's what you'll do:
+### Research Agents (recommended starting point)
 
->**Important Note:** You'll need to use a personal Gmail account as BC Google Workspace accounts cannot access AI Studio at this time. While you can't use your BC email, you can still explore the tools using a personal Google account.
+These tools offer multi-step research, browsing, and report writing.
 
-1. **Explore Google AI Studio**
+- [ChatGPT Deep Research](https://openai.com/index/introducing-deep-research/)
+- [Gemini Deep Research](https://gemini.google/overview/deep-research/)
+- [Perplexity Deep Research](https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research)
 
-   - Visit [Google AI Studio](https://aistudio.google.com/live) and explore their free “Stream Realtime” offerings.   
-   - Engage in a short interaction using their multimodal tools. Ideas to try:  
-     - Ask the AI to describe an object you show via your camera.  
-     - Use your webcam to have the AI recognize handwritten notes or sketches.  
-     - Get help with something on your computer such as learning a new software interface.  
-     - Get a personalized real-time tutorial for completing a task or getting troubleshooting support on your computer.   
-2. **Try OpenAI's Real-Time AI Streaming**
+### Web Browsing, Computer Use, & Tool Calling Agents
 
-   - If you have **ChatGPT Plus**, try the advanced voice mode on mobile or desktop.  
-   - Talk to ChatGPT and ask it to help you complete a live task or talk through situations, such as:  
-     - Talk through an idea, get help with planning an event, or just ask about something you’re interested in using voice rather than text input  
-     - Helping you troubleshoot a simple issue by showing it to the camera or simply using your voice and get step by step instructions as you go  
-     - Get winter plant care tips by sharing your camera on mobile and showing your indoor plants to ChatGPT
- 
- ---
+- [ChatGPT Agent Mode](https://openai.com/index/introducing-chatgpt-agent/): handles complex tasks from start to finish using its own computer
+- [Perplexity Comet](https://www.perplexity.ai/hub/blog/introducing-comet): AI-powered browser assistant
+- [Claude for Chrome](https://www.anthropic.com/news/claude-for-chrome): AI-powered browser assistant
+- [Claude File Creationg](https://www.anthropic.com/news/create-files): Claude can now work with you to create Excel spreadsheets, documents, PowerPoint slide decks, and PDFs
 
-## 💡 Tips for Success:
+### Coding Agents
 
-- **Start Small:** If you're unsure about live interactions, begin with a simple demo video or short provided below.  
-- **Reflect:** How did the AI's ability to see, hear, and respond in real time change the experience?  
-- **Privacy First:** If you're uncomfortable sharing your screen or camera, watch the demo videos below to understand the capabilities.
+**Better for non-technical users**: Prompt to web application with natural language.
 
-### 🔒 Privacy & Security Considerations
+- [Replit Agent](https://replit.com/agent3)
+- [Lovable](https://lovable.dev/)
+- [Bolt](https://bolt.new/)
 
-Before engaging with multimodal AI tools, consider these important points:
+**Better for technical users**: Developer focused tooling with a steeper learning curve.
 
-**Environment Check:**
-
-- What's visible in your camera's view?
-
-- What's visible on your screen if sharing?
-
-- Who might overhear your audio interactions?
-
-- Are any sensitive documents or personal information visible?
-
-**Data Awareness:**
-
-- Remember that your interactions may be used to improve the AI systems
-
-- Consider what information you're comfortable sharing
-
-- Be mindful of institutional or workplace privacy policies
-
-- Think about student/client confidentiality if applicable
-
-**Practical Tips:**
-
-- Clear your desk of sensitive materials before screen sharing
-
-- Use background blur when possible for video
-
-- Test tools with non-sensitive content first
-
-- Preview what you're sharing before starting
-
-**Setting Boundaries:**
-
-- Decide which tasks are appropriate for AI assistance
-
-- Determine your comfort level with different types of interaction
-
-- Know how to quickly stop sharing if needed
-
-- Keep control over what and when you share
+- [Cursor Agent](https://docs.cursor.com/en/agent/overview): plans and builds multi-file code projects
+- [Claude Code](https://docs.anthropic.com/en/docs/claude-code/setup): terminal-based coding assistant
+- [Gemini CLI](https://github.com/google-gemini/gemini-cli): terminal-based coding assistant
+- [Codex CLI](https://developers.openai.com/codex/cli/): terminal-based coding assistant
 
 ---
 
-## Additional Resources
+## Understanding Agentic AI (2025 → Now)
 
-### 📽️ Demo & Discussion Videos
+You can think of agentic AI as systems that can accept a goal, plan multi-step work, call tools to perform actions (search, browse, code, apps), and return deliverables with minimal supervision. Some of the key areas of progress in recent months that have enabled this behavior include things like **tool calling**, **long-context reasoning**, and **planning**. These are crucial elements required to function as an assistant that _works on your behalf_.
 
-- [Project Astra: Exploring a Universal AI Assistant with Greg Wayne](https://www.youtube.com/watch?v=ctWfv4WUp2I)  
-- [Project Mariner | Google’s AI Agent](https://www.youtube.com/watch?v=2XJqLPqHtyo) 
-- [Gemini 2.0 Flash: Multimodal live streaming](https://www.youtube.com/watch?v=9hE5-98ZeCg)
-- [OpenAI advanced voice mode with video](https://www.youtube.com/watch?v=NIQDnWlwYyQ&t=1s)  
-- [Claude computer use demo](https://www.youtube.com/watch?v=ODaHJzOyVCQ)  
-- [Claude computer use demo 2](https://www.youtube.com/watch?v=jqx18KgIzAE)
+Agentic systems differ from chatbots by (1) **planning** creating and keeping track of multi-step workflows, (2) **calling tools** autonomously (browsers, code runners, APIs, MCP), and (3) **autonomously completing deliverables** (docs, code, emails). Since early 2025, mainstream tools added:
+
+- **Agentic research modes** embedded in consumer UIs (ChatGPT, Gemini, Perplexity).
+- **Practical computer use** with permission prompts and safer sandboxes.
+- **Coding agents** with plan/execute/validate loops in common developer tools.
+
+**What's Actually Happening Behind the Scenes**
+
+When you give an agent a task like "research sustainable agriculture and create a presentation," it might seem like magic at first, but really it's a structured process. At a high level, the AI breaks your request into smaller steps (search for recent studies, find expert opinions, identify key trends), executes each step using available tools (web search, document creation, image generation), and keeps track of progress while adapting the plan based on what it discovers. Think of it like having a very methodical research assistant who can work with multiple browser tabs, take notes, and create documents simultaneously—except it can do this much faster and doesn't get tired or distracted. Unlike the conversational AI we've been used to, these systems can actually _do things_ in the digital world, not just talk about doing them.
+
+---
+
+## 📝 Challenge (doable with free or common accounts)
+
+> Focus on _handing off a task_ and observing planning + tool use. It is highly encouraged to adapt any of these ideas to meet your needs. Pro Tip: use one of the site's chat assistants to help you brainstorm other ideas to pursue!
+
+**A) Research (any one)**
+
+- "Create a 2-week self-guided module on _[topic]_ with readings, an activity per day, and a 1-page rubric. Provide sources with links."  
+  Try in **ChatGPT Deep Research**, **Gemini Deep Research**, and **Perplexity Deep Research**; compare depth, citations, and follow-ups.
+
+- "Research the current job market for _[your field]_ including salary ranges, in-demand skills, and growth projections. Create a career development plan with actionable steps."
+
+**B) Computer Use (any one)**
+
+- "Find events related to _[your interests]_ happening in _[your city]_ over the next month, compare options, and create a Google Doc with the top 5 choices including dates, costs, and why I'd be interested."
+
+- "Help me find and compare 3 professional development courses on _[topic]_, check reviews and pricing, then draft an email to my supervisor requesting funding."
+
+- "Research and book a venue for a 30-person workshop on _[date]_, compare availability/price, and draft a booking email in my professional tone."
+
+**C) Coding (for the curious/adventurous)**
+
+**Practical Tools for Daily Life:**
+
+- "Create a personalized student randomizer for cold calling. I want to upload a CSV with names and persist the data so I can equitably call on students throughout the semester."
+- "Help me create a spaced repetition learning app for topics I'm currently studying, with progress tracking and customizable review intervals."
+- "Build a Google App script that watches a directory for new documents and auto-summarizes them as they arrive, organizing summaries by date and topic."
+
+**Fun & Games:**
+
+- "Help me create a multiplayer trivia game focused on _[class topic]_ that my project team can play during breaks to learn while having fun."
+
+Try these in **Replit Agent**, **Cursor Agent**, or one of the CLI tools depending on your comfort level.
+
+---
+
+## 💡 Tips for Success
+
+- **Start Small**: Give a clear goal (“Deliver a slide outline + a 1-page handout”), not just a topic.
+- **Iterate**: Ask the agent to _show its plan first_, then approve/refine before execution.
+- **Compare**: Run the same task in two tools; discuss differences in planning, citations, and final artifacts.
+
+---
+
+## 🔒 Privacy & Security Considerations
+
+**Environment Check**
+
+- What's visible on camera/screen? Who can overhear? Are any sensitive documents visible?
+
+**Know Your Data**
+
+- These tools learn from interactions to improve their systems. Before sharing anything, think: "Would I be comfortable if this conversation helped train future AI models?"
+- Never use 'Confidential' or 'Strictly Confidential' data (as defined by [BC's Data Security Policy](<https://www.bc.edu/content/dam/files/offices/policies/pdf/policies/2018/Data%20Security%20Policy%20rev%206%205%2018%20(00013718xC24C8).pdf>)) in any online AI tool without university review.
+
+**Getting Started Safely**
+
+- **Test with generic or low stakes examples first**: Try "Create a lesson plan for teaching [insert topic]" or "Plan a weeked vacation for 3 to go leaf peeping in New England starting from Upstate New York." before using your actual course materials.
+- **Use privacy controls**: Most consumer AI tools now offer options to [control your data](https://www.bc.edu/content/bc-web/offices/its/about/its-news/2025/privacy-controls-ai-tools.html) - turn off training, delete conversations, or use temporary sessions.
+- **Start with observation**: For computer use agents, watch what they plan to do before giving permission. Most tools show you their intended actions and ask for approval.
+
+**Setting Your Comfort Level**
+
+- **Full autonomy**: Research tasks using publicly available information
+- **Step-by-step approval**: Computer use tasks where you approve each action
+- **Human-in-the-loop**: Coding projects where you review all changes before running
+
+The goal is to explore these capabilities while being thoughtful about what you share and how much control you maintain.
+
+---
+
+## 🤔 A Moment for Reflection
+
+Integrating powerful AI agents into our work and learning requires more than just technical skill—it calls for thoughtful reflection. As we delegate tasks and partner with these tools, it's crucial to consider _how_ we use them, not just _what_ they can do for us.
+
+Before you dive deeper, take a moment to consider these questions:
+
+**On Delegation and Discernment:**
+
+- **What is worthy of your attention?** Which tasks are tedious and suitable for offloading to an AI agent, freeing you up for more meaningful work? Conversely, which tasks are core to your learning, your intellectual formation, or your professional contribution that should remain human-led or human-only?
+- **Are you augmenting or abdicating?** Is the agent acting as a partner that helps you think better, or is it a substitute for your own critical thinking and effort? How can you ensure you are using these tools to enhance your skills, not let them atrophy? Remember, no matter what, you are solely responsible for AI generated output should you choose to use it in any way.
+
+**On Diligence and Collaboration:**
+
+- **What does it mean to be a "good collaborator" with an AI?** This requires diligence. It means understanding the tool's limitations, actively verifying its outputs, and taking responsibility for the final product. How will you hold yourself accountable for the work you produce with an AI assistant?
+- **Where should you be most active?** In any process, there are moments for planning, execution, and review. Where is your human insight most valuable? Is it in setting the initial goal and constraints? In reviewing the agent's plan? In critically evaluating the final output?
+
+**On Community and Impact:**
+
+- **How does your use of AI affect others?** Consider the impact on your classmates, colleagues, and the broader community. Are you using these tools in a way that is fair, honest, and respects the intellectual contributions of others?
+
+There are no easy answers, but engaging with these questions will help you develop a framework for using AI not just effectively, but also wisely and ethically.

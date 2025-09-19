@@ -16,20 +16,13 @@ tags: ["AI Literacy", "Generative AI"]
 
 ### 🛠️ Tools:
 
-- Reasoning model options (at least one):
-  - [OpenAI o1 series](https://chat.openai.com/) (requires subscription)
-  - [OpenAI o3 mini](https://chat.openai.com) (limited free tier access)
-  - [DeepSeek R1](https://chat.deepseek.com/)
-  - [Google Gemini 2.5 Pro](https://gemini.google.com)
-  - [Google Gemini Flash 2.0 Thinking](https://gemini.google.com/)
-  - [Claude Sonnet 4 with Extended Thinking](https://claude.ai/) (Requires subscription)
-- Standard chat model options:
-  - [Claude Sonnet 4](https://claude.ai/) (free tier)
-  - [ChatGPT (GPT-4o)](https://chat.openai.com/) (free tier)
-  - [Gemini](https://gemini.google.com/) (standard mode)
-  - [Microsoft Copilot](https://copilot.microsoft.com/)
+All model labs now offer some version of advanced reasoning capabilities. The level of reasoning you have access to depends on factors like the platform, subscription level (free vs. paid), or may even be automatically selected for you based request you send. Here are some of the latest reasoning models from popular AI companies.
 
-(**Note**: Model names and access tiers can change rapidly. Always check the providers latest offerings)
+- **OpenAI**: GPT-5, GPT-5 Thinking, GPT-5 Pro
+- **Google**: Gemini 2.5 Flash, Gemini 2.5 Pro
+- **Anthropic**: Claude 4 Sonnet, Claude 4.1 Opus
+
+> **Note**: All model labs offer limited free access to their most advanced reasoning models. For higher usage limits, consider paying for a subscription to a chat assistant platform of your choosing.
 
 ---
 
@@ -49,17 +42,17 @@ It's helpful to think of these types as existing on a spectrum. While we categor
 
 ### A Simple Comparison
 
-**Chat Models** (like standard ChatGPT, Claude, Gemini):
+**Chat Models** (like the free tiers of ChatGPT, Claude, and Gemini):
 
 - Optimized for interactive, conversational experiences
 - Quick responses (seconds)
 - Excel at creative tasks, basic information retrieval, and iterative refinement
 - Often benefit from explicit, detailed instructions
 
-**Reasoning Models** (like OpenAI's o-series, Claude with Extended Thinking):
+**Reasoning Models / Advanced Models** (like OpenAI's latest GPT models, Anthropic's Claude 4 series, and Google's Gemini 2.5 series):
 
-- Optimized for deep analysis and complex problem-solving
-- Longer response times (often minutes) due to internal deliberation
+- Optimized for deep analysis and complex problem-solving. It's worth noting that most modern models are now hybrid models with strong reasoning capabilities.
+- Longer response times (sometimes minutes) due to internal deliberation
 - Excel at multi-step reasoning, handling ambiguity, and analyzing complex information
 - Often perform best with clear goals but fewer constraints on their reasoning process
 

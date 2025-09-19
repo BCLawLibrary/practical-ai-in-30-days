@@ -18,40 +18,34 @@ tags:
 
 Learn how AI-powered search tools differ from traditional search engines and understand their strengths and limitations.
 
-### 🛠️ Tools:
+### 🛠️ Tools to Try:
 
-- **AI Search Engines:**
-  - [Perplexity](https://perplexity.ai) (3 Pro searches free daily)
-  - [ChatGPT](https://chatgpt.com) (with Browse capability)
+- [Gemini](https://gemini.google.com)
+- [ChatGPT](https://chatgpt.com)
+- [Claude](https://claude.ai)
+- [Perplexity](https://perplexity.ai)
 
 ---
 
 ### 📝 Knowledge Cutoffs:
 
-Because of the nature of the training process AI language models have a natural knowledge cutoff. This means they do not know about events or data beyond these points. Here are some current knowledge cutoffs:
+Because of the nature of the training process, AI language models have a "knowledge cutoff." This means they are not aware of events or data that have occurred after their last training date. While these dates are constantly being updated with new model releases, the concept of a knowledge cutoff is an important limitation to be aware of.
 
-- **GPT-4.5:** [Sep 30, 2023](https://platform.openai.com/docs/models/gpt-4.5-preview)
-- **GPT-4o:** [June 2024](https://help.openai.com/en/articles/9624314-model-release-notes#h_826f21517f)
-- **Claude Opus 4:** [March 2025](https://docs.anthropic.com/en/docs/about-claude/models/overview#model-comparison-table)
-- **Claude Sonnet 4:** [March 2025](https://docs.anthropic.com/en/docs/about-claude/models/overview#model-comparison-table)
-- **Gemini 2.5 Pro:** [January 2025](https://ai.google.dev/gemini-api/docs/models#gemini-2.5-pro)
-- **Gemini 2.5 Flash:** [January 2025](https://ai.google.dev/gemini-api/docs/models#gemini-2.5-flash)
-
-These cutoffs highlight why AI-powered search tools like Perplexity, ChatGPT and other tools with browse capabilities are powerful — they combine AI’s reasoning skills with access to up-to-date information.
+This is why AI-powered search tools (and chat assistants with live web access) are so powerful—they can combine the reasoning and summarization abilities of a large language model with up-to-the-minute information from the internet.
 
 #### Getting Past Knowledge Cutoffs
 
-A knowledge cutoff doesn't prevent a model from discussing current topics intelligently. You just have to be aware that for bleeding-edge content, it's best if you supply the specific information, articles, or data related to your query as part of your chat to give the AI context.
+However, a knowledge cutoff doesn't prevent a model from discussing current topics. You just have to be aware that for bleeding-edge content, it's best if you supply the specific information, articles, or data related to your query as part of your chat to give the AI context.
 
-Alternatively, if you know a model has internet search capabilities provided by the features offered in the platform, it may intelligently use the internet to answer your question. You can also directly ask an AI chat assistant with these capabilities to use it's search tool if it's available. This is often achieved by enabling the search feature in the UI of the application or by simply asking it to use search as part of your prompt.
+Alternatively, if you know a model has internet search capabilities provided by the features offered in the platform, it may intelligently use the internet to answer your question. You can also directly ask an AI chat assistant with these capabilities to use it's search tool if it's available. This is often achieved by enabling the search feature in the UI of the application or by simply asking it to use web search as part of your prompt.
 
 Here are some of the platforms that offer internet search:
 
 - **ChatGPT:** Great for conversational AI and browsing capabilities.
 - **Google Search with AI Overview:** Integrates AI summaries into traditional Google search.
 - **Perplexity:** Searches the internet to give you an accessible, conversational, and verifiable answer.
-  - Note: Perplexity uses one of the common foundational models to summarize and synthesize material. You can choose GPT-4o, Claude, etc. in your settings (a paid plan is required to choose).
-- **Gemini:** Evaluate and cite responses with the "Double Check Responses" feature.
+  - Note: Perplexity uses one of the common foundational models to summarize and synthesize material. You can choose from different foundational models in your settings (a paid plan is required to choose).
+- **Google's chat assistant Gemini:** Evaluate and cite responses with the "Double Check Responses" feature.
 - **Mistral:** A French model that has internet search capabilities.
 - **DeepSeek:** A Chinese model that has internet search capabilities.
 - **Grok:** Has internet access and can intelligently search the web to fill missing context.

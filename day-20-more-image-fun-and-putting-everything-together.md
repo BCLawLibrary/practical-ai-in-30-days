@@ -20,10 +20,11 @@ Explore advanced image generation tools and techniques, then apply your AI skill
 
 ### Free Options
 
-* **Imagen 3**: Google's latest image generator. Available via [Gemini](https://gemini.google.com) or [Labs](https://labs.google/fx).  
-* **Whisk**: A playful new tool from Google. Explore it at [Labs](https://labs.google/fx).  
-* **GPT-4o Image Generation**: Available in [ChatGPT](https://chat.openai.com) 
-* **Dalle 3**: Available in [Copilot](https://copilot.microsoft.com) 
+* **Native Image Generation**: Most modern chat assistants have native image generation capabilities. You can access them through tools like:
+    * [Gemini](https://gemini.google.com)
+    * [ChatGPT](https://chat.openai.com)
+    * [Copilot](https://copilot.microsoft.com)
+* **Creative Tools**: For more advanced or playful image generation, you can explore tools like [Google's Whisk](https://labs.google/fx/tools/whisk). 
 
 ### Paid Options
 
