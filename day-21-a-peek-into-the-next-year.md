@@ -33,7 +33,7 @@ These tools offer multi-step research, browsing, and report writing.
 - [ChatGPT Agent Mode](https://openai.com/index/introducing-chatgpt-agent/): handles complex tasks from start to finish using its own computer
 - [Perplexity Comet](https://www.perplexity.ai/hub/blog/introducing-comet): AI-powered browser assistant
 - [Claude for Chrome](https://www.anthropic.com/news/claude-for-chrome): AI-powered browser assistant
-- [Claude File Creationg](https://www.anthropic.com/news/create-files): Claude can now work with you to create Excel spreadsheets, documents, PowerPoint slide decks, and PDFs
+- [Claude File Creation](https://www.anthropic.com/news/create-files): Claude can now work with you to create Excel spreadsheets, documents, PowerPoint slide decks, and PDFs
 
 ### Coding Agents
 
@@ -52,19 +52,35 @@ These tools offer multi-step research, browsing, and report writing.
 
 ---
 
-## Understanding Agentic AI (2025 → Now)
+## Understanding Agentic AI (Early 2025 → Now)
 
-You can think of agentic AI as systems that can accept a goal, plan multi-step work, call tools to perform actions (search, browse, code, apps), and return deliverables with minimal supervision. Some of the key areas of progress in recent months that have enabled this behavior include things like **tool calling**, **long-context reasoning**, and **planning**. These are crucial elements required to function as an assistant that _works on your behalf_.
+You can think of agentic AI as systems that can accept a goal, plan multi-step work, call tools to perform actions (search, browse, code, apps), and return deliverables with minimal supervision. Some of the key areas of progress in recent months that have enabled this behavior include things like **tool use capabilities**, **long-context reasoning**, and **planning** tracking and execution capabilities.
 
-Agentic systems differ from chatbots by (1) **planning** creating and keeping track of multi-step workflows, (2) **calling tools** autonomously (browsers, code runners, APIs, MCP), and (3) **autonomously completing deliverables** (docs, code, emails). Since early 2025, mainstream tools added:
+Agentic systems differ from chatbots by:
+
+1. **Planning**: Agents creating and keep track of multi-step workflows
+2. **Calling tools**: Agents can use custom functionality either provided by the model companies, third-parties, or even written by you to autonomously control computer environments, run custom code, make calls to third-party or internal [APIs](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Client-side_APIs), or interact with [MCP](https://modelcontextprotocol.io/docs/getting-started/intro) servers for richer context or additional functionality
+3. **Autonomously complete deliverables**: With minimal supervision, agents can research and generate documents, write and send emails, check your calendar, and more.
+
+These are crucial elements required to function as an assistant that _works on your behalf_. Since early 2025, mainstream tools added:
 
 - **Agentic research modes** embedded in consumer UIs (ChatGPT, Gemini, Perplexity).
-- **Practical computer use** with permission prompts and safer sandboxes.
-- **Coding agents** with plan/execute/validate loops in common developer tools.
+- **Practical computer use** controlling a browser or computer in a sandboxed environment.
+- **Coding agents** with the ability to plan, execute, write, and validate code in common developer tools and workflows.
 
 **What's Actually Happening Behind the Scenes**
 
-When you give an agent a task like "research sustainable agriculture and create a presentation," it might seem like magic at first, but really it's a structured process. At a high level, the AI breaks your request into smaller steps (search for recent studies, find expert opinions, identify key trends), executes each step using available tools (web search, document creation, image generation), and keeps track of progress while adapting the plan based on what it discovers. Think of it like having a very methodical research assistant who can work with multiple browser tabs, take notes, and create documents simultaneously—except it can do this much faster and doesn't get tired or distracted. Unlike the conversational AI we've been used to, these systems can actually _do things_ in the digital world, not just talk about doing them.
+When you give an agent a task like "research sustainable agriculture and create a presentation," it kicks off a very familiar process to what you would expect a human would do. For example, the AI might break your request into smaller steps (search for recent studies, find expert opinions, identify key trends), then proceed to execute each step using available tools (web search, document creation, data analysis), and all the while, keeps track of progress sometimes even adapting the plan based on what it discovers.
+
+Think of it like having a very methodical research assistant who can work with multiple browser tabs, take notes, and create documents simultaneously. Some services even orchestrate multiple agents at once, speeding up the process and bringing the necessary context back to the managing agent to review, synthesize and attempt to complete the task it was originally set out to do! Unlike the conversational AI we've been used to, these systems can actually _do things_ in the digital world, not just talk about doing them.
+
+**The Cost of Vague Instructions**
+
+Equally important is that these agentic workflows take considerably more time. Instead of instantly streaming the response back to you, it could take upwards of 20-30 minutes to perform the request. This is important to understand for a few reasons. First, because of the literal processing involved. Second, and more critically, it highlights the importance of giving clear instructions. If you give a vague or confusing task to a human assistant for a long-term project, you risk receiving subpar results, wasting both their time and yours.
+
+With an AI agent, that risk is magnified. Because of their autonomous nature, mistakes made early on can compound, and there are fewer opportunities to intervene and course-correct. The result can be wasted processing time and, more importantly, wasted personal time reviewing a flawed deliverable. Clear, specific goals aren't just a good habit; they are essential for successful collaboration with agentic AI.
+
+Don't be afraid to invest time upfront to craft specific, goal-oriented prompts. Think of it as the difference between telling someone "plan something fun for this weekend" versus "find 3 outdoor activities within 2 hours of Boston for this Saturday, consider a $200 budget and rainy weather backup options."
 
 ---
 
@@ -124,7 +140,7 @@ Try these in **Replit Agent**, **Cursor Agent**, or one of the CLI tools dependi
 
 **Getting Started Safely**
 
-- **Test with generic or low stakes examples first**: Try "Create a lesson plan for teaching [insert topic]" or "Plan a weeked vacation for 3 to go leaf peeping in New England starting from Upstate New York." before using your actual course materials.
+- **Test with generic or low stakes examples first**: Try "Create a lesson plan for teaching [insert topic]" or "Plan a weekend vacation for 3 to go leaf peeping in New England starting from Upstate New York." before using your actual course materials.
 - **Use privacy controls**: Most consumer AI tools now offer options to [control your data](https://www.bc.edu/content/bc-web/offices/its/about/its-news/2025/privacy-controls-ai-tools.html) - turn off training, delete conversations, or use temporary sessions.
 - **Start with observation**: For computer use agents, watch what they plan to do before giving permission. Most tools show you their intended actions and ask for approval.
 
@@ -147,7 +163,7 @@ Before you dive deeper, take a moment to consider these questions:
 **On Delegation and Discernment:**
 
 - **What is worthy of your attention?** Which tasks are tedious and suitable for offloading to an AI agent, freeing you up for more meaningful work? Conversely, which tasks are core to your learning, your intellectual formation, or your professional contribution that should remain human-led or human-only?
-- **Are you augmenting or abdicating?** Is the agent acting as a partner that helps you think better, or is it a substitute for your own critical thinking and effort? How can you ensure you are using these tools to enhance your skills, not let them atrophy? Remember, no matter what, you are solely responsible for AI generated output should you choose to use it in any way.
+- **Are you augmenting or abdicating?** Is the agent acting as a partner that helps you think better, or is it a substitute for your own critical thinking and effort? How can you ensure you are using these tools to enhance your skills, not let them atrophy? Remember, no matter what, you are ultimately responsible for AI generated output you choose to use.
 
 **On Diligence and Collaboration:**
 
